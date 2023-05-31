@@ -1,0 +1,617 @@
+[
+   
+        {
+            "secnumber": 1,
+            "header": "Preliminary",
+            "section": {
+                "main": {
+                    "sectionheader": "Application",
+                    "content": [
+                        "(1) This Act applies to cybersecurity activities in the country.",
+                        "(2) This Act shall be read together with other relevant enactments including the \n (a) Criminal Offences Act, 1960 (Act 29); \n (b) Evidence Act, 1975 (N.R.C.D. 323); \n (c) Foreign Exchange Act, 2006 (Act 723);\n (d) Anti-Money Laundering Act, 2008 (Act 749);\n(e) Anti-Terrorism Act, 2008 (Act 762);\n(f) Electronic Transactions Act, 2008 (Act 772);\n(g) Electronic Communications Act, 2008 (Act 775);\n(h) Economic and Organised Crime Office Act, 2010 (Act 804); (i) Mutual Legal Assistance Act, 2010 (Act 807);\n(j) Data Protection Act, 2012 (Act 843); and\n(k) Payment Systems and Services Act, 2019 (Act 987)."
+                    ]
+                }
+            }
+        },
+        {
+            "secnumber": 2,
+            "header": "Establishment of the Cyber Security Authority",
+            "section": {
+                "main": [
+                    {
+                        "sectionheader": "Cyber Security Authority",
+                        "content": [
+                            "(1) There is established by this Act the Cyber Security Authority asa body corporate.",
+                            "(2) For the performance of functions, the Authority may acquire and hold property, dispose of property and enter into a contract or any other related transaction",
+                            "(3) Where there is a hindrance to the acquisition of land, the land may be acquired for the Authority under the State Lands Act, 1962 (Act125) and the cost shall be borne by the Authority."
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "secnumber": 3,
+            "header": "Objects of the Authority",
+            "section": {
+                "main": [
+                    {
+                        "sectionheader": "Cyber Security Authority",
+                        "content": [
+                            "The objects of the Authority are to: \n (a) regulate cybersecurity activities in the country;",
+                            "(b) prevent, manage and respond to cybersecurity threats and cybersecurity incidents;",
+                            "(c) regulate owners of critical information infrastructure in respect of cybersecurity activities, cybersecurity service providers and practitioners in the country;",
+                            "(d) promote the development of cybersecurity in the country to ensure a secured and resilient digital ecosystem;",
+                            "(e) establish a platform for cross-sector engagement on matters of cybersecurity for effective co-ordination and co-operation between key public institutions and the private sector;",
+                            "(f) create awareness of cybersecurity matters; and",
+                            "(g) collaborate with international agencies to promote the  cybersecurity of the country"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "secnumber": 4,
+            "header": "Functions of the Authority",
+            "section": {
+                "main": [
+                    {
+                        "content": [
+                            "To achieve the objects under section 3, the Authority shall \n",
+                            "(a) advise the Government and public institutions on all matters related to cybersecurity in the country;",
+                            "(b) promote the security of computers and computer system in the country;",
+                            "(c) monitor cybersecurity threats within and outside the country;",
+                            "(d) establish codes of practice and standards for cybersecurity, and monitor compliance with the codes of practice and standards by the public and private sector owners of critical information infrastructure;",
+                            "(e) establish standards for certifying cybersecurity products of services;",
+                            "(f) Certify cybersecurity products or services in accordance with the standards established pursuant to paragraph (e);",
+                            "(g) take measures in response to cybersecurity incidents that occur within and outside the country which may threaten \n (i) national security; \n (ii) the defence of the country; \n (iii) the economy of the country; \n (iv) international relations between the State and other countries; \n (v) health of the public; \n (vi) the safety of life and property; and \n (vii) any other sector of the country likely to be affected by a cybersecurity incident;",
+                            "(h) identify and designate critical information infrastructure and advise the Minister on the regulation of owners of critical information infrastructure to protect the critical information infrastructure of the country, in accordance with international best practice;",
+                            "(i) provide technical support for law enforcement agencies and security agencies to prosecute cyber offenders;",
+                            "(j)  promote the protection of children online;",
+                            "(k) issue licences for the provision of cybersecurity services specified in the First Schedule;",
+                            "(l) establish standards for the provision of cybersecurity services specified in the First Schedule;",
+                            "(m) support technological advances and research and development in cybersecurity to ensure a resilient and sustainable digital ecosystem;",
+                            "(n) deploy strategies to implement research findings towards the promotion of the cybersecurity of the country;",
+                            "(o) establish and maintain a framework for disseminating information on cybersecurity;",
+                            "(p) submit periodic reports on the state of cybersecurity in the country to the Minister;",
+                            "(q) educate the public on matters related to cybercrime and cybersecurity;",
+                            "(r) build the capacity of persons in the public or private sector in matters related to cybersecurity;",
+                            "(s) collaborate with law enforcement agencies to intercept or disable a digital technology service or product whose operation undermines the cybersecurity of the country;",
+                            "(t) establish and maintain a national register of \n (i) identified and potential risks; \n(ii) the levels and impact of risks; \n(iii) owners of critical information infrastructure; and \n(iv) any other persons licensed or accredited to carry out cybersecurity activities; and",
+                            "(u) perform any other functions which are ancillary to the objects of the Authority."
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "secnumber": 5,
+            "header": "Establishment of the Cyber Security Authority",
+            "section": {
+                "main": [
+                    {
+                        "sectionheader": "Cyber Security Authority",
+                        "content": [
+                            "(1) There is established by this Act the Cyber Security Authority asa body corporate.",
+                            "(2) For the performance of functions, the Authority may acquire and hold property, dispose of property and enter into a contract or any other related transaction",
+                            "(3) Where there is a hindrance to the acquisition of land, the land may be acquired for the Authority under the State Lands Act, 1962 (Act125) and the cost shall be borne by the Authority."
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "secnumber": 5,
+            "header": "Governing body of the Authority",
+            "section": {
+                "main": [
+                    {
+                        "sectionheader": "Governance of the Authority",
+                        "content": [
+                            "(1) The governing body of the Authority is a Board consisting of \n (a)  the Ministers responsible for \n (i) Communications; \n (ii) the Interior; \n   (iii) National Security; and \n  (iv) Defence; \n (b) the Director-General of the Authority;\n (c) three persons from the Industry Forum nominated by the Industry Forum; and \n (d) three other persons nominated by the President on the advice of the Minister, at least two of whom are women.",
+                            "(2) The President shall nominate the Minister as chairperson of the Board.",
+                            "(3) The chairperson and other members of the Board shall be appointed by the President in accordance with article 70 of the Constitution."
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "secnumber": 6,
+            "header": "Functions of the Board",
+            "section": {
+                "main": [
+                    {
+                        "sectionheader": "Governance of the Authority",
+                        "content": []
+                    }
+                ]
+            }
+        },
+        {
+            "secnumber": 7,
+            "header": "Tenure of office of members of the Board",
+            "section": {
+                "main": [
+                    {
+                        "sectionheader": "Governance of the Authority",
+                        "content": []
+                    }
+                ]
+            }
+        },
+        {
+            "secnumber": 8,
+            "header": "Tenure of office of members of the Board",
+            "section": {
+                "main": [
+                    {
+                        "sectionheader": "Governance of the Authority",
+                        "content": []
+                    }
+                ]
+            }
+        },
+        {
+            "secnumber": 9,
+            "header": "Disclosure of interest",
+            "section": {
+                "main": [
+                    {
+                        "sectionheader": "Governance of the Authority",
+                        "content": []
+                    }
+                ]
+            }
+        },
+        {
+            "secnumber": 10,
+            "header": "Establishment of committees",
+            "section": {
+                "main": [
+                    {
+                        "sectionheader": "Governance of the Authority",
+                        "content": []
+                    }
+                ]
+            }
+        },
+        {
+            "secnumber": 11,
+            "header": "Allowances",
+            "section": {
+                "main": [
+                    {
+                        "sectionheader": "Governance of the Authority",
+                        "content": [
+                            " Members of the Board and members of a committee of the Board shall be paid allowances determined by the Minister in consultation with the Minister responsible for Finance."
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "secnumber": 12,
+            "header": "Policy directives",
+            "section": {
+                "main": [
+                    {
+                        "sectionheader": "Governance of the Authority",
+                        "content": [
+                            " To achieve the object of this Act, the Minister may give directives in writing on matters of policy to the Board and the Board shall comply"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "secnumber": 13,
+            "header": "Joint Cybersecurity Committee",
+            "section": {
+                "main": [
+                    {
+                        "sectionheader": "Governance of the Authority",
+                        "content": [
+                            "(1) There is established by this Act a Joint Cybersecurity Committee.",
+                            "(2) The Joint Cybersecurity Committee consists of \n(a) a Justice of the Superior Court of Judicature with the requisite knowledge and skills in cybercrime and cybersecurity matters, nominated by the Chief Justice; \n (b) the Director-General of the National Information Technology Agency or a representative of the Director General with the requisite knowledge and skills in cybercrime and cybersecurity matters, nominated by the Director-General; \n (c) the Director-General of the National Communications Authority or a representative of the Director-General with the requisite knowledge and skills in cybercrime and cybersecurity matters, nominated by the Director-General; \n (d) the Executive Director of the Data Protection Commission or a representative of the Executive Director with the requisite knowledge and skills in cybercrime and  cybersecurity matters, nominated by the Executive Director;\n(e) the Governor of the Bank of Ghana or a representative of the Governor with the requisite knowledge and skills in cybercrime and cybersecurity matters, nominated by the Governor;\n(f) the Chief Executive Officer of the Financial Intelligence Centre or a representative of the Chief Executive Officer with the requisite knowledge and skills in cybercrime and cybersecurity matters, nominated by the Chief Executive Officer;\n(g) the Director of the Bureau of National Investigations or a representative of the Director with the requisite knowledge and skills in cybercrime and cybersecurity matters, nominated by the Director;\n(h) the Executive Director of the Economic and Organised Crime Office or a representative of the Executive Director with the requisite knowledge and skills in cybercrime and cybersecurity matters, nominated by the Executive Director;\n(i) the Director-General of the Criminal Investigation Department of the Ghana Police Service or a representative of the Director-General with the requisite knowledge and skills in cybercrime and cybersecurity matters, nominated by the Inspector-General of Police;\n(j) the Director of Operations of the National Security Council Secretariat or a representative of the Director with the requisite knowledge and skills in cybercrime and cybersecurity matters, nominated by the Head of the National Security Council Secretariat;\n(k) the Director of the Bureau of National Communications or a representative of the Director with the requisite knowledge and skills in cybercrime and cybersecurity matters, nominated by the Director;\n(l) the Director-General of Defence Intelligence or a representative of the Director-General with the requisite knowledge and skills in cybercrime and cybersecuritymatters, nominated by the Chief of Defence Staff;\n(m) the Comptroller-General of the Immigration Service or a representative of the Comptroller-General with the requisite knowledge and skills in cybercrime and cybersecurity matters, nominated by the Comptroller-General;\n(n) the Director of External Intelligence or a representative of the Director with the requisite knowledge and skills in cybercrime and cybersecurity matters, nominated by the Chief of Defence Staff;\n(o) a representative of the Ghana Armed Forces not below the rank of a Colonel with the requisite knowledge and skills in cybercrime and cybersecurity matters, nominated by the Chief of Defence Staff;\n(p) the Director of the Public Prosecutions Division of the Office of the Attorney-General or a representative of the Director with the requisite knowledge and skills in cybercrime and cybersecurity matters, nominated by the Attorney-General;\n(q) the Director-General of the Authority; and\n(r) the Executive Director of the Ghana Domain Name Registry or a representative of the Executive Director with the requisite knowledge and skills in cybercrime and cybersecurity matters, nominated by the Executive Director ",
+                            "(3) A nomination under subsection (2) shall be made in consultation with the Authority.",
+                            "(4) The President shall appoint the members of the Joint Cybersecurity Committee.",
+                            "(5) The Director-General of the Authority shall preside at meetings of the Joint Cybersecurity Committee and in the absence of the Director General, a member of the Committee elected by the members present from among the number shall preside.",
+                            "(6) The Joint Cybersecurity Committee shall meet at a time and place determined by the Director-General.",
+                            "(7) The quorum at a meeting of the Joint Cybersecurity Committee is ten members " ,
+                            "(8) Matters before the Joint Cybersecurity Committee shall be decided by a majority of the members present and voting and in the event of an equality of votes, the person presiding shall have a casting vote.",
+                            "(9) The Joint Cybersecurity Committee shall regulate the procedure for meetings of the Committee.",
+                            "(10) Members of the Joint Cybersecurity Committee shall be paid allowances determined by the Minister in consultation with the Minister responsible for Finance.",
+                            "(11) The Joint Cybersecurity Committee may establish sub-committees comprising members of the Joint Cybersecurity Committee and non-members, including representatives from the private sector, to perform a function of the Joint Cybersecurity Committee.",
+                            "(12) A sub-committee established under subsection (10) shall meet regularly for the conduct of business where the exigencies require.",
+                            "(13) The Joint Cybersecurity Committee shall have a Secretariat at the Headquarters of the Authority."
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "secnumber": 14,
+            "header": "Functions of the Joint Cybersecurity Committee",
+            "section": {
+                "main": [
+                    {
+                        "sectionheader": "Governance of the Authority",
+                        "content": [
+                            "(1) The Joint Cybersecurity Committee shall collaborate with the Authority and the sectors or institutions represented on the Committee for the implementation of relevant cybersecurity measures.",
+                            "(2) The Joint Cybersecurity Committee is answerable to the Board in the performance of functions of office. "
+                        ]
+                    }
+                ]
+            }
+        },
+
+        {
+            "secnumber": 15,
+            "header": "Appointment of Director-General",
+            "section": {
+                "main": [
+                    {
+                        "sectionheader": "Administrative Provisions",
+                        "content": [
+                            "(1) The President shall, in accordance with article 195 of the Constitution, appoint a Director-General for the Authority.",
+                            "(2) The Director-General shall hold office on the terms and conditions specified in the letter of appointment.",
+                            "(3) A person is qualified for appointment as a Director-General if that person \n (a) has the relevant qualifications and expertise in cybersecurity matters; and \n(b) is a person of proven integrity."
+
+                        ]
+                    }
+                ]
+            }
+        },
+
+        {
+            "secnumber": 16,
+            "header": "Functions of the Director-General",
+            "section": {
+                "main": [
+                    {
+                        "sectionheader": "Administrative Provisions",
+                        "content": [
+                            "(1) The Director-General is responsible for the day-to-day administration and management of the Authority and is answerable to the Board in the performance of functions under this Act.",
+                            "(2) The Director-General is responsible for the implementation of the decisions of the Board.",
+                            "(3) The Director-General may delegate a function to an officer of the Authority but shall not be relieved of the ultimate responsibility for the performance of the delegated function."
+                            
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "secnumber": 17,
+            "header": "Secretary to the Board",
+            "section": {
+                "main": [
+                    {
+                        "sectionheader": "Administrative Provisions",
+                        "content": [
+                            "(1) The Authority shall designate a person appointed under section 20 as the Secretary to the Board.",
+                            "(2) A person shall not be engaged as Secretary to the Board unless that person has \n (a) a professional qualification that equips that person with the requisite knowledge and experience to perform the functions under subsection (3); or \n (b) by virtue of an academic qualification, or as a member of a professional body, is considered by the Board as capable of performing the functions of the Secretary.",
+                            "(3) The Secretary shall subject to the directives of the Board \n (a) arrange the business of the Board; \n(b) keep the minutes of the meetings and decisions of the Board in the form required by the Board; and \n(c) perform any other functions that the Board or the Director General may direct.",
+                            "(4) The Secretary is answerable to the Board in the performance of the functions of office."
+                            
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "secnumber": 18,
+            "header": "Appointment of inspectors",
+            "section": {
+                "main": [
+                    {
+                        "sectionheader": "Administrative Provisions",
+                        "content": [
+                            "(1) The President shall appoint inspectors for the Authority.",
+                            "(2) An inspector shall hold office on the terms and conditions specified in the letter of appointment and the emoluments of the inspector shall be charged on the funds of the Authority.",
+                            "(3) A person is qualified for appointment as an inspector if that person, \n (a) has knowledge and background in technology and cybersecurity; and \n (b) is a person of proven integrity.",
+                            "(4) Despite subsection (1), an inspector appointed under this Act is not subject to the direction or control of a person or any authority in the performance of functions under this Act."
+                            
+                            
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "secnumber": 19,
+            "header": "Functions of inspectors",
+            "section": {
+                "main": [
+                    {
+                        "sectionheader": "Administrative Provisions",
+                        "content": [
+                            "(1) An inspector shall \n(a) ensure that a production order or an interception warrant issued under this Act is used for the purpose for which the order or warrant was issued; \n(b) ensure that data retained or retrieved in accordance with this Act is used for the purpose for which that data was retained or retrieved; and \n(c) submit quarterly reports on the outcome of inspections carried out to the Board.",
+                            "(2) The expenses incurred in the performance of the functions of an inspector shall be charged on the funds of the Authority.",
+                            "(3) An inspector is answerable to the Board in the performance of the functions of office."
+                                   
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "secnumber": 20,
+            "header": "Appointment of other staff",
+            "section": {
+                "main": [
+                    {
+                        "sectionheader": "Administrative Provisions",
+                        "content": [
+                            "(1) The President shall, in accordance with article 195 of the Constitution, appoint any other staff of the Authority that are necessary for the efficient and effective performance of the functions of the Authority.",
+                            "(2) Other public officers may be transferred or seconded to the  Authority or may give assistance to the Authority.",
+                            "(3) The Authority may, for the efficient and effective discharge of the functions of the Authority, engage the services of consultants and advisors on the recommendation of the Board."
+       
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "secnumber": 21,
+            "header": "Divisions of the Authority",
+            "section": {
+                "main": [
+                    {
+                        "sectionheader": "Administrative Provisions",
+                        "content": [
+                            "(1) The Board may establish divisions of the Authority that are necessary for the efficient and effective performance of the functions of the Authority.",
+                            "(2) A division of the Authority shall be headed by a director"
+                                
+                        ]
+                    }
+                ]
+            }
+        },
+
+        {
+            "secnumber": 22,
+            "header": "Internal Audit Unit",
+            "section": {
+                "main": [
+                    {
+                        "sectionheader": "Administrative Provisions",
+                        "content": [
+                            "(1) The Authority shall have an Internal Audit Unit in accordance with section 83 of the Public Financial Management Act, 2016 (Act 921)",
+                            "(2) The Internal Audit Unit shall be headed by an Internal Auditor who shall be appointed in accordance with the Internal Audit Agency Act, 2003 (Act 658).",
+                            "(3) The Internal Auditor is responsible for the internal audit of the Authority.",
+                            "(4) The Internal Auditor shall, subject to subsections (3) and (4) of section 16 of the Internal Audit Agency Act, 2003 (Act 658), at intervals of three months \n(a) prepare and submit to the Board, a report on the internal audit carried out during the period of three months immediately preceding the preparation of the report; and \n(b) make recommendations in each report, with respect to matters which appear to the Internal Auditor as necessary for the conduct of the affairs of the Authority.",
+                            "(5) The Internal Auditor shall, in accordance with subsection (4) of section 16 of the Internal Audit Agency Act, 2003 (Act 658), submit a copy of each report prepared under this section to the Director-General and the chairperson of the Board."  
+                        ]
+                    }
+                ]
+            }
+        },
+
+     
+
+
+
+        {
+            "secnumber": 23,
+            "header": "Funds of the Authority",
+            "section": {
+                "main": [
+                    {
+                        "sectionheader": "Financial Provisions",
+                        "content": [
+                            "The funds of the Authority include \n(a) moneys approved by Parliament; \n(b) administrative penalties; \n(c) any other internally generated funds; \n(d) loans, grants and donations approved by the Minister responsible for Finance; \n(e) an amount charged on the Fund subject to the approval of the Board; and \n(f) any other moneys approved by the Minister responsible for Finance."
+                            
+                            
+                            
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "secnumber": 24,
+            "header": "Bank account of the Authority",
+            "section": {
+                "main": [
+                    {
+                        "sectionheader": "Financial Provisions",
+                        "content": [ "The moneys for the Authority shall be paid into a bank account opened for the purpose, by the Authority with the approval of the Controller and Accountant-General."
+                            
+                            
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "secnumber": 25,
+            "header": "Borrowing powers of the Authority",
+            "section": {
+                "main": [
+                    {
+                        "sectionheader": "Financial Provisions",
+                        "content": [
+                            "Subject to section 76 of the Public Financial Management Act, 2016, (Act 921), the Authority may obtain loans and any other credit facility on the guarantee of the Government from a bank or any other financial institution approved by the Minister responsible for Finance."
+                            
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "secnumber": 26,
+            "header": "Expenses of the Authority",
+            "section": {
+                "main": [
+                    {
+                        "sectionheader": "Financial Provisions",
+                        "content": [
+                            "The expenses of the Authority shall be charged on the funds of the Authority"
+                            
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "secnumber": 27,
+            "header": "Funds of the Authority",
+            "section": {
+                "main": [
+                    {
+                        "sectionheader": "Financial Provisions",
+                        "content": [
+                            "(1) The Board shall keep books, records, returns and otherdocuments relevant to the accounts in the form approved by the Auditor General.",
+                            "(2) The Board shall submit the accounts of the Authority to theAuditor-General for audit at the end of the financial year.",
+                            "(3) The Auditor-General shall, within six months after the end ofthe immediately preceding financial year, audit the accounts and forwarda copy each of the audit report to the Minister and the Board.",
+                            "(4) The financial year of the Authority is the same as the financialyear of Government."
+                            
+                            
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "secnumber": 28,
+            "header": "Annual report and other reports",
+            "section": {
+                "main": [
+                    {
+                        "sectionheader": "Financial Provisions",
+                        "content": [
+                            "(1) The Board shall, within thirty days after the receipt of the audit report, submit an annual report to the Minister covering the activities and operations of the Authority for the year to which the annual report relates.",
+                            "(2) The annual report shall include \n(a) the report of the Auditor-General; \n(b) a list of persons granted licences and accreditation in the year to which the annual report relates; \n(c) the number and outcome of production orders and interception warrants issued under this Act in the year to which the annual report relates; and \n(d) the report of an inspector attached as a separate report.",
+                            "(3) The Minister shall, within thirty days after the receipt of the annual report, submit the report to Parliament with a statement that the Minister considers necessary.",
+                            "(4) The Board shall submit to the Minister any other report which the Minister may require in writing."
+                                
+                        ]
+                    }
+                ]
+            }
+        },
+
+
+        {
+            "secnumber": 29,
+            "header": "Establishment of the Cybersecurity Fund",
+            "section": {
+                "main": [
+                    {
+                        "sectionheader": "Cybersecurity Fund",
+                        "content": [
+                            "There is established by this Act a Cybersecurity Fund"
+                            
+                            
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "secnumber": 30,
+            "header": "Object of the Fund",
+            "section": {
+                "main": [
+                    {
+                        "sectionheader": "Cybersecurity Fund",
+                        "content": [
+                            "(1) The object of the Fund is to provide financial resources to promote and strengthen the cybersecurity of the country.",
+                            "(2) To achieve the object of the Fund, moneys from the Fund shall be applied to relevant activities that the Board may determine.",
+                            "(3) Without limiting subsection (2), moneys from the Fund shall be applied to \n (a) support research and development in cybersecurity; \n (b) support domestic, regional and international capacity building exercises in cybersecurity initiatives relevant to the cybersecurity of the country; and \n(c) undertake any other activity that is ancillary to the object of the Fund."
+
+                            
+                            
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "secnumber": 31,
+            "header": "Sources of moneys for the Fund",
+            "section": {
+                "main": [
+                    {
+                        "sectionheader": "Cybersecurity Fund",
+                        "content": [
+                            "The sources of moneys for the Fund include \n(a) seed money approved by Parliament; \n(b) moneys which may become lawfully payable to the Authority for the Fund; \n(c) grants, gifts, donations and other voluntary contributions; \n(d) a charge determined by the Authority in accordance with the Fees and Charges (Miscellaneous Provisions) Act, 2018 (Act 983) and levied on persons licensed by the Bank of Ghana to carry on business; \n(e) a proportion of the fees charged on all government e-services determined by the Authority in accordance with the Fees and Charges (Miscellaneous Provisions) Act, 2018 (Act 983) \n(f) a levy that may be imposed by Parliament on e-services; and \n(g) any other moneys approved by Parliament for the Fund."
+                            
+                            
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "secnumber": 32,
+            "header": "Bank account for the Fund ",
+            "section": {
+                "main": [
+                    {
+                        "sectionheader": "Cybersecurity Fund",
+                        "content": [
+                            "Moneys for the Fund shall be paid into a bank account opened for that purpose by the Authority with the approval of the Controller and Accountant-General."
+                            
+                            
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "secnumber": 33,
+            "header": "Management of the Fund",
+            "section": {
+                "main": [
+                    {
+                        "sectionheader": "Cybersecurity Fund",
+                        "content": [
+                            "(1) The Board is responsible for the management of the Fund.",
+                            "(2) Sections 27 and 28 on accounts and audit, and annual report and other reports apply to the Fund."
+                              
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "secnumber": 34,
+            "header": "Disbursement",
+            "section": {
+                "main": [
+                    {
+                        "sectionheader": "Cybersecurity Fund",
+                        "content": [
+                          "The moneys from the Fund shall be disbursed in accordance with the policy guidelines of the Fund. "                           
+                        ]
+                    }
+                ]
+            }
+        },
+
+
+
+        {
+            "secnumber": 35,
+            "header": "Management of the Fund",
+            "section": {
+                "main": [
+                    {
+                        "sectionheader": "Critical Information Infrastructure",
+                        "content": [
+                           
+                            
+                        ]
+                    }
+                ]
+            }
+        }
+        
+        
+        
+       
+       
+
+    
+    ]
