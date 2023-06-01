@@ -601,42 +601,11 @@
                     {
                         "sectionheader": "Critical Information Infrastructure",
                         "content": [
-                            (1) The Minister may, on the advice of the Authority, designate a
-computer system or computer network as a critical information
-infrastructure if the Minister considers that the computer system or
-computer network is essential for
-(a) national security, or
-(b) the economic and social well-being of citizens.
- (2) Where the Minister designates a computer system or computer
-network as a critical information infrastructure, the Minister shall publish
-the designation in the Gazette.
- (3) The Minister shall, in making a determination under subsection
-(1), consider if the computer system or computer network is necessary
-for
-(a) the security, defence or international relations of the country;
-(b) the production, preservation or identity of a confidential
-source of information related to the enforcement of
-criminal law;
-(c) the provision of services directly related to
- (i) communications and telecommunications
-infrastructure;
- (ii) banking and financial services;
-(iii) public utilities;
-(iv) public transportation; and
- (v) public key infrastructure;
- (d) the protection of public safety and public health, including
-systems related to essential emergency services;
-(e) an international business or communication affecting a
-citizen of Ghana or any other international business in
-which a citizen of Ghana or the Government has an
-interest; or
-(f) the Legislature, Executive, Judiciary, Public Services or
-security agencies.
-(4) The Minister shall, by publication in the Gazette, establish the
-procedure for the regulation of a critical information infrastructure.
-
-                           
-                            
+                            "(1) The Minister may, on the advice of the Authority, designate a computer system or computer network as a critical information infrastructure if the Minister considers that the computer system or computer network is essential for \n(a) national security, or \n(b) the economic and social well-being of citizens.",
+                            "(2) Where the Minister designates a computer system or computer network as a critical information infrastructure, the Minister shall publish the designation in the Gazette.",
+                            "(3) The Minister shall, in making a determination under subsection (1), consider if the computer system or computer network is necessary for \n(a) the security, defence or international relations of the country; \n(b) the production, preservation or identity of a confidential source of information related to the enforcement of criminal law; \n(c) the provision of services directly related to  \n(i) communications and telecommunications infrastructure;  \n(ii) banking and financial services; \n(iii) public utilities; \n(iv) public transportation; and  \n(v) public key infrastructure;  \n(d) the protection of public safety and public health, including systems related to essential emergency services; \n(e) an international business or communication affecting a citizen of Ghana or any other international business in which a citizen of Ghana or the Government has an interest; or \n(f) the Legislature, Executive, Judiciary, Public Services or security agencies.",
+                            "(4) The Minister shall, by publication in the Gazette, establish the procedure for the regulation of a critical information infrastructure."
+ 
                         ]
                     }
                 ]
@@ -651,20 +620,10 @@ procedure for the regulation of a critical information infrastructure.
                     {
                         "sectionheader": "Critical Information Infrastructure",
                         "content": [
-                            (1) The Authority shall register a critical information infrastructure.
-                            (2) The Authority shall, by publication in the Gazette, determine
-                            (a) the requirements for the registration of a critical
-                            information infrastructure;
-                            (b) the procedure for the registration of a critical information
-                            infrastructure; and
-                            (c) any other matter relating to the registration of a critical
-                            information infrastructure.
-                             (3) Where there is any change in the legal ownership of a registered
-                            critical information infrastructure, the owner of the registered critical
-                            information infrastructure shall, within seven days after the change,
-                            inform the Authority of the change in ownership.
-                            (4) An owner of a registered critical information infrastructure who
-                            contravenes subsection (3) is liable to pay to the A
+                            "(1) The Authority shall register a critical information infrastructure.",
+                            "(2) The Authority shall, by publication in the Gazette, determine \n(a) the requirements for the registration of a critical information infrastructure; \n(b) the procedure for the registration of a critical information infrastructure; and \n(c) any other matter relating to the registration of a critical information infrastructure.",
+                            "(3) Where there is any change in the legal ownership of a registered critical information infrastructure, the owner of the registered critical information infrastructure shall, within seven days after the change, inform the Authority of the change in ownership.",
+                            "(4) An owner of a registered critical information infrastructure who contravenes subsection (3) is liable to pay to the Authority the administrative penalty specified in the Second Schedule."
                            
                             
                         ]
@@ -710,25 +669,8 @@ procedure for the regulation of a critical information infrastructure.
                     {
                         "sectionheader": "Critical Information Infrastructure",
                         "content": [
-                             (1) An owner of a critical information infrastructure shall
-(a) report a cybersecurity incident within twenty-four hours
-after the incident is detected to
-(i) the relevant Sectoral Computer Emergency
-Response Team, or
-(ii) the National Computer Emergency Response
-Team, in the case of a critical information
-infrastructure that does not belong to a Sectoral
-Computer Emergency Response Team;
-(b) cause an audit to be performed on a critical information
-infrastructure; and
-(c) submit a copy of the audit report to the Authority.
-(2) An owner of a critical information infrastructure who
-contravenes
-(a) paragraph (a) of subsection (1),
-(b) paragraph (b) of subsection (1), or
-(c) paragraph (c) of subsection (1)
-is liable to pay to the Authority the administrative penalty specified in
-the Second Schedule.
+                            "(1) An owner of a critical information infrastructure shall \n(a) report a cybersecurity incident within twenty-four hours after the incident is detected to \n(i) the relevant Sectoral Computer Emergency Response Team, or \n(ii) the National Computer Emergency Response Team, in the case of a critical information infrastructure that does not belong to a Sectoral Computer Emergency Response Team; \n(b) cause an audit to be performed on a critical information infrastructure; and \n(c) submit a copy of the audit report to the Authority.",
+                            "(2) An owner of a critical information infrastructure who contravenes \n (a) paragraph (a) of subsection (1), \n (b) paragraph (b) of subsection (1), or \n (c) paragraph (c) of subsection (1) is liable to pay to the Authority the administrative penalty specified in the Second Schedule."
 
                            
                             
@@ -737,7 +679,7 @@ the Second Schedule.
                 ]
             }
         },
-        
+
         {
             "secnumber": 40,
             "header": "Access to critical information infrastructure",
@@ -746,48 +688,11 @@ the Second Schedule.
                     {
                         "sectionheader": "Critical Information Infrastructure",
                         "content": [
-                            (1) A person shall not without authorisation
-                            (a) secure access, or
-                            (b) attempt to secure access
-                            to a computer system or a computer network designated as a critical
-                            information infrastructure.
-                            (2) A person who contravenes subsection (1) commits an offence
-                            and is liable on summary conviction to a fine of not less than two
-                            thousand, five hundred penalty units and not more than fifteen thousand
-                            penalty units or to a term of imprisonment of not less than two years
-and not more than five years, or to both.
-(3) Where the offence committed under subsection (1)
-(a) results in a serious bodily injury, financial loss or damage
-to the computer system or computer network designated as
-a critical information infrastructure, the person who
-commited the offence
-(i) in the case of an individual, is liable on summary
-conviction to a fine of not less than five thousand
-penalty units and not more than fifty thousand
-penalty units or to a term of imprisonment of not
-less than five years and not more than fifteen years
-or to both; or
-(ii) in the case of a body corporate, a partnership or a
-firm is liable on summary conviction to a fine of
-not less than twenty-five thousand penalty units and
-not more than fifty thousand penalty units; and
-(b) is deemed to be a terrorist act, the person who committed
-the offence is liable on conviction on indictment to a term
-of imprisonment of not less than seven years and not more
-than twenty-five years.
-(4) Where an offence under subsection (3) is committed by a body
-corporate or by a member of a partnership or other firm, every director
-or officer of that body corporate or a member of the partnership or any
-other person concerned with the management of the firm shall be deemed
-to have committed that offence and is liable on summary conviction to a
-fine of not less than five thousand penalty units and not more than fifty
-thousand penalty units.
-(5) A person shall not be convicted of an offence by virtue of
-subsection (4) if it is proved that
-(a) due diligence was exercised to prevent the commission of
-the offence; and
-(b) the offence was committed without the knowledge, consent
-or connivance of that person
+                            "(1) A person shall not without authorisation \n(a) secure access, or \n(b) attempt to secure access to a computer system or a computer network designated as a critical information infrastructure.",
+                            "(2) A person who contravenes subsection (1) commits an offence and is liable on summary conviction to a fine of not less than two thousand, five hundred penalty units and not more than fifteen thousand penalty units or to a term of imprisonment of not less than two years and not more than five years, or to both.",
+                            "(3) Where the offence committed under subsection (1) \n(a) results in a serious bodily injury, financial loss or damage to the computer system or computer network designated as a critical information infrastructure, the person who commited the offence \n(i) in the case of an individual, is liable on summary conviction to a fine of not less than five thousand penalty units and not more than fifty thousand penalty units or to a term of imprisonment of not less than five years and not more than fifteen years or to both; or \n(ii) in the case of a body corporate, a partnership or a firm is liable on summary conviction to a fine of not less than twenty-five thousand penalty units and not more than fifty thousand penalty units; and \n(b) is deemed to be a terrorist act, the person who committed the offence is liable on conviction on indictment to a term of imprisonment of not less than seven years and not more than twenty-five years.",
+                            "(4) Where an offence under subsection (3) is committed by a body corporate or by a member of a partnership or other firm, every director or officer of that body corporate or a member of the partnership or any other person concerned with the management of the firm shall be deemed to have committed that offence and is liable on summary conviction to a fine of not less than five thousand penalty units and not more than fifty thousand penalty units.",
+                            "(5) A person shall not be convicted of an offence by virtue of subsection (4) if it is proved that \n(a) due diligence was exercised to prevent the commission of the offence; and \n(b) the offence was committed without the knowledge, consent or connivance of that person"
                            
                             
                         ]
@@ -818,13 +723,7 @@ or connivance of that person
                     {
                         "sectionheader": "Critical Information Infrastructure",
                         "content": [
-                             The National Computer Emergency Response Team
-                            (a) is responsible for responding to cybersecurity incidents;
-                            (b) shall co-ordinate responses to cybersecurity incidents
-                            amongst public institutions, private institutions and
-                            international bodies; and
-                            (c) oversee the Sectoral Computer Emergency Response Team
-                            established under section 44.
+                             "The National Computer Emergency Response Team \n (a) is responsible for responding to cybersecurity incidents; \n (b) shall co-ordinate responses to cybersecurity incidents amongst public institutions, private institutions and international bodies; and \n (c) oversee the Sectoral Computer Emergency Response Team established under section 44."
                             
                         ]
                     }
@@ -839,16 +738,8 @@ or connivance of that person
                     {
                         "sectionheader": "Critical Information Infrastructure",
                         "content": [
-                            (1) The Authority shall ensure that the National Computer
-                            Emergency Response Team
-                            (a) is equipped with the relevant tools required to effectively
-                            respond to cybersecurity incidents; and
-                            (b) co-operates with Sectoral Computer Emergency Response
-                            Team of other countries in respect of cybersecurity
-                            incidents.
-                            (2) The Authority may give regulatory directives to the Sectoral
-                            Computer Emergency Response Teams and the Sectoral Computer
-                            Emergency Response Teams shall comply.
+                            "(1) The Authority shall ensure that the National Computer Emergency Response Team \n (a) is equipped with the relevant tools required to effectively respond to cybersecurity incidents; and \n (b) co-operates with Sectoral Computer Emergency Response Team of other countries in respect of cybersecurity incidents.",
+                            "(2) The Authority may give regulatory directives to the Sectoral Computer Emergency Response Teams and the Sectoral Computer Emergency Response Teams shall comply."
                             
                            
                             
@@ -865,45 +756,14 @@ or connivance of that person
                     {
                         "sectionheader": "Critical Information Infrastructure",
                         "content": [
-                            (1) For the purposes of achieving an effective cybersecurity incident
-                            co-ordination, the Authority shall, by notice published in the Gazette,
-                            establish Sectoral Computer Emergency Response Teams to
-                            (a) collect and collate cybersecurity incidents; and
-                            (b) co-ordinate responses to cybersecurity incidents
-                            within the sectors.
-                            (2) The Authority shall, in establishing a Sectoral Computer
-                            Emergency Response Team, take into account factors including
-                            (a) the needs and criticality of a sector; and
-                            (b) developments in respect of cybersecurity in the country.
-                            (3) The establishment and operational cost of a Sectoral Computer
-Emergency Response Team established under subsection (1) shall be borne
-by the sector concerned.
-(4) The Authority shall accredit and oversee the operation of
-Sectoral Computer Emergency Response Teams.
-(5) A Sectoral Computer Emergency Response Team shall submit
-to the Authority, through the administrative head of that Sectoral
-Computer Emergency Response Team, a monthly report covering the
-operations of that Sectoral Computer Emergency Response Team based
-on a reporting template determined by the Authority.
-(6) A Sectoral Computer Emergency Response Team that fails to
-comply with the regulatory directives of the Authority, is liable to pay to
-the Authority the administrative penalty specified in the Second Schedule.
-(7) A notice published under subsection (1) shall state the relevant
-requirements including the
-(a) reporting obligation of the Sectoral Computer Emergency
-Response Team concerned and the penalty for noncompliance; and
-(b) adherence to risk management protocols.
-(8) For the purposes of this section, “sector” includes the
-(a) public sector;
-(b) banking and financial sector;
-(c) telecommunication sector;
-(d) energy and utilities sector;
-(e) military sector;
-(f) national security sector;
-(g) academic sector;
-(h) health sector;
-(i) transportation sector; and
-(j) any other sector determined by the Authority
+                            "(1) For the purposes of achieving an effective cybersecurity incident co-ordination, the Authority shall, by notice published in the Gazette, establish Sectoral Computer Emergency Response Teams to \n (a) collect and collate cybersecurity incidents; and \n (b) co-ordinate responses to cybersecurity incidents within the sectors.",
+                            "(2) The Authority shall, in establishing a Sectoral Computer Emergency Response Team, take into account factors including \n (a) the needs and criticality of a sector; and \n (b) developments in respect of cybersecurity in the country.",
+                            "(3) The establishment and operational cost of a Sectoral Computer Emergency Response Team established under subsection (1) shall be borne by the sector concerned.",
+                            "(4) The Authority shall accredit and oversee the operation of Sectoral Computer Emergency Response Teams.",
+                            "(5) A Sectoral Computer Emergency Response Team shall submit to the Authority, through the administrative head of that Sectoral Computer Emergency Response Team, a monthly report covering the operations of that Sectoral Computer Emergency Response Team based on a reporting template determined by the Authority.",
+                            "(6) A Sectoral Computer Emergency Response Team that fails to comply with the regulatory directives of the Authority, is liable to pay to the Authority the administrative penalty specified in the Second Schedule.",
+                            "(7) A notice published under subsection (1) shall state the relevant requirements including the \n(a) reporting obligation of the Sectoral Computer Emergency Response Team concerned and the penalty for non compliance; and \n(b) adherence to risk management protocols.",
+                            "(8) For the purposes of this section, “sector” includes the \n (a) public sector; \n (b) banking and financial sector; \n (c) telecommunication sector; \n (d) energy and utilities sector; \n (e) military sector; \n (f) national security sector; \n (g) academic sector; \n (h) health sector; \n (i) transportation sector; and \n (j) any other sector determined by the Authority"
                            
                             
                         ]
@@ -919,18 +779,10 @@ Response Team concerned and the penalty for noncompliance; and
                     {
                         "sectionheader": "Critical Information Infrastructure",
                         "content": [
-                            1) The Authority may establish a cybersecurity incident monitoring
-and response system.
-(2) The Authority shall implement the relevant technical measures
-to ensure an effective cybersecurity incident monitoring and response
-system
-(3) Without limiting subsection (2), a technical measure aimed at
-ensuring an effective cybersecurity incident monitoring and response
-system shall include an interception capability to execute an interception
-warrant authorised by a Court.
-(4) For the purposes of subsection (3), the Authority shall intercept,
-disable or take-down a digital technology, digital service or a digital
-product that is likely to undermine the cybersecurity of the country.
+                            "(1) The Authority may establish a cybersecurity incident monitoring and response system.",
+                            "(2) The Authority shall implement the relevant technical measures to ensure an effective cybersecurity incident monitoring and response system",
+                            "(3) Without limiting subsection (2), a technical measure aimed at ensuring an effective cybersecurity incident monitoring and response\n  system shall include an interception capability to execute an interception warrant authorised by a Court.",
+                            "(4) For the purposes of subsection (3), the Authority shall intercept, disable or take-down a digital technology, digital service or a digital product that is likely to undermine the cybersecurity of the country."
                            
                             
                         ]
@@ -946,11 +798,220 @@ product that is likely to undermine the cybersecurity of the country.
                     {
                         "sectionheader": "Critical Information Infrastructure",
                         "content": [
-                            (1) The Authority shall establish an early warning system in respect
-                            of human initiated risks that are likely to undermine the cybersecurity
-                            of the country.
-                            (2) The Authority shall implement the early warning system to
-                            advise the public on cybersecurity matters
+                            "(1) The Authority shall establish an early warning system in respect of human initiated risks that are likely to undermine the cybersecurity of the country.",
+                            "(2) The Authority shall implement the early warning system to advise the public on cybersecurity matters"
+                           
+                            
+                        ]
+                    }
+                ]
+            }
+        },
+
+
+        {
+            "secnumber": 47,
+            "header": "Duty to report cybersecurity incident",
+            "section": {
+                "main": [
+                    {
+                        "sectionheader": "Cybersecurity Incident Reporting",
+                        "content": [
+                            "(1) A Sectoral Computer Emergency Response Team shall report a cybersecurity incident to the Authority through the National Computer Emergency Response Team.",
+                            "(2) An institution licensed by the Authority to provide a cybersecurity service shall, within the period determined by the Authority, submit to the Authority a report covering the operations of that institution including a report of a cybersecurity incident.",
+                            "(3) The Authority shall establish a cybersecurity incident reporting and information sharing platform to enable a Sectoral Computer Emergency Response Team, a licensee and any other relevant institution report a cybersecurity incident.",
+                            "(4) The Authority shall, upon receipt of information in respect of a cybersecurity incident, circulate the information to a Sectoral Computer Emergency Response Team, a licensee and any other relevant institution.",
+                            "(5) A person in charge of an institution shall report a cybersecurity incident to the relevant Sectoral Computer Emergency Response Team or the National Computer Emergency Response Team within a period of not more than twenty-four hours after the incident is detected.",
+                            "(6) A person who contravenes subsection (5) is liable to pay to the Authority the administrative penalty specified in the Second Schedule."
+
+                           
+                            
+                        ]
+                    }
+                ]
+            }
+        },
+                
+        {
+            "secnumber": 48,
+            "header": "Cybersecurity incident point of contact",
+            "section": {
+                "main": [
+                    {
+                        "sectionheader": "Cybersecurity Incident Reporting",
+                        "content": [
+                            "(1) The Authority shall, establish a cybersecurity incident point of \n (a) reporting of a cybersecurity incident by the general public; contact to facilitate and \n (b) international co-operation in cybersecurity matters.",
+                            "(2) An institution that is not affiliated to a designated Sectoral Computer Emergency Response Team, shall report a cybersecurity incident to the National Computer Emergency Response Team through the cybersecurity incident point of contact established under subsection (1).",
+                            "(3) An individual may report a cybersecurity incident to the National Computer Emergency Response Team through the cybersecurity incident point of contact established under subsection (1)."
+                           
+                            
+                        ]
+                    }
+                ]
+            }
+        },
+
+        {
+            "secnumber": 49,
+            "header": "     Licensing of cybersecurity service providers",
+            "section": {
+                "main": [
+                    {
+                        "sectionheader": "Licensing of Cybersecurity Service Providers",
+                        "content": [
+                       
+                          "(1) A person shall not provide a cybersecurity service unless that person obtains a licence issued by the Authority in accordance with this Act.",
+                            "(2) A person who contravenes subsection (1) is liable to pay to the Authority the administrative penalty specified in the Second Schedule."
+                            
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "secnumber": 50,
+            "header": "Application for licence",
+            "section": {
+                "main": [
+                    {
+                        "sectionheader": "Licensing of Cybersecurity Service Providers",
+                        "content": [
+                         
+                           "(1) A person who seeks to provide a cybersecurity service shall apply in writing to the Authority.",
+                           "(2) The application shall be made in the prescribed form and accompanied by the \n (a) supporting documentation, and \n (b) prescribed fee,that the Authority may determine.",
+                           "(3) The Authority shall within fourteen days of receipt of an application, acknowledge receipt of the application."
+                           
+                            
+                        ]
+                    }
+                ]
+            }
+        },        {
+            "secnumber": 51,
+            "header": " Grant of licence",
+            "section": {
+                "main": [
+                    {
+                        "sectionheader": "Licensing of Cybersecurity Service Providers",
+                        "content": [
+                          
+                            " (1) Where the Authority is satisfied that \n(a) the applicant meets the requirements of the Authority for the grant of a licence, and \n(b) the grant of a licence is not against public interest the Authority may grant the licence to the applicant.",
+                            "(2) The Authority shall, within thirty days of receipt of an application for a licence, inform the applicant in writing of the decision of the Authority.",
+                            "(3) A licence granted by the Authority is subject to the terms and conditions specified in the licence.",
+                            "(4) Where the Authority refuses to grant a licence, the Authority shall within twenty-eight days after the refusal communicate in writing the reason for the refusal to grant the licence.",
+                            "(5) A licensed cybersecurity service provider who uses a licence for a purpose other than that for which the licence was granted is liable to pay to the Authority the administrative penalty specified in the Second Schedule."
+
+                           
+                            
+                        ]
+                    }
+                ]
+            }
+        }, 
+
+        {
+            "secnumber": 52,
+            "header": " Non-transferability of licence",
+            "section": {
+                "main": [
+                    {
+                        "sectionheader": "Licensing of Cybersecurity Service Providers",
+                        "content": [
+                           
+                       " (1) A person granted a licence shall not transfer that licence to another person.",
+                       "(2) A person who transfers a licence contrary to subsection (1) commits an offence and is liable on summary conviction to a fine of not less than five thousand penalty units and not more than ten thousand penalty units or to a term of imprisonment of not less than six months and not more than two years, or to both."
+                            
+                           
+                            
+                        ]
+                    }
+                ]
+            }
+        },   
+        {
+            "secnumber": 53,
+            "header": "Validity and duration of licence",
+            "section": {
+                "main": [
+                    {
+                        "sectionheader": "Licensing of Cybersecurity Service Providers",
+                        "content": [
+                            "(1) A licence granted under this Act is valid for two years from the date that the licence is granted.",
+                            "(2) A licensed cybersecurity service provider who intends to continue operations as a cybersecurity service provider shall, not later than one month before the expiration of the licence, apply in writing to the Authority for a renewal of the licence."  
+                            
+                        ]
+                    }
+                ]
+            }
+        },        
+        
+        
+        {
+            "secnumber": 54,
+            "header": "Suspension of licence",
+            "section": {
+                "main": [
+                    {
+                        "sectionheader": "Licensing of Cybersecurity Service Providers",
+                        "content": [
+                            "(1) The Authority may suspend a licence issued under this Act for a period of not more than six months where \n(a) the licensee fails to renew the licence not later than one month before the expiration of the licence; or \n(b) the licensee fails to comply with a condition specified in the licence ",
+                            "(2) The Authority shall, before exercising the power of suspension under this section, \n(a) give the licensee thirty days notice in writing of the intention to do so, and \n(b) specify in the notice the grounds on which the Authority intends to suspend the licence.",
+                            "(3) Where the Authority decides to suspend a licence, the Authority shall give the licensee the opportunity \n(a) to submit to the Authority, within the time specified by the Authority, a written statement of objections, if any, to the suspension of the licence; and \n(b) to remedy, within the time specified by the Authority, the breach which has occasioned the decision to suspend the licence.",
+                            "(4) The Authority shall, within twenty-eight days of the suspension of a licence, notify the cybersecurity service provider concerned of the suspension"
+                         
+                           
+                            
+                        ]
+                    }
+                ]
+            }
+        },          
+         {
+            "secnumber": 55,
+            "header": "Revocation of licence",
+            "section": {
+                "main": [
+                    {
+                        "sectionheader": "Licensing of Cybersecurity Service Providers",
+                        "content": [
+                            "(1) The Authority may revoke a licence issued under this Act if the Authority considers that \n(a) the licence has been obtained by fraud or misrepresentation; \n(b) the licensee has ceased to carry on the business for which the licensee is licensed; \n(c) the licensee has been convicted of an offence under this Act or an offence involving fraud, dishonesty or moral turpitude; \n(d) a circumstance existed at the time the licence was granted or renewed that the Authority was unaware of, which would have prevented the Authority from granting or renewing the licence of the licensee if the Authority had been aware of the circumstance at that time; \n(e) the licensee has been declared bankrupt or has gone into compulsory or voluntary liquidation other than for the purpose of amalgamation or reconstruction; \n(f) the licensee no longer meets the requirements for holding the licence; or \n(g) it is not in the public interest for the licensee to continue to carry on the business of a licensee.",
+                            "(2) Subsections (1) and (2) of section 54 apply to revocation of a licence.",
+                            "(3) The Authority shall publish the revocation of a licence under this section in the Gazette."
+
+                           
+                            
+                        ]
+                    }
+                ]
+            }
+        },        {
+            "secnumber": 56,
+            "header": "Review of decision of Authority",
+            "section": {
+                "main": [
+                    {
+                        "sectionheader": "Licensing of Cybersecurity Service Providers",
+                        "content": [
+                            "(1) A person aggrieved by a decision of the Authority may, within twenty-eight days of receipt of the decision, submit a complaint in writing to the Board for a review of the decision.",
+                            "(2) A person dissatisfied with the decision of the Board may, within twenty-eight days after the date of receipt of the decision, submit a complaint in writing to the Minister for a review of the decision of the Board.",
+                            "(3) A person dissatisfied with the decision of the Minister may, within twenty-eight days after the date of receipt of the decision, seek redress in a court of competent jurisdiction "
+                            
+                        ]
+                    }
+                ]
+            }
+        },
+        
+        
+        {
+            "secnumber": 53,
+            "header": "",
+            "section": {
+                "main": [
+                    {
+                        "sectionheader": "Licensing of Cybersecurity Service Providers",
+                        "content": [
+                         
                            
                             
                         ]
@@ -958,7 +1019,6 @@ product that is likely to undermine the cybersecurity of the country.
                 ]
             }
         }
-        
         
         
         
