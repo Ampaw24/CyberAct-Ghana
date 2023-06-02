@@ -1,1033 +1,1175 @@
 [
-   
-        {
-            "secnumber": 1,
-            "header": "Preliminary",
-            "section": {
-                "main": {
-                    "sectionheader": "Application",
+    {
+        "secnumber": 1,
+        "header": "Preliminary",
+        "section": {
+            "main": [
+                {
+                "sectionheader": "Application",
+                "content": [
+                    "(1) This Act applies to cybersecurity activities in the country.",
+                    "(2) This Act shall be read together with other relevant enactments including the \n (a) Criminal Offences Act, 1960 (Act 29); \n (b) Evidence Act, 1975 (N.R.C.D. 323); \n (c) Foreign Exchange Act, 2006 (Act 723);\n (d) Anti-Money Laundering Act, 2008 (Act 749);\n(e) Anti-Terrorism Act, 2008 (Act 762);\n(f) Electronic Transactions Act, 2008 (Act 772);\n(g) Electronic Communications Act, 2008 (Act 775);\n(h) Economic and Organised Crime Office Act, 2010 (Act 804); (i) Mutual Legal Assistance Act, 2010 (Act 807);\n(j) Data Protection Act, 2012 (Act 843); and\n(k) Payment Systems and Services Act, 2019 (Act 987)."
+                ]
+            }]
+        }
+    },
+
+    {
+        "secnumber": 2,
+        "header": "Establishment of the Cyber Security Authority",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Cyber Security Authority",
                     "content": [
-                        "(1) This Act applies to cybersecurity activities in the country.",
-                        "(2) This Act shall be read together with other relevant enactments including the \n (a) Criminal Offences Act, 1960 (Act 29); \n (b) Evidence Act, 1975 (N.R.C.D. 323); \n (c) Foreign Exchange Act, 2006 (Act 723);\n (d) Anti-Money Laundering Act, 2008 (Act 749);\n(e) Anti-Terrorism Act, 2008 (Act 762);\n(f) Electronic Transactions Act, 2008 (Act 772);\n(g) Electronic Communications Act, 2008 (Act 775);\n(h) Economic and Organised Crime Office Act, 2010 (Act 804); (i) Mutual Legal Assistance Act, 2010 (Act 807);\n(j) Data Protection Act, 2012 (Act 843); and\n(k) Payment Systems and Services Act, 2019 (Act 987)."
+                        "(1) There is established by this Act the Cyber Security Authority asa body corporate.",
+                        "(2) For the performance of functions, the Authority may acquire and hold property, dispose of property and enter into a contract or any other related transaction",
+                        "(3) Where there is a hindrance to the acquisition of land, the land may be acquired for the Authority under the State Lands Act, 1962 (Act125) and the cost shall be borne by the Authority."
                     ]
                 }
-            }
-        },
-        {
-            "secnumber": 2,
-            "header": "Establishment of the Cyber Security Authority",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Cyber Security Authority",
-                        "content": [
-                            "(1) There is established by this Act the Cyber Security Authority asa body corporate.",
-                            "(2) For the performance of functions, the Authority may acquire and hold property, dispose of property and enter into a contract or any other related transaction",
-                            "(3) Where there is a hindrance to the acquisition of land, the land may be acquired for the Authority under the State Lands Act, 1962 (Act125) and the cost shall be borne by the Authority."
-                        ]
-                    }
-                ]
-            }
-        },
-        {
-            "secnumber": 3,
-            "header": "Objects of the Authority",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Cyber Security Authority",
-                        "content": [
-                            "The objects of the Authority are to: \n (a) regulate cybersecurity activities in the country;",
-                            "(b) prevent, manage and respond to cybersecurity threats and cybersecurity incidents;",
-                            "(c) regulate owners of critical information infrastructure in respect of cybersecurity activities, cybersecurity service providers and practitioners in the country;",
-                            "(d) promote the development of cybersecurity in the country to ensure a secured and resilient digital ecosystem;",
-                            "(e) establish a platform for cross-sector engagement on matters of cybersecurity for effective co-ordination and co-operation between key public institutions and the private sector;",
-                            "(f) create awareness of cybersecurity matters; and",
-                            "(g) collaborate with international agencies to promote the  cybersecurity of the country"
-                        ]
-                    }
-                ]
-            }
-        },
-        {
-            "secnumber": 4,
-            "header": "Functions of the Authority",
-            "section": {
-                "main": [
-                    {
-                        "content": [
-                            "To achieve the objects under section 3, the Authority shall \n",
-                            "(a) advise the Government and public institutions on all matters related to cybersecurity in the country;",
-                            "(b) promote the security of computers and computer system in the country;",
-                            "(c) monitor cybersecurity threats within and outside the country;",
-                            "(d) establish codes of practice and standards for cybersecurity, and monitor compliance with the codes of practice and standards by the public and private sector owners of critical information infrastructure;",
-                            "(e) establish standards for certifying cybersecurity products of services;",
-                            "(f) Certify cybersecurity products or services in accordance with the standards established pursuant to paragraph (e);",
-                            "(g) take measures in response to cybersecurity incidents that occur within and outside the country which may threaten \n (i) national security; \n (ii) the defence of the country; \n (iii) the economy of the country; \n (iv) international relations between the State and other countries; \n (v) health of the public; \n (vi) the safety of life and property; and \n (vii) any other sector of the country likely to be affected by a cybersecurity incident;",
-                            "(h) identify and designate critical information infrastructure and advise the Minister on the regulation of owners of critical information infrastructure to protect the critical information infrastructure of the country, in accordance with international best practice;",
-                            "(i) provide technical support for law enforcement agencies and security agencies to prosecute cyber offenders;",
-                            "(j)  promote the protection of children online;",
-                            "(k) issue licences for the provision of cybersecurity services specified in the First Schedule;",
-                            "(l) establish standards for the provision of cybersecurity services specified in the First Schedule;",
-                            "(m) support technological advances and research and development in cybersecurity to ensure a resilient and sustainable digital ecosystem;",
-                            "(n) deploy strategies to implement research findings towards the promotion of the cybersecurity of the country;",
-                            "(o) establish and maintain a framework for disseminating information on cybersecurity;",
-                            "(p) submit periodic reports on the state of cybersecurity in the country to the Minister;",
-                            "(q) educate the public on matters related to cybercrime and cybersecurity;",
-                            "(r) build the capacity of persons in the public or private sector in matters related to cybersecurity;",
-                            "(s) collaborate with law enforcement agencies to intercept or disable a digital technology service or product whose operation undermines the cybersecurity of the country;",
-                            "(t) establish and maintain a national register of \n (i) identified and potential risks; \n(ii) the levels and impact of risks; \n(iii) owners of critical information infrastructure; and \n(iv) any other persons licensed or accredited to carry out cybersecurity activities; and",
-                            "(u) perform any other functions which are ancillary to the objects of the Authority."
-                        ]
-                    }
-                ]
-            }
-        },
-        {
-            "secnumber": 5,
-            "header": "Establishment of the Cyber Security Authority",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Cyber Security Authority",
-                        "content": [
-                            "(1) There is established by this Act the Cyber Security Authority asa body corporate.",
-                            "(2) For the performance of functions, the Authority may acquire and hold property, dispose of property and enter into a contract or any other related transaction",
-                            "(3) Where there is a hindrance to the acquisition of land, the land may be acquired for the Authority under the State Lands Act, 1962 (Act125) and the cost shall be borne by the Authority."
-                        ]
-                    }
-                ]
-            }
-        },
-        {
-            "secnumber": 5,
-            "header": "Governing body of the Authority",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Governance of the Authority",
-                        "content": [
-                            "(1) The governing body of the Authority is a Board consisting of \n (a)  the Ministers responsible for \n (i) Communications; \n (ii) the Interior; \n   (iii) National Security; and \n  (iv) Defence; \n (b) the Director-General of the Authority;\n (c) three persons from the Industry Forum nominated by the Industry Forum; and \n (d) three other persons nominated by the President on the advice of the Minister, at least two of whom are women.",
-                            "(2) The President shall nominate the Minister as chairperson of the Board.",
-                            "(3) The chairperson and other members of the Board shall be appointed by the President in accordance with article 70 of the Constitution."
-                        ]
-                    }
-                ]
-            }
-        },
-        {
-            "secnumber": 6,
-            "header": "Functions of the Board",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Governance of the Authority",
-                        "content": []
-                    }
-                ]
-            }
-        },
-        {
-            "secnumber": 7,
-            "header": "Tenure of office of members of the Board",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Governance of the Authority",
-                        "content": []
-                    }
-                ]
-            }
-        },
-        {
-            "secnumber": 8,
-            "header": "Tenure of office of members of the Board",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Governance of the Authority",
-                        "content": []
-                    }
-                ]
-            }
-        },
-        {
-            "secnumber": 9,
-            "header": "Disclosure of interest",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Governance of the Authority",
-                        "content": []
-                    }
-                ]
-            }
-        },
-        {
-            "secnumber": 10,
-            "header": "Establishment of committees",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Governance of the Authority",
-                        "content": []
-                    }
-                ]
-            }
-        },
-        {
-            "secnumber": 11,
-            "header": "Allowances",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Governance of the Authority",
-                        "content": [
-                            " Members of the Board and members of a committee of the Board shall be paid allowances determined by the Minister in consultation with the Minister responsible for Finance."
-                        ]
-                    }
-                ]
-            }
-        },
-        {
-            "secnumber": 12,
-            "header": "Policy directives",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Governance of the Authority",
-                        "content": [
-                            " To achieve the object of this Act, the Minister may give directives in writing on matters of policy to the Board and the Board shall comply"
-                        ]
-                    }
-                ]
-            }
-        },
-        {
-            "secnumber": 13,
-            "header": "Joint Cybersecurity Committee",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Governance of the Authority",
-                        "content": [
-                            "(1) There is established by this Act a Joint Cybersecurity Committee.",
-                            "(2) The Joint Cybersecurity Committee consists of \n(a) a Justice of the Superior Court of Judicature with the requisite knowledge and skills in cybercrime and cybersecurity matters, nominated by the Chief Justice; \n (b) the Director-General of the National Information Technology Agency or a representative of the Director General with the requisite knowledge and skills in cybercrime and cybersecurity matters, nominated by the Director-General; \n (c) the Director-General of the National Communications Authority or a representative of the Director-General with the requisite knowledge and skills in cybercrime and cybersecurity matters, nominated by the Director-General; \n (d) the Executive Director of the Data Protection Commission or a representative of the Executive Director with the requisite knowledge and skills in cybercrime and  cybersecurity matters, nominated by the Executive Director;\n(e) the Governor of the Bank of Ghana or a representative of the Governor with the requisite knowledge and skills in cybercrime and cybersecurity matters, nominated by the Governor;\n(f) the Chief Executive Officer of the Financial Intelligence Centre or a representative of the Chief Executive Officer with the requisite knowledge and skills in cybercrime and cybersecurity matters, nominated by the Chief Executive Officer;\n(g) the Director of the Bureau of National Investigations or a representative of the Director with the requisite knowledge and skills in cybercrime and cybersecurity matters, nominated by the Director;\n(h) the Executive Director of the Economic and Organised Crime Office or a representative of the Executive Director with the requisite knowledge and skills in cybercrime and cybersecurity matters, nominated by the Executive Director;\n(i) the Director-General of the Criminal Investigation Department of the Ghana Police Service or a representative of the Director-General with the requisite knowledge and skills in cybercrime and cybersecurity matters, nominated by the Inspector-General of Police;\n(j) the Director of Operations of the National Security Council Secretariat or a representative of the Director with the requisite knowledge and skills in cybercrime and cybersecurity matters, nominated by the Head of the National Security Council Secretariat;\n(k) the Director of the Bureau of National Communications or a representative of the Director with the requisite knowledge and skills in cybercrime and cybersecurity matters, nominated by the Director;\n(l) the Director-General of Defence Intelligence or a representative of the Director-General with the requisite knowledge and skills in cybercrime and cybersecuritymatters, nominated by the Chief of Defence Staff;\n(m) the Comptroller-General of the Immigration Service or a representative of the Comptroller-General with the requisite knowledge and skills in cybercrime and cybersecurity matters, nominated by the Comptroller-General;\n(n) the Director of External Intelligence or a representative of the Director with the requisite knowledge and skills in cybercrime and cybersecurity matters, nominated by the Chief of Defence Staff;\n(o) a representative of the Ghana Armed Forces not below the rank of a Colonel with the requisite knowledge and skills in cybercrime and cybersecurity matters, nominated by the Chief of Defence Staff;\n(p) the Director of the Public Prosecutions Division of the Office of the Attorney-General or a representative of the Director with the requisite knowledge and skills in cybercrime and cybersecurity matters, nominated by the Attorney-General;\n(q) the Director-General of the Authority; and\n(r) the Executive Director of the Ghana Domain Name Registry or a representative of the Executive Director with the requisite knowledge and skills in cybercrime and cybersecurity matters, nominated by the Executive Director ",
-                            "(3) A nomination under subsection (2) shall be made in consultation with the Authority.",
-                            "(4) The President shall appoint the members of the Joint Cybersecurity Committee.",
-                            "(5) The Director-General of the Authority shall preside at meetings of the Joint Cybersecurity Committee and in the absence of the Director General, a member of the Committee elected by the members present from among the number shall preside.",
-                            "(6) The Joint Cybersecurity Committee shall meet at a time and place determined by the Director-General.",
-                            "(7) The quorum at a meeting of the Joint Cybersecurity Committee is ten members " ,
-                            "(8) Matters before the Joint Cybersecurity Committee shall be decided by a majority of the members present and voting and in the event of an equality of votes, the person presiding shall have a casting vote.",
-                            "(9) The Joint Cybersecurity Committee shall regulate the procedure for meetings of the Committee.",
-                            "(10) Members of the Joint Cybersecurity Committee shall be paid allowances determined by the Minister in consultation with the Minister responsible for Finance.",
-                            "(11) The Joint Cybersecurity Committee may establish sub-committees comprising members of the Joint Cybersecurity Committee and non-members, including representatives from the private sector, to perform a function of the Joint Cybersecurity Committee.",
-                            "(12) A sub-committee established under subsection (10) shall meet regularly for the conduct of business where the exigencies require.",
-                            "(13) The Joint Cybersecurity Committee shall have a Secretariat at the Headquarters of the Authority."
-                        ]
-                    }
-                ]
-            }
-        },
-        {
-            "secnumber": 14,
-            "header": "Functions of the Joint Cybersecurity Committee",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Governance of the Authority",
-                        "content": [
-                            "(1) The Joint Cybersecurity Committee shall collaborate with the Authority and the sectors or institutions represented on the Committee for the implementation of relevant cybersecurity measures.",
-                            "(2) The Joint Cybersecurity Committee is answerable to the Board in the performance of functions of office. "
-                        ]
-                    }
-                ]
-            }
-        },
+            ]
+        }
+    },
+    {
+        "secnumber": 3,
+        "header": "Objects of the Authority",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Cyber Security Authority",
+                    "content": [
+                        "The objects of the Authority are to: \n (a) regulate cybersecurity activities in the country;",
+                        "(b) prevent, manage and respond to cybersecurity threats and cybersecurity incidents;",
+                        "(c) regulate owners of critical information infrastructure in respect of cybersecurity activities, cybersecurity service providers and practitioners in the country;",
+                        "(d) promote the development of cybersecurity in the country to ensure a secured and resilient digital ecosystem;",
+                        "(e) establish a platform for cross-sector engagement on matters of cybersecurity for effective co-ordination and co-operation between key public institutions and the private sector;",
+                        "(f) create awareness of cybersecurity matters; and",
+                        "(g) collaborate with international agencies to promote the  cybersecurity of the country"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 4,
+        "header": "Functions of the Authority",
+        "section": {
+            "main": [
+                {
+                    "content": [
+                        "To achieve the objects under section 3, the Authority shall \n",
+                        "(a) advise the Government and public institutions on all matters related to cybersecurity in the country;",
+                        "(b) promote the security of computers and computer system in the country;",
+                        "(c) monitor cybersecurity threats within and outside the country;",
+                        "(d) establish codes of practice and standards for cybersecurity, and monitor compliance with the codes of practice and standards by the public and private sector owners of critical information infrastructure;",
+                        "(e) establish standards for certifying cybersecurity products of services;",
+                        "(f) Certify cybersecurity products or services in accordance with the standards established pursuant to paragraph (e);",
+                        "(g) take measures in response to cybersecurity incidents that occur within and outside the country which may threaten \n (i) national security; \n (ii) the defence of the country; \n (iii) the economy of the country; \n (iv) international relations between the State and other countries; \n (v) health of the public; \n (vi) the safety of life and property; and \n (vii) any other sector of the country likely to be affected by a cybersecurity incident;",
+                        "(h) identify and designate critical information infrastructure and advise the Minister on the regulation of owners of critical information infrastructure to protect the critical information infrastructure of the country, in accordance with international best practice;",
+                        "(i) provide technical support for law enforcement agencies and security agencies to prosecute cyber offenders;",
+                        "(j)  promote the protection of children online;",
+                        "(k) issue licences for the provision of cybersecurity services specified in the First Schedule;",
+                        "(l) establish standards for the provision of cybersecurity services specified in the First Schedule;",
+                        "(m) support technological advances and research and development in cybersecurity to ensure a resilient and sustainable digital ecosystem;",
+                        "(n) deploy strategies to implement research findings towards the promotion of the cybersecurity of the country;",
+                        "(o) establish and maintain a framework for disseminating information on cybersecurity;",
+                        "(p) submit periodic reports on the state of cybersecurity in the country to the Minister;",
+                        "(q) educate the public on matters related to cybercrime and cybersecurity;",
+                        "(r) build the capacity of persons in the public or private sector in matters related to cybersecurity;",
+                        "(s) collaborate with law enforcement agencies to intercept or disable a digital technology service or product whose operation undermines the cybersecurity of the country;",
+                        "(t) establish and maintain a national register of \n (i) identified and potential risks; \n(ii) the levels and impact of risks; \n(iii) owners of critical information infrastructure; and \n(iv) any other persons licensed or accredited to carry out cybersecurity activities; and",
+                        "(u) perform any other functions which are ancillary to the objects of the Authority."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 5,
+        "header": "Establishment of the Cyber Security Authority",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Cyber Security Authority",
+                    "content": [
+                        "(1) There is established by this Act the Cyber Security Authority asa body corporate.",
+                        "(2) For the performance of functions, the Authority may acquire and hold property, dispose of property and enter into a contract or any other related transaction",
+                        "(3) Where there is a hindrance to the acquisition of land, the land may be acquired for the Authority under the State Lands Act, 1962 (Act125) and the cost shall be borne by the Authority."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 5,
+        "header": "Governing body of the Authority",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Governance of the Authority",
+                    "content": [
+                        "(1) The governing body of the Authority is a Board consisting of \n (a)  the Ministers responsible for \n (i) Communications; \n (ii) the Interior; \n   (iii) National Security; and \n  (iv) Defence; \n (b) the Director-General of the Authority;\n (c) three persons from the Industry Forum nominated by the Industry Forum; and \n (d) three other persons nominated by the President on the advice of the Minister, at least two of whom are women.",
+                        "(2) The President shall nominate the Minister as chairperson of the Board.",
+                        "(3) The chairperson and other members of the Board shall be appointed by the President in accordance with article 70 of the Constitution."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 6,
+        "header": "Functions of the Board",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Governance of the Authority",
+                    "content": []
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 7,
+        "header": "Tenure of office of members of the Board",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Governance of the Authority",
+                    "content": []
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 8,
+        "header": "Tenure of office of members of the Board",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Governance of the Authority",
+                    "content": []
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 9,
+        "header": "Disclosure of interest",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Governance of the Authority",
+                    "content": []
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 10,
+        "header": "Establishment of committees",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Governance of the Authority",
+                    "content": []
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 11,
+        "header": "Allowances",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Governance of the Authority",
+                    "content": [
+                        " Members of the Board and members of a committee of the Board shall be paid allowances determined by the Minister in consultation with the Minister responsible for Finance."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 12,
+        "header": "Policy directives",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Governance of the Authority",
+                    "content": [
+                        " To achieve the object of this Act, the Minister may give directives in writing on matters of policy to the Board and the Board shall comply"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 13,
+        "header": "Joint Cybersecurity Committee",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Governance of the Authority",
+                    "content": [
+                        "(1) There is established by this Act a Joint Cybersecurity Committee.",
+                        "(2) The Joint Cybersecurity Committee consists of \n(a) a Justice of the Superior Court of Judicature with the requisite knowledge and skills in cybercrime and cybersecurity matters, nominated by the Chief Justice; \n (b) the Director-General of the National Information Technology Agency or a representative of the Director General with the requisite knowledge and skills in cybercrime and cybersecurity matters, nominated by the Director-General; \n (c) the Director-General of the National Communications Authority or a representative of the Director-General with the requisite knowledge and skills in cybercrime and cybersecurity matters, nominated by the Director-General; \n (d) the Executive Director of the Data Protection Commission or a representative of the Executive Director with the requisite knowledge and skills in cybercrime and  cybersecurity matters, nominated by the Executive Director;\n(e) the Governor of the Bank of Ghana or a representative of the Governor with the requisite knowledge and skills in cybercrime and cybersecurity matters, nominated by the Governor;\n(f) the Chief Executive Officer of the Financial Intelligence Centre or a representative of the Chief Executive Officer with the requisite knowledge and skills in cybercrime and cybersecurity matters, nominated by the Chief Executive Officer;\n(g) the Director of the Bureau of National Investigations or a representative of the Director with the requisite knowledge and skills in cybercrime and cybersecurity matters, nominated by the Director;\n(h) the Executive Director of the Economic and Organised Crime Office or a representative of the Executive Director with the requisite knowledge and skills in cybercrime and cybersecurity matters, nominated by the Executive Director;\n(i) the Director-General of the Criminal Investigation Department of the Ghana Police Service or a representative of the Director-General with the requisite knowledge and skills in cybercrime and cybersecurity matters, nominated by the Inspector-General of Police;\n(j) the Director of Operations of the National Security Council Secretariat or a representative of the Director with the requisite knowledge and skills in cybercrime and cybersecurity matters, nominated by the Head of the National Security Council Secretariat;\n(k) the Director of the Bureau of National Communications or a representative of the Director with the requisite knowledge and skills in cybercrime and cybersecurity matters, nominated by the Director;\n(l) the Director-General of Defence Intelligence or a representative of the Director-General with the requisite knowledge and skills in cybercrime and cybersecuritymatters, nominated by the Chief of Defence Staff;\n(m) the Comptroller-General of the Immigration Service or a representative of the Comptroller-General with the requisite knowledge and skills in cybercrime and cybersecurity matters, nominated by the Comptroller-General;\n(n) the Director of External Intelligence or a representative of the Director with the requisite knowledge and skills in cybercrime and cybersecurity matters, nominated by the Chief of Defence Staff;\n(o) a representative of the Ghana Armed Forces not below the rank of a Colonel with the requisite knowledge and skills in cybercrime and cybersecurity matters, nominated by the Chief of Defence Staff;\n(p) the Director of the Public Prosecutions Division of the Office of the Attorney-General or a representative of the Director with the requisite knowledge and skills in cybercrime and cybersecurity matters, nominated by the Attorney-General;\n(q) the Director-General of the Authority; and\n(r) the Executive Director of the Ghana Domain Name Registry or a representative of the Executive Director with the requisite knowledge and skills in cybercrime and cybersecurity matters, nominated by the Executive Director ",
+                        "(3) A nomination under subsection (2) shall be made in consultation with the Authority.",
+                        "(4) The President shall appoint the members of the Joint Cybersecurity Committee.",
+                        "(5) The Director-General of the Authority shall preside at meetings of the Joint Cybersecurity Committee and in the absence of the Director General, a member of the Committee elected by the members present from among the number shall preside.",
+                        "(6) The Joint Cybersecurity Committee shall meet at a time and place determined by the Director-General.",
+                        "(7) The quorum at a meeting of the Joint Cybersecurity Committee is ten members ",
+                        "(8) Matters before the Joint Cybersecurity Committee shall be decided by a majority of the members present and voting and in the event of an equality of votes, the person presiding shall have a casting vote.",
+                        "(9) The Joint Cybersecurity Committee shall regulate the procedure for meetings of the Committee.",
+                        "(10) Members of the Joint Cybersecurity Committee shall be paid allowances determined by the Minister in consultation with the Minister responsible for Finance.",
+                        "(11) The Joint Cybersecurity Committee may establish sub-committees comprising members of the Joint Cybersecurity Committee and non-members, including representatives from the private sector, to perform a function of the Joint Cybersecurity Committee.",
+                        "(12) A sub-committee established under subsection (10) shall meet regularly for the conduct of business where the exigencies require.",
+                        "(13) The Joint Cybersecurity Committee shall have a Secretariat at the Headquarters of the Authority."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 14,
+        "header": "Functions of the Joint Cybersecurity Committee",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Governance of the Authority",
+                    "content": [
+                        "(1) The Joint Cybersecurity Committee shall collaborate with the Authority and the sectors or institutions represented on the Committee for the implementation of relevant cybersecurity measures.",
+                        "(2) The Joint Cybersecurity Committee is answerable to the Board in the performance of functions of office. "
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 15,
+        "header": "Appointment of Director-General",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Administrative Provisions",
+                    "content": [
+                        "(1) The President shall, in accordance with article 195 of the Constitution, appoint a Director-General for the Authority.",
+                        "(2) The Director-General shall hold office on the terms and conditions specified in the letter of appointment.",
+                        "(3) A person is qualified for appointment as a Director-General if that person \n (a) has the relevant qualifications and expertise in cybersecurity matters; and \n(b) is a person of proven integrity."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 16,
+        "header": "Functions of the Director-General",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Administrative Provisions",
+                    "content": [
+                        "(1) The Director-General is responsible for the day-to-day administration and management of the Authority and is answerable to the Board in the performance of functions under this Act.",
+                        "(2) The Director-General is responsible for the implementation of the decisions of the Board.",
+                        "(3) The Director-General may delegate a function to an officer of the Authority but shall not be relieved of the ultimate responsibility for the performance of the delegated function."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 17,
+        "header": "Secretary to the Board",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Administrative Provisions",
+                    "content": [
+                        "(1) The Authority shall designate a person appointed under section 20 as the Secretary to the Board.",
+                        "(2) A person shall not be engaged as Secretary to the Board unless that person has \n (a) a professional qualification that equips that person with the requisite knowledge and experience to perform the functions under subsection (3); or \n (b) by virtue of an academic qualification, or as a member of a professional body, is considered by the Board as capable of performing the functions of the Secretary.",
+                        "(3) The Secretary shall subject to the directives of the Board \n (a) arrange the business of the Board; \n(b) keep the minutes of the meetings and decisions of the Board in the form required by the Board; and \n(c) perform any other functions that the Board or the Director General may direct.",
+                        "(4) The Secretary is answerable to the Board in the performance of the functions of office."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 18,
+        "header": "Appointment of inspectors",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Administrative Provisions",
+                    "content": [
+                        "(1) The President shall appoint inspectors for the Authority.",
+                        "(2) An inspector shall hold office on the terms and conditions specified in the letter of appointment and the emoluments of the inspector shall be charged on the funds of the Authority.",
+                        "(3) A person is qualified for appointment as an inspector if that person, \n (a) has knowledge and background in technology and cybersecurity; and \n (b) is a person of proven integrity.",
+                        "(4) Despite subsection (1), an inspector appointed under this Act is not subject to the direction or control of a person or any authority in the performance of functions under this Act."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 19,
+        "header": "Functions of inspectors",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Administrative Provisions",
+                    "content": [
+                        "(1) An inspector shall \n(a) ensure that a production order or an interception warrant issued under this Act is used for the purpose for which the order or warrant was issued; \n(b) ensure that data retained or retrieved in accordance with this Act is used for the purpose for which that data was retained or retrieved; and \n(c) submit quarterly reports on the outcome of inspections carried out to the Board.",
+                        "(2) The expenses incurred in the performance of the functions of an inspector shall be charged on the funds of the Authority.",
+                        "(3) An inspector is answerable to the Board in the performance of the functions of office."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 20,
+        "header": "Appointment of other staff",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Administrative Provisions",
+                    "content": [
+                        "(1) The President shall, in accordance with article 195 of the Constitution, appoint any other staff of the Authority that are necessary for the efficient and effective performance of the functions of the Authority.",
+                        "(2) Other public officers may be transferred or seconded to the  Authority or may give assistance to the Authority.",
+                        "(3) The Authority may, for the efficient and effective discharge of the functions of the Authority, engage the services of consultants and advisors on the recommendation of the Board."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 21,
+        "header": "Divisions of the Authority",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Administrative Provisions",
+                    "content": [
+                        "(1) The Board may establish divisions of the Authority that are necessary for the efficient and effective performance of the functions of the Authority.",
+                        "(2) A division of the Authority shall be headed by a director"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 22,
+        "header": "Internal Audit Unit",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Administrative Provisions",
+                    "content": [
+                        "(1) The Authority shall have an Internal Audit Unit in accordance with section 83 of the Public Financial Management Act, 2016 (Act 921)",
+                        "(2) The Internal Audit Unit shall be headed by an Internal Auditor who shall be appointed in accordance with the Internal Audit Agency Act, 2003 (Act 658).",
+                        "(3) The Internal Auditor is responsible for the internal audit of the Authority.",
+                        "(4) The Internal Auditor shall, subject to subsections (3) and (4) of section 16 of the Internal Audit Agency Act, 2003 (Act 658), at intervals of three months \n(a) prepare and submit to the Board, a report on the internal audit carried out during the period of three months immediately preceding the preparation of the report; and \n(b) make recommendations in each report, with respect to matters which appear to the Internal Auditor as necessary for the conduct of the affairs of the Authority.",
+                        "(5) The Internal Auditor shall, in accordance with subsection (4) of section 16 of the Internal Audit Agency Act, 2003 (Act 658), submit a copy of each report prepared under this section to the Director-General and the chairperson of the Board."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 23,
+        "header": "Funds of the Authority",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Financial Provisions",
+                    "content": [
+                        "The funds of the Authority include \n(a) moneys approved by Parliament; \n(b) administrative penalties; \n(c) any other internally generated funds; \n(d) loans, grants and donations approved by the Minister responsible for Finance; \n(e) an amount charged on the Fund subject to the approval of the Board; and \n(f) any other moneys approved by the Minister responsible for Finance."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 24,
+        "header": "Bank account of the Authority",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Financial Provisions",
+                    "content": [
+                        "The moneys for the Authority shall be paid into a bank account opened for the purpose, by the Authority with the approval of the Controller and Accountant-General."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 25,
+        "header": "Borrowing powers of the Authority",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Financial Provisions",
+                    "content": [
+                        "Subject to section 76 of the Public Financial Management Act, 2016, (Act 921), the Authority may obtain loans and any other credit facility on the guarantee of the Government from a bank or any other financial institution approved by the Minister responsible for Finance."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 26,
+        "header": "Expenses of the Authority",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Financial Provisions",
+                    "content": [
+                        "The expenses of the Authority shall be charged on the funds of the Authority"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 27,
+        "header": "Funds of the Authority",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Financial Provisions",
+                    "content": [
+                        "(1) The Board shall keep books, records, returns and otherdocuments relevant to the accounts in the form approved by the Auditor General.",
+                        "(2) The Board shall submit the accounts of the Authority to theAuditor-General for audit at the end of the financial year.",
+                        "(3) The Auditor-General shall, within six months after the end ofthe immediately preceding financial year, audit the accounts and forwarda copy each of the audit report to the Minister and the Board.",
+                        "(4) The financial year of the Authority is the same as the financialyear of Government."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 28,
+        "header": "Annual report and other reports",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Financial Provisions",
+                    "content": [
+                        "(1) The Board shall, within thirty days after the receipt of the audit report, submit an annual report to the Minister covering the activities and operations of the Authority for the year to which the annual report relates.",
+                        "(2) The annual report shall include \n(a) the report of the Auditor-General; \n(b) a list of persons granted licences and accreditation in the year to which the annual report relates; \n(c) the number and outcome of production orders and interception warrants issued under this Act in the year to which the annual report relates; and \n(d) the report of an inspector attached as a separate report.",
+                        "(3) The Minister shall, within thirty days after the receipt of the annual report, submit the report to Parliament with a statement that the Minister considers necessary.",
+                        "(4) The Board shall submit to the Minister any other report which the Minister may require in writing."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 29,
+        "header": "Establishment of the Cybersecurity Fund",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Cybersecurity Fund",
+                    "content": [
+                        "There is established by this Act a Cybersecurity Fund"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 30,
+        "header": "Object of the Fund",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Cybersecurity Fund",
+                    "content": [
+                        "(1) The object of the Fund is to provide financial resources to promote and strengthen the cybersecurity of the country.",
+                        "(2) To achieve the object of the Fund, moneys from the Fund shall be applied to relevant activities that the Board may determine.",
+                        "(3) Without limiting subsection (2), moneys from the Fund shall be applied to \n (a) support research and development in cybersecurity; \n (b) support domestic, regional and international capacity building exercises in cybersecurity initiatives relevant to the cybersecurity of the country; and \n(c) undertake any other activity that is ancillary to the object of the Fund."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 31,
+        "header": "Sources of moneys for the Fund",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Cybersecurity Fund",
+                    "content": [
+                        "The sources of moneys for the Fund include \n(a) seed money approved by Parliament; \n(b) moneys which may become lawfully payable to the Authority for the Fund; \n(c) grants, gifts, donations and other voluntary contributions; \n(d) a charge determined by the Authority in accordance with the Fees and Charges (Miscellaneous Provisions) Act, 2018 (Act 983) and levied on persons licensed by the Bank of Ghana to carry on business; \n(e) a proportion of the fees charged on all government e-services determined by the Authority in accordance with the Fees and Charges (Miscellaneous Provisions) Act, 2018 (Act 983) \n(f) a levy that may be imposed by Parliament on e-services; and \n(g) any other moneys approved by Parliament for the Fund."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 32,
+        "header": "Bank account for the Fund ",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Cybersecurity Fund",
+                    "content": [
+                        "Moneys for the Fund shall be paid into a bank account opened for that purpose by the Authority with the approval of the Controller and Accountant-General."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 33,
+        "header": "Management of the Fund",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Cybersecurity Fund",
+                    "content": [
+                        "(1) The Board is responsible for the management of the Fund.",
+                        "(2) Sections 27 and 28 on accounts and audit, and annual report and other reports apply to the Fund."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 34,
+        "header": "Disbursement",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Cybersecurity Fund",
+                    "content": [
+                        "The moneys from the Fund shall be disbursed in accordance with the policy guidelines of the Fund. "
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 35,
+        "header": "Designation of critical information infrastructure",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Critical Information Infrastructure",
+                    "content": [
+                        "(1) The Minister may, on the advice of the Authority, designate a computer system or computer network as a critical information infrastructure if the Minister considers that the computer system or computer network is essential for \n(a) national security, or \n(b) the economic and social well-being of citizens.",
+                        "(2) Where the Minister designates a computer system or computer network as a critical information infrastructure, the Minister shall publish the designation in the Gazette.",
+                        "(3) The Minister shall, in making a determination under subsection (1), consider if the computer system or computer network is necessary for \n(a) the security, defence or international relations of the country; \n(b) the production, preservation or identity of a confidential source of information related to the enforcement of criminal law; \n(c) the provision of services directly related to  \n(i) communications and telecommunications infrastructure;  \n(ii) banking and financial services; \n(iii) public utilities; \n(iv) public transportation; and  \n(v) public key infrastructure;  \n(d) the protection of public safety and public health, including systems related to essential emergency services; \n(e) an international business or communication affecting a citizen of Ghana or any other international business in which a citizen of Ghana or the Government has an interest; or \n(f) the Legislature, Executive, Judiciary, Public Services or security agencies.",
+                        "(4) The Minister shall, by publication in the Gazette, establish the procedure for the regulation of a critical information infrastructure."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 36,
+        "header": "Registration of critical information infrastructure ",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Critical Information Infrastructure",
+                    "content": [
+                        "(1) The Authority shall register a critical information infrastructure.",
+                        "(2) The Authority shall, by publication in the Gazette, determine \n(a) the requirements for the registration of a critical information infrastructure; \n(b) the procedure for the registration of a critical information infrastructure; and \n(c) any other matter relating to the registration of a critical information infrastructure.",
+                        "(3) Where there is any change in the legal ownership of a registered critical information infrastructure, the owner of the registered critical information infrastructure shall, within seven days after the change, inform the Authority of the change in ownership.",
+                        "(4) An owner of a registered critical information infrastructure who contravenes subsection (3) is liable to pay to the Authority the administrative penalty specified in the Second Schedule."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 37,
+        "header": "Management of the Fund",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Critical Information Infrastructure",
+                    "content": []
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 38,
+        "header": "Management of the Fund",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Critical Information Infrastructure",
+                    "content": []
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 39,
+        "header": "Duty of owner of critical information infrastructurd",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Critical Information Infrastructure",
+                    "content": [
+                        "(1) An owner of a critical information infrastructure shall \n(a) report a cybersecurity incident within twenty-four hours after the incident is detected to \n(i) the relevant Sectoral Computer Emergency Response Team, or \n(ii) the National Computer Emergency Response Team, in the case of a critical information infrastructure that does not belong to a Sectoral Computer Emergency Response Team; \n(b) cause an audit to be performed on a critical information infrastructure; and \n(c) submit a copy of the audit report to the Authority.",
+                        "(2) An owner of a critical information infrastructure who contravenes \n (a) paragraph (a) of subsection (1), \n (b) paragraph (b) of subsection (1), or \n (c) paragraph (c) of subsection (1) is liable to pay to the Authority the administrative penalty specified in the Second Schedule."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 40,
+        "header": "Access to critical information infrastructure",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Critical Information Infrastructure",
+                    "content": [
+                        "(1) A person shall not without authorisation \n(a) secure access, or \n(b) attempt to secure access to a computer system or a computer network designated as a critical information infrastructure.",
+                        "(2) A person who contravenes subsection (1) commits an offence and is liable on summary conviction to a fine of not less than two thousand, five hundred penalty units and not more than fifteen thousand penalty units or to a term of imprisonment of not less than two years and not more than five years, or to both.",
+                        "(3) Where the offence committed under subsection (1) \n(a) results in a serious bodily injury, financial loss or damage to the computer system or computer network designated as a critical information infrastructure, the person who commited the offence \n(i) in the case of an individual, is liable on summary conviction to a fine of not less than five thousand penalty units and not more than fifty thousand penalty units or to a term of imprisonment of not less than five years and not more than fifteen years or to both; or \n(ii) in the case of a body corporate, a partnership or a firm is liable on summary conviction to a fine of not less than twenty-five thousand penalty units and not more than fifty thousand penalty units; and \n(b) is deemed to be a terrorist act, the person who committed the offence is liable on conviction on indictment to a term of imprisonment of not less than seven years and not more than twenty-five years.",
+                        "(4) Where an offence under subsection (3) is committed by a body corporate or by a member of a partnership or other firm, every director or officer of that body corporate or a member of the partnership or any other person concerned with the management of the firm shall be deemed to have committed that offence and is liable on summary conviction to a fine of not less than five thousand penalty units and not more than fifty thousand penalty units.",
+                        "(5) A person shall not be convicted of an offence by virtue of subsection (4) if it is proved that \n(a) due diligence was exercised to prevent the commission of the offence; and \n(b) the offence was committed without the knowledge, consent or connivance of that person"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 41,
+        "header": "Establishment of the National Computer Emergency Response Team",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "National and Sectoral Computer Emergency Response Teams",
+                    "content": [
+                        "There is established by this Act, the National Computer Emergency Response Team."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 42,
+        "header": "Functions of the National Computer Emergency Response Team",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Critical Information Infrastructure",
+                    "content": [
+                        "The National Computer Emergency Response Team \n (a) is responsible for responding to cybersecurity incidents; \n (b) shall co-ordinate responses to cybersecurity incidents amongst public institutions, private institutions and international bodies; and \n (c) oversee the Sectoral Computer Emergency Response Team established under section 44."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 43,
+        "header": "Responsibility of the Authority relating to response to cybersecurity incident",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Critical Information Infrastructure",
+                    "content": [
+                        "(1) The Authority shall ensure that the National Computer Emergency Response Team \n (a) is equipped with the relevant tools required to effectively respond to cybersecurity incidents; and \n (b) co-operates with Sectoral Computer Emergency Response Team of other countries in respect of cybersecurity incidents.",
+                        "(2) The Authority may give regulatory directives to the Sectoral Computer Emergency Response Teams and the Sectoral Computer Emergency Response Teams shall comply."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 44,
+        "header": "Sectoral Computer Emergency Response Teamd",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Critical Information Infrastructure",
+                    "content": [
+                        "(1) For the purposes of achieving an effective cybersecurity incident co-ordination, the Authority shall, by notice published in the Gazette, establish Sectoral Computer Emergency Response Teams to \n (a) collect and collate cybersecurity incidents; and \n (b) co-ordinate responses to cybersecurity incidents within the sectors.",
+                        "(2) The Authority shall, in establishing a Sectoral Computer Emergency Response Team, take into account factors including \n (a) the needs and criticality of a sector; and \n (b) developments in respect of cybersecurity in the country.",
+                        "(3) The establishment and operational cost of a Sectoral Computer Emergency Response Team established under subsection (1) shall be borne by the sector concerned.",
+                        "(4) The Authority shall accredit and oversee the operation of Sectoral Computer Emergency Response Teams.",
+                        "(5) A Sectoral Computer Emergency Response Team shall submit to the Authority, through the administrative head of that Sectoral Computer Emergency Response Team, a monthly report covering the operations of that Sectoral Computer Emergency Response Team based on a reporting template determined by the Authority.",
+                        "(6) A Sectoral Computer Emergency Response Team that fails to comply with the regulatory directives of the Authority, is liable to pay to the Authority the administrative penalty specified in the Second Schedule.",
+                        "(7) A notice published under subsection (1) shall state the relevant requirements including the \n(a) reporting obligation of the Sectoral Computer Emergency Response Team concerned and the penalty for non compliance; and \n(b) adherence to risk management protocols.",
+                        "(8) For the purposes of this section, “sector” includes the \n (a) public sector; \n (b) banking and financial sector; \n (c) telecommunication sector; \n (d) energy and utilities sector; \n (e) military sector; \n (f) national security sector; \n (g) academic sector; \n (h) health sector; \n (i) transportation sector; and \n (j) any other sector determined by the Authority"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 45,
+        "header": "Cybersecurity incident monitoring and response system",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Critical Information Infrastructure",
+                    "content": [
+                        "(1) The Authority may establish a cybersecurity incident monitoring and response system.",
+                        "(2) The Authority shall implement the relevant technical measures to ensure an effective cybersecurity incident monitoring and response system",
+                        "(3) Without limiting subsection (2), a technical measure aimed at ensuring an effective cybersecurity incident monitoring and response\n  system shall include an interception capability to execute an interception warrant authorised by a Court.",
+                        "(4) For the purposes of subsection (3), the Authority shall intercept, disable or take-down a digital technology, digital service or a digital product that is likely to undermine the cybersecurity of the country."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 46,
+        "header": "Early warning system",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Critical Information Infrastructure",
+                    "content": [
+                        "(1) The Authority shall establish an early warning system in respect of human initiated risks that are likely to undermine the cybersecurity of the country.",
+                        "(2) The Authority shall implement the early warning system to advise the public on cybersecurity matters"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 47,
+        "header": "Duty to report cybersecurity incident",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Cybersecurity Incident Reporting",
+                    "content": [
+                        "(1) A Sectoral Computer Emergency Response Team shall report a cybersecurity incident to the Authority through the National Computer Emergency Response Team.",
+                        "(2) An institution licensed by the Authority to provide a cybersecurity service shall, within the period determined by the Authority, submit to the Authority a report covering the operations of that institution including a report of a cybersecurity incident.",
+                        "(3) The Authority shall establish a cybersecurity incident reporting and information sharing platform to enable a Sectoral Computer Emergency Response Team, a licensee and any other relevant institution report a cybersecurity incident.",
+                        "(4) The Authority shall, upon receipt of information in respect of a cybersecurity incident, circulate the information to a Sectoral Computer Emergency Response Team, a licensee and any other relevant institution.",
+                        "(5) A person in charge of an institution shall report a cybersecurity incident to the relevant Sectoral Computer Emergency Response Team or the National Computer Emergency Response Team within a period of not more than twenty-four hours after the incident is detected.",
+                        "(6) A person who contravenes subsection (5) is liable to pay to the Authority the administrative penalty specified in the Second Schedule."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 48,
+        "header": "Cybersecurity incident point of contact",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Cybersecurity Incident Reporting",
+                    "content": [
+                        "(1) The Authority shall, establish a cybersecurity incident point of \n (a) reporting of a cybersecurity incident by the general public; contact to facilitate and \n (b) international co-operation in cybersecurity matters.",
+                        "(2) An institution that is not affiliated to a designated Sectoral Computer Emergency Response Team, shall report a cybersecurity incident to the National Computer Emergency Response Team through the cybersecurity incident point of contact established under subsection (1).",
+                        "(3) An individual may report a cybersecurity incident to the National Computer Emergency Response Team through the cybersecurity incident point of contact established under subsection (1)."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 49,
+        "header": "     Licensing of cybersecurity service providers",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Licensing of Cybersecurity Service Providers",
+                    "content": [
+                        "(1) A person shall not provide a cybersecurity service unless that person obtains a licence issued by the Authority in accordance with this Act.",
+                        "(2) A person who contravenes subsection (1) is liable to pay to the Authority the administrative penalty specified in the Second Schedule."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 50,
+        "header": "Application for licence",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Licensing of Cybersecurity Service Providers",
+                    "content": [
+                        "(1) A person who seeks to provide a cybersecurity service shall apply in writing to the Authority.",
+                        "(2) The application shall be made in the prescribed form and accompanied by the \n (a) supporting documentation, and \n (b) prescribed fee,that the Authority may determine.",
+                        "(3) The Authority shall within fourteen days of receipt of an application, acknowledge receipt of the application."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 51,
+        "header": " Grant of licence",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Licensing of Cybersecurity Service Providers",
+                    "content": [
+                        " (1) Where the Authority is satisfied that \n(a) the applicant meets the requirements of the Authority for the grant of a licence, and \n(b) the grant of a licence is not against public interest the Authority may grant the licence to the applicant.",
+                        "(2) The Authority shall, within thirty days of receipt of an application for a licence, inform the applicant in writing of the decision of the Authority.",
+                        "(3) A licence granted by the Authority is subject to the terms and conditions specified in the licence.",
+                        "(4) Where the Authority refuses to grant a licence, the Authority shall within twenty-eight days after the refusal communicate in writing the reason for the refusal to grant the licence.",
+                        "(5) A licensed cybersecurity service provider who uses a licence for a purpose other than that for which the licence was granted is liable to pay to the Authority the administrative penalty specified in the Second Schedule."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 52,
+        "header": " Non-transferability of licence",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Licensing of Cybersecurity Service Providers",
+                    "content": [
+                        " (1) A person granted a licence shall not transfer that licence to another person.",
+                        "(2) A person who transfers a licence contrary to subsection (1) commits an offence and is liable on summary conviction to a fine of not less than five thousand penalty units and not more than ten thousand penalty units or to a term of imprisonment of not less than six months and not more than two years, or to both."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 53,
+        "header": "Validity and duration of licence",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Licensing of Cybersecurity Service Providers",
+                    "content": [
+                        "(1) A licence granted under this Act is valid for two years from the date that the licence is granted.",
+                        "(2) A licensed cybersecurity service provider who intends to continue operations as a cybersecurity service provider shall, not later than one month before the expiration of the licence, apply in writing to the Authority for a renewal of the licence."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 54,
+        "header": "Suspension of licence",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Licensing of Cybersecurity Service Providers",
+                    "content": [
+                        "(1) The Authority may suspend a licence issued under this Act for a period of not more than six months where \n(a) the licensee fails to renew the licence not later than one month before the expiration of the licence; or \n(b) the licensee fails to comply with a condition specified in the licence ",
+                        "(2) The Authority shall, before exercising the power of suspension under this section, \n(a) give the licensee thirty days notice in writing of the intention to do so, and \n(b) specify in the notice the grounds on which the Authority intends to suspend the licence.",
+                        "(3) Where the Authority decides to suspend a licence, the Authority shall give the licensee the opportunity \n(a) to submit to the Authority, within the time specified by the Authority, a written statement of objections, if any, to the suspension of the licence; and \n(b) to remedy, within the time specified by the Authority, the breach which has occasioned the decision to suspend the licence.",
+                        "(4) The Authority shall, within twenty-eight days of the suspension of a licence, notify the cybersecurity service provider concerned of the suspension"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 55,
+        "header": "Revocation of licence",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Licensing of Cybersecurity Service Providers",
+                    "content": [
+                        "(1) The Authority may revoke a licence issued under this Act if the Authority considers that \n(a) the licence has been obtained by fraud or misrepresentation; \n(b) the licensee has ceased to carry on the business for which the licensee is licensed; \n(c) the licensee has been convicted of an offence under this Act or an offence involving fraud, dishonesty or moral turpitude; \n(d) a circumstance existed at the time the licence was granted or renewed that the Authority was unaware of, which would have prevented the Authority from granting or renewing the licence of the licensee if the Authority had been aware of the circumstance at that time; \n(e) the licensee has been declared bankrupt or has gone into compulsory or voluntary liquidation other than for the purpose of amalgamation or reconstruction; \n(f) the licensee no longer meets the requirements for holding the licence; or \n(g) it is not in the public interest for the licensee to continue to carry on the business of a licensee.",
+                        "(2) Subsections (1) and (2) of section 54 apply to revocation of a licence.",
+                        "(3) The Authority shall publish the revocation of a licence under this section in the Gazette."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 56,
+        "header": "Review of decision of Authority",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Licensing of Cybersecurity Service Providers",
+                    "content": [
+                        "(1) A person aggrieved by a decision of the Authority may, within twenty-eight days of receipt of the decision, submit a complaint in writing to the Board for a review of the decision.",
+                        "(2) A person dissatisfied with the decision of the Board may, within twenty-eight days after the date of receipt of the decision, submit a complaint in writing to the Minister for a review of the decision of the Board.",
+                        "(3) A person dissatisfied with the decision of the Minister may, within twenty-eight days after the date of receipt of the decision, seek redress in a court of competent jurisdiction "
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 53,
+        "header": " Validity and duration of licence",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Licensing of Cybersecurity Service Providers",
+                    "content": [
+                        "(1) A licence granted under this Act is valid for two years from the date that the licence is granted.",
+                        "(2) A licensed cybersecurity service provider who intends to continue operations as a cybersecurity service provider shall, not later than one month before the expiration of the licence, apply in writing to the Authority for a renewal of the licence."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 54,
+        "header": "Suspension of licence",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Licensing of Cybersecurity Service Providers",
+                    "content": [
+                        "(1) The Authority may suspend a licence issued under this Act for a period of not more than six months where \n(a) the licensee fails to renew the licence not later than one  month before the expiration of the licence; or \n(b) the licensee fails to comply with a condition specified in the licence.",
+                        "(2) The Authority shall, before exercising the power of suspension under this section, \n(a) give the licensee thirty days notice in writing of the intention to do so, and \n(b) specify in the notice the grounds on which the Authority intends to suspend the licence.",
+                        " (3) Where the Authority decides to suspend a licence, the Authority shall give the licensee the opportunity \n(a) to submit to the Authority, within the time specified by the Authority, a written statement of objections, if any, to the suspension of the licence; and \n(b) to remedy, within the time specified by the Authority, the breach which has occasioned the decision to suspend the licence.",
+                        " (4) The Authority shall, within twenty-eight days of the suspension of a licence, notify the cybersecurity service provider concerned of the suspension."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 55,
+        "header": "Revocation of licence",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Licensing of Cybersecurity Service Providers",
+                    "content": [
+                        "(1) The Authority may revoke a licence issued under this Act if the Authority considers that \n (a) the licence has been obtained by fraud or misrepresentation; \n (b) the licensee has ceased to carry on the business for which the licensee is licensed; \n (c) the licensee has been convicted of an offence under this Act or an offence involving fraud, dishonesty or moral turpitude; \n (d) a circumstance existed at the time the licence was granted or renewed that the Authority was unaware of, which would have prevented the Authority from granting or renewing the licence of the licensee if the Authority had been aware of the circumstance at that time; \n (e) the licensee has been declared bankrupt or has gone into compulsory or voluntary liquidation other than for the purpose of amalgamation or reconstruction; \n (f) the licensee no longer meets the requirements for holding the licence; or \n (g) it is not in the public interest for the licensee to continue to carry on the business of a licensee.",
+                        "(2) Subsections (1) and (2) of section 54 apply to revocation of a licence.",
+                        "(3) The Authority shall publish the revocation of a licence under this section in the Gazette."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 56,
+        "header": "   Review of decision of Authority",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Licensing of Cybersecurity Service Providers",
+                    "content": [
+                        " (1) A person aggrieved by a decision of the Authority may, within twenty-eight days of receipt of the decision, submit a complaint in writing to the Board for a review of the decision.",
+                        "(2) A person dissatisfied with the decision of the Board may, within twenty-eight days after the date of receipt of the decision, submit a complaint in writing to the Minister for a review of the decision of the Board.",
+                        "(3) A person dissatisfied with the decision of the Minister may, within twenty-eight days after the date of receipt of the decision, seek redress in a court of competent jurisdiction."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 57,
+        "header": " Accreditation of cybersecurity professionals and practitioners",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": " Accreditation and Certification",
+                    "content": [
+                        "57. The Authority shall establish a mechanism for the accreditation of cybersecurity professionals and practitioners. "
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 58,
+        "header": "Certification of cybersecurity products and technology solutions",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": " Accreditation and Certification",
+                    "content": [
+                        "The Authority shall establish a mechanism for the certification of  cybersecurity products and technology solutions."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 59,
+        "header": " Cybersecurity standards and enforcement",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Cybersecurity Standards, Enforcement and Education",
+                    "content": [
+                        "(1) The Authority shall develop, establish and adopt standards for \n cybersecurity \n (a) education and skills development; \n (b) hardware and software engineering; \n (c) governance and risk management; \n (d) research and development; and \n (e) practitioners in any other relevant area that the Authority may determine in accordance with international best practice.",
+                        "(2) The Authority shall publish on the website of the Authority, the standards developed and promote the adoption of the standards by a Sectoral Computer Emergency Response Team, a licensed service provider, an institution or any other relevant person.",
+                        "(3) The Authority shall take the necessary measures to enforce the cybersecurity standards adopted and monitor compliance by the public and private sectors with the cybersecurity standards.",
+                        "(4) A person who breaches the cybersecurity standards is liable to pay to the Authority the administrative penalty specified in the Second Schedule."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 60,
+        "header": "Cybersecurity public awareness and education",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Cybersecurity Standards, Enforcement and Education",
+                    "content": [
+                        " The Authority shall carry out programmes to promote public awareness and education on matters relating to cybersecurity."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 61,
+        "header": " Research and development programme",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Cybersecurity Standards, Enforcement and Education",
+                    "content": [
+                        " The Authority shall \n(a) develop and implement a research and development programme to promote the development of cybersecurity in the country; \n(b) develop a qualification and competency framework for \n(i) persons offering training in cybersecurity programmes; and \n(ii) educational institutions offering cybersecurity programmes; \n(c) develop or implement technology solutions to mitigate existing and emerging cybersecurity threats and vulnerabilities to ensure the cybersecurity of the country; and \n(d) collaborate with academic research centres and other relevant institutions within and outside the country, for the development and implementation of cybersecurity research and development programmes for the country."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 62,
+        "header": "Indecent image or photograph of a child",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Protection of Children Online",
+                    "content": [
+                        "(1) A person shall not \n (a) take or permit to be taken an indecent image or photograph of a child; \n (b) produce or procure an indecent image or photograph of a child for the purpose of the publication of the indecent image or photograph through a computer system; \n (c) publish, stream, including live stream, an indecent image or photograph of a child through a computer or an electronic device; or \n (d) possess an indecent image or photograph of a child in a computer system or on a computer or electronic record storage medium.",
+                        "(2) A person who contravenes subsection (1) commits an offence and is liable on summary conviction to a fine of not less than two thousand five hundred penalty units and not more than five thousand penalty units or to a term of imprisonment of not less than five years and not more than ten years or to both.",
+                        "(3) For purposes of paragraph (c) of subsection (1), a person publishes an indecent photograph, image or visual recording if that person,\n(a) parts with possession of the indecent photograph, imageor recording to another person; or\n(b) exposes or offers the indecent photograph, image orrecording for acquisition by another person.",
+                        "(4) For the purpose of this section, “indecent image or photograph” includes a material image, visual recording, video, drawing or text that depicts \n(a) a child engaged in sexually explicit or suggestive conduct; \n(b) a person who appears to be a child engaged in sexually explicit or suggestive conduct; \n(c) images representing a child engaged in sexually explicit or suggestive conduct; \n(d) sexually explicit images of children; \n(e) any written material, visual representation or audio recording that advocates or counsels sexual activity with children that would be an offence under the Criminal Offences Act, 1960 (Act 29) or any other relevant enactment;\n (f) any written material that has, as its dominant characteristic,  the description, for a sexual purpose, of sexual activity with  a child that would be an offence under the Criminal  Offences Act, 1960 (Act 29) or any other relevant enactment;  or  \n (g) any audio recording that has as its dominant characteristic  the description, presentation or representation, for a sexual  purpose, of sexual activity with a child that would be an  offence under the Criminal Offences Act, 1960 (Act 29) or  any other relevant enactment. \n(f) any written material that has, as its dominant characteristic, the description, for a sexual purpose, of sexual activity with a child that would be an offence under the Criminal Offences Act, 1960 (Act 29) or any other relevant enactment; or \n(g) any audio recording that has as its dominant characteristic the description, presentation or representation, for a sexual purpose, of sexual activity with a child that would be an offence under the Criminal Offences Act, 1960 (Act 29) or any other relevant enactment"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 63,
+        "header": "     Dealing with a child for purposes of sexual abuse",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Protection of Children Online",
+                    "content": [
+                        "(1) A person shall not use \n (a) a computer online service, \n (b) an internet service, \n (c) a local bulletin board service, or \n (d) any other device capable of electronic data storage or transmission to seduce, solicit, lure, groom or entice, or attempt to seduce, solicit, lure, groom or entice, a child or another person believed by the person to be a child, for the purpose of facilitating, encouraging, offering, or soliciting unlawful sexual conduct of or with any child, or the visual depiction of such conduct.",
+                        "(2) A person who contravenes subsection (1), commits an offence and is liable on summary conviction to a term of imprisonment of not less than five years and not more than fifteen years. "
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 64,
+        "header": "Aiding and abetting of child dealing for purposes of sexual abuse",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Protection of Children Online",
+                    "content": [
+                        "(1) An owner or operator of a computer on-line service, weblog, internet service, or internet bulletin board service shall not \n (a) aid and abet another person for the purpose of facilitating or encouraging the on-line solicitation of a child; or \n (b) permit any person to use the service of that person for the purpose of facilitating, encouraging, offering, or soliciting unlawful sexual conduct of or with a child, or the visual depiction of such conduct.",
+                        "(2) A person who contravenes subsection (1) commits an offence and is liable on summary conviction to a term of imprisonment of not less than five years and not more than fifteen years."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 65,
+        "header": "          Cyberstalking of a child",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Protection of Children Online",
+                    "content": [
+                        "(1) A person shall not use a computer online service, an internet service, or a local internet bulletin board service or any other electronic device to compile, transmit, publish, reproduce, buy, sell, receive, exchange, or disseminate the name, telephone number, electronic mail address, residence address, picture, physical description, characteristics, or any other identifying information on a child in furtherance of an effort to arrange a meeting with the child for the purpose of engaging in sexual intercourse, sexually explicit conduct, or unlawful sexual activity.",
+                        "(2) A person who contravenes subsection (1) commits an offence and is liable on summary conviction to a term of imprisonment of not less than five years and not more than fifteen years.",
+                        "(3) For the purpose of this section, “unlawful sexual activity” means a sexual activity characterised by \n (a) a recurrent intense sexual urge of a person, \n (b) a sexually arousing fantasy of a person, or \n (c) the use of an object by a person resulting in the suffering or humiliation of that person, the partner of that person, a child or any other non-consenting partner."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 66,
+        "header": "Sexual extortion",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Protection of Children Online",
+                    "content": [
+                        "(1) A person shall not threaten to distribute by post, email, text, or transmit, by electronic means or otherwise, a private image or moving images of the other person engaged in sexually explicit conduct, with the specific intent to \n (a) harass, threaten, coerce, intimidate or exert any undue influence on the person, especially to extort money or other consideration or to compel the victim to engage in unwanted sexual activity; or \n (b) actually extort money or other consideration or compel the victim to engage in unwanted sexual activity.",
+                        "(2) A person shall not threaten to distribute by post, email, text, or transmit, by electronic means or otherwise, an intimate image of a child engaged in sexually explicit conduct, with the specific intent to \n (a) harass, threaten, coerce, or intimidate the person, especially with intent to extort money or other consideration or to compel the victim to engage in unwanted sexual activity; or \n (b) actually extort money or other consideration or compel the victim to engage in unwanted sexual activity.",
+                        "(3) For the purposes of subsections (1) and (2), an intimate image may include a depiction in a way that the genital or anal region of another person is bare or covered only by underwear; or the breasts below the top of the areola, that is either uncovered or clearly visible through clothing.",
+                        "(4) A person who contravenes subsection (1) or (2) commits an offence and is liable on summary conviction to a term of imprisonment of not less than ten years and not more than twenty five years."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 67,
+        "header": "    Non-consensual sharing of intimate image",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Other Online Sexual Offences",
+                    "content": [
+                        "(1) A person shall not, with intent to, cause serious emotional distress, intentionally distribute or intentionally cause another person to distribute the intimate image or prohibited visual recording of another identifiable person without the consent of the person depicted in the intimate image and in respect of which, there was a reasonable expectation of privacy both at the time of the creation of the image or visual recording and at the time the offence was committed.",
+                        "(2) A person who contravenes subsection (1) commits an offence and is liable on summary conviction to a term of imprisonment of not less than one year and not more than three years.",
+                        "(3) For the purpose of this section, “serious emotional distress” includes any intentional conduct that results in mental reactions such as fright, nervousness, grief, anxiety, worry, mortification, shock, humiliation and indignity, as well as physical pain."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "secnumber": 68,
+        "header": " Threat to distribute prohibited intimate image or visual recording",
+        "section": {
+            "main": [
+                {
+                    "sectionheader": "Other Online Sexual Offences",
+                    "content": [
+                        " (1) A person shall not threaten another person to distribute a prohibited intimate image or visual recording of that person in a way that would cause that other person distress reasonably arising in all the circumstances and the threat is made in a way that would cause that other person fear, reasonably arising in all the circumstances, of the threat being carried out.",
+                        "(2) A person who contravenes subsection (1) commits an offence and is liable on summary conviction to a term of imprisonment of not less than one year and not more than three years"
+                    ]
+                }
+            ]
+        }
+    },
 
-        {
-            "secnumber": 15,
-            "header": "Appointment of Director-General",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Administrative Provisions",
-                        "content": [
-                            "(1) The President shall, in accordance with article 195 of the Constitution, appoint a Director-General for the Authority.",
-                            "(2) The Director-General shall hold office on the terms and conditions specified in the letter of appointment.",
-                            "(3) A person is qualified for appointment as a Director-General if that person \n (a) has the relevant qualifications and expertise in cybersecurity matters; and \n(b) is a person of proven integrity."
+    {
+    
+        "secnumber": 69,
+        "header": "Application for production order of subscriber information",
+        "section": {
+            "main": {
+                "sectionheader": "Cybersecurity and Investigatory Powers",
+                "content": [
+                    "(1) An investigative officer may apply ex-parte to the High Court,for a production order to collect subscriber information.",
+                    "(2) An investigative officer who makes an application under subsection \n (1) shall demonstrate to the satisfaction of the Court that there are reasonable grounds to believe that the subscriber information associated with a specified communication and related to or connected with a person under investigation is reasonably required for the purposes of a specific criminal investigation.",
+                    "(3) Where an investigative officer makes an application under subsection (1), that investigative officer shall \n (a) explain why the investigative officer believes the subscriber information sought, will be available to the person in control of the computer or computer system; \n (b) identify and explain with specificity the type of subscriber information suspected to be found on the computer or computer system; \n (c) identify and explain with specificity the subscribers, users or unique identifier that may be found on a computer or computer system that is the subject of an investigation or prosecution; \n (d) identify and explain with specificity the offences in respect of which the production order is sought; and \n (e) indicate what measures shall be taken to ensure that the subscriber information will be procured \n (i) whilst maintaining the privacy of other users, customers and third parties, and (ii) without the disclosure of the subscriber information of any party not part of the investigation.",
+                    "(4) Subject to clause (14) of article 19 of the Constitution,proceedings under this section and sections 65 and 68 shall be held incamera."
 
-                        ]
-                    }
-                ]
-            }
-        },
-
-        {
-            "secnumber": 16,
-            "header": "Functions of the Director-General",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Administrative Provisions",
-                        "content": [
-                            "(1) The Director-General is responsible for the day-to-day administration and management of the Authority and is answerable to the Board in the performance of functions under this Act.",
-                            "(2) The Director-General is responsible for the implementation of the decisions of the Board.",
-                            "(3) The Director-General may delegate a function to an officer of the Authority but shall not be relieved of the ultimate responsibility for the performance of the delegated function."
-                            
-                        ]
-                    }
-                ]
-            }
-        },
-        {
-            "secnumber": 17,
-            "header": "Secretary to the Board",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Administrative Provisions",
-                        "content": [
-                            "(1) The Authority shall designate a person appointed under section 20 as the Secretary to the Board.",
-                            "(2) A person shall not be engaged as Secretary to the Board unless that person has \n (a) a professional qualification that equips that person with the requisite knowledge and experience to perform the functions under subsection (3); or \n (b) by virtue of an academic qualification, or as a member of a professional body, is considered by the Board as capable of performing the functions of the Secretary.",
-                            "(3) The Secretary shall subject to the directives of the Board \n (a) arrange the business of the Board; \n(b) keep the minutes of the meetings and decisions of the Board in the form required by the Board; and \n(c) perform any other functions that the Board or the Director General may direct.",
-                            "(4) The Secretary is answerable to the Board in the performance of the functions of office."
-                            
-                        ]
-                    }
-                ]
-            }
-        },
-        {
-            "secnumber": 18,
-            "header": "Appointment of inspectors",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Administrative Provisions",
-                        "content": [
-                            "(1) The President shall appoint inspectors for the Authority.",
-                            "(2) An inspector shall hold office on the terms and conditions specified in the letter of appointment and the emoluments of the inspector shall be charged on the funds of the Authority.",
-                            "(3) A person is qualified for appointment as an inspector if that person, \n (a) has knowledge and background in technology and cybersecurity; and \n (b) is a person of proven integrity.",
-                            "(4) Despite subsection (1), an inspector appointed under this Act is not subject to the direction or control of a person or any authority in the performance of functions under this Act."
-                            
-                            
-                        ]
-                    }
-                ]
-            }
-        },
-        {
-            "secnumber": 19,
-            "header": "Functions of inspectors",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Administrative Provisions",
-                        "content": [
-                            "(1) An inspector shall \n(a) ensure that a production order or an interception warrant issued under this Act is used for the purpose for which the order or warrant was issued; \n(b) ensure that data retained or retrieved in accordance with this Act is used for the purpose for which that data was retained or retrieved; and \n(c) submit quarterly reports on the outcome of inspections carried out to the Board.",
-                            "(2) The expenses incurred in the performance of the functions of an inspector shall be charged on the funds of the Authority.",
-                            "(3) An inspector is answerable to the Board in the performance of the functions of office."
-                                   
-                        ]
-                    }
-                ]
-            }
-        },
-        {
-            "secnumber": 20,
-            "header": "Appointment of other staff",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Administrative Provisions",
-                        "content": [
-                            "(1) The President shall, in accordance with article 195 of the Constitution, appoint any other staff of the Authority that are necessary for the efficient and effective performance of the functions of the Authority.",
-                            "(2) Other public officers may be transferred or seconded to the  Authority or may give assistance to the Authority.",
-                            "(3) The Authority may, for the efficient and effective discharge of the functions of the Authority, engage the services of consultants and advisors on the recommendation of the Board."
-       
-                        ]
-                    }
-                ]
-            }
-        },
-        {
-            "secnumber": 21,
-            "header": "Divisions of the Authority",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Administrative Provisions",
-                        "content": [
-                            "(1) The Board may establish divisions of the Authority that are necessary for the efficient and effective performance of the functions of the Authority.",
-                            "(2) A division of the Authority shall be headed by a director"
-                                
-                        ]
-                    }
-                ]
-            }
-        },
-
-        {
-            "secnumber": 22,
-            "header": "Internal Audit Unit",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Administrative Provisions",
-                        "content": [
-                            "(1) The Authority shall have an Internal Audit Unit in accordance with section 83 of the Public Financial Management Act, 2016 (Act 921)",
-                            "(2) The Internal Audit Unit shall be headed by an Internal Auditor who shall be appointed in accordance with the Internal Audit Agency Act, 2003 (Act 658).",
-                            "(3) The Internal Auditor is responsible for the internal audit of the Authority.",
-                            "(4) The Internal Auditor shall, subject to subsections (3) and (4) of section 16 of the Internal Audit Agency Act, 2003 (Act 658), at intervals of three months \n(a) prepare and submit to the Board, a report on the internal audit carried out during the period of three months immediately preceding the preparation of the report; and \n(b) make recommendations in each report, with respect to matters which appear to the Internal Auditor as necessary for the conduct of the affairs of the Authority.",
-                            "(5) The Internal Auditor shall, in accordance with subsection (4) of section 16 of the Internal Audit Agency Act, 2003 (Act 658), submit a copy of each report prepared under this section to the Director-General and the chairperson of the Board."  
-                        ]
-                    }
-                ]
-            }
-        },
-
-     
-
-
-
-        {
-            "secnumber": 23,
-            "header": "Funds of the Authority",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Financial Provisions",
-                        "content": [
-                            "The funds of the Authority include \n(a) moneys approved by Parliament; \n(b) administrative penalties; \n(c) any other internally generated funds; \n(d) loans, grants and donations approved by the Minister responsible for Finance; \n(e) an amount charged on the Fund subject to the approval of the Board; and \n(f) any other moneys approved by the Minister responsible for Finance."
-                            
-                            
-                            
-                        ]
-                    }
-                ]
-            }
-        },
-        {
-            "secnumber": 24,
-            "header": "Bank account of the Authority",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Financial Provisions",
-                        "content": [ "The moneys for the Authority shall be paid into a bank account opened for the purpose, by the Authority with the approval of the Controller and Accountant-General."
-                            
-                            
-                        ]
-                    }
-                ]
-            }
-        },
-        {
-            "secnumber": 25,
-            "header": "Borrowing powers of the Authority",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Financial Provisions",
-                        "content": [
-                            "Subject to section 76 of the Public Financial Management Act, 2016, (Act 921), the Authority may obtain loans and any other credit facility on the guarantee of the Government from a bank or any other financial institution approved by the Minister responsible for Finance."
-                            
-                        ]
-                    }
-                ]
-            }
-        },
-        {
-            "secnumber": 26,
-            "header": "Expenses of the Authority",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Financial Provisions",
-                        "content": [
-                            "The expenses of the Authority shall be charged on the funds of the Authority"
-                            
-                        ]
-                    }
-                ]
-            }
-        },
-        {
-            "secnumber": 27,
-            "header": "Funds of the Authority",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Financial Provisions",
-                        "content": [
-                            "(1) The Board shall keep books, records, returns and otherdocuments relevant to the accounts in the form approved by the Auditor General.",
-                            "(2) The Board shall submit the accounts of the Authority to theAuditor-General for audit at the end of the financial year.",
-                            "(3) The Auditor-General shall, within six months after the end ofthe immediately preceding financial year, audit the accounts and forwarda copy each of the audit report to the Minister and the Board.",
-                            "(4) The financial year of the Authority is the same as the financialyear of Government."
-                            
-                            
-                        ]
-                    }
-                ]
-            }
-        },
-        {
-            "secnumber": 28,
-            "header": "Annual report and other reports",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Financial Provisions",
-                        "content": [
-                            "(1) The Board shall, within thirty days after the receipt of the audit report, submit an annual report to the Minister covering the activities and operations of the Authority for the year to which the annual report relates.",
-                            "(2) The annual report shall include \n(a) the report of the Auditor-General; \n(b) a list of persons granted licences and accreditation in the year to which the annual report relates; \n(c) the number and outcome of production orders and interception warrants issued under this Act in the year to which the annual report relates; and \n(d) the report of an inspector attached as a separate report.",
-                            "(3) The Minister shall, within thirty days after the receipt of the annual report, submit the report to Parliament with a statement that the Minister considers necessary.",
-                            "(4) The Board shall submit to the Minister any other report which the Minister may require in writing."
-                                
-                        ]
-                    }
-                ]
-            }
-        },
-
-
-        {
-            "secnumber": 29,
-            "header": "Establishment of the Cybersecurity Fund",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Cybersecurity Fund",
-                        "content": [
-                            "There is established by this Act a Cybersecurity Fund"
-                            
-                            
-                        ]
-                    }
-                ]
-            }
-        },
-        {
-            "secnumber": 30,
-            "header": "Object of the Fund",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Cybersecurity Fund",
-                        "content": [
-                            "(1) The object of the Fund is to provide financial resources to promote and strengthen the cybersecurity of the country.",
-                            "(2) To achieve the object of the Fund, moneys from the Fund shall be applied to relevant activities that the Board may determine.",
-                            "(3) Without limiting subsection (2), moneys from the Fund shall be applied to \n (a) support research and development in cybersecurity; \n (b) support domestic, regional and international capacity building exercises in cybersecurity initiatives relevant to the cybersecurity of the country; and \n(c) undertake any other activity that is ancillary to the object of the Fund."
-
-                            
-                            
-                        ]
-                    }
-                ]
-            }
-        },
-        {
-            "secnumber": 31,
-            "header": "Sources of moneys for the Fund",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Cybersecurity Fund",
-                        "content": [
-                            "The sources of moneys for the Fund include \n(a) seed money approved by Parliament; \n(b) moneys which may become lawfully payable to the Authority for the Fund; \n(c) grants, gifts, donations and other voluntary contributions; \n(d) a charge determined by the Authority in accordance with the Fees and Charges (Miscellaneous Provisions) Act, 2018 (Act 983) and levied on persons licensed by the Bank of Ghana to carry on business; \n(e) a proportion of the fees charged on all government e-services determined by the Authority in accordance with the Fees and Charges (Miscellaneous Provisions) Act, 2018 (Act 983) \n(f) a levy that may be imposed by Parliament on e-services; and \n(g) any other moneys approved by Parliament for the Fund."
-                            
-                            
-                        ]
-                    }
-                ]
-            }
-        },
-        {
-            "secnumber": 32,
-            "header": "Bank account for the Fund ",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Cybersecurity Fund",
-                        "content": [
-                            "Moneys for the Fund shall be paid into a bank account opened for that purpose by the Authority with the approval of the Controller and Accountant-General."
-                            
-                            
-                        ]
-                    }
-                ]
-            }
-        },
-        {
-            "secnumber": 33,
-            "header": "Management of the Fund",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Cybersecurity Fund",
-                        "content": [
-                            "(1) The Board is responsible for the management of the Fund.",
-                            "(2) Sections 27 and 28 on accounts and audit, and annual report and other reports apply to the Fund."
-                              
-                        ]
-                    }
-                ]
-            }
-        },
-        {
-            "secnumber": 34,
-            "header": "Disbursement",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Cybersecurity Fund",
-                        "content": [
-                          "The moneys from the Fund shall be disbursed in accordance with the policy guidelines of the Fund. "                           
-                        ]
-                    }
-                ]
-            }
-        },
-
-
-
-
-        {
-            "secnumber": 35,
-            "header": "Designation of critical information infrastructure",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Critical Information Infrastructure",
-                        "content": [
-                            "(1) The Minister may, on the advice of the Authority, designate a computer system or computer network as a critical information infrastructure if the Minister considers that the computer system or computer network is essential for \n(a) national security, or \n(b) the economic and social well-being of citizens.",
-                            "(2) Where the Minister designates a computer system or computer network as a critical information infrastructure, the Minister shall publish the designation in the Gazette.",
-                            "(3) The Minister shall, in making a determination under subsection (1), consider if the computer system or computer network is necessary for \n(a) the security, defence or international relations of the country; \n(b) the production, preservation or identity of a confidential source of information related to the enforcement of criminal law; \n(c) the provision of services directly related to  \n(i) communications and telecommunications infrastructure;  \n(ii) banking and financial services; \n(iii) public utilities; \n(iv) public transportation; and  \n(v) public key infrastructure;  \n(d) the protection of public safety and public health, including systems related to essential emergency services; \n(e) an international business or communication affecting a citizen of Ghana or any other international business in which a citizen of Ghana or the Government has an interest; or \n(f) the Legislature, Executive, Judiciary, Public Services or security agencies.",
-                            "(4) The Minister shall, by publication in the Gazette, establish the procedure for the regulation of a critical information infrastructure."
- 
-                        ]
-                    }
-                ]
-            }
-        },
-
-        {
-            "secnumber": 36,
-            "header": "Registration of critical information infrastructure ",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Critical Information Infrastructure",
-                        "content": [
-                            "(1) The Authority shall register a critical information infrastructure.",
-                            "(2) The Authority shall, by publication in the Gazette, determine \n(a) the requirements for the registration of a critical information infrastructure; \n(b) the procedure for the registration of a critical information infrastructure; and \n(c) any other matter relating to the registration of a critical information infrastructure.",
-                            "(3) Where there is any change in the legal ownership of a registered critical information infrastructure, the owner of the registered critical information infrastructure shall, within seven days after the change, inform the Authority of the change in ownership.",
-                            "(4) An owner of a registered critical information infrastructure who contravenes subsection (3) is liable to pay to the Authority the administrative penalty specified in the Second Schedule."
-                           
-                            
-                        ]
-                    }
-                ]
-            }
-        },
-        {
-            "secnumber": 37,
-            "header": "Management of the Fund",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Critical Information Infrastructure",
-                        "content": [
-                           
-                            
-                        ]
-                    }
-                ]
-            }
-        },
-        {
-            "secnumber": 38,
-            "header": "Management of the Fund",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Critical Information Infrastructure",
-                        "content": [
-                           
-                            
-                        ]
-                    }
-                ]
-            }
-        },
-        {
-            "secnumber": 39,
-            "header": "Duty of owner of critical information infrastructurd",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Critical Information Infrastructure",
-                        "content": [
-                            "(1) An owner of a critical information infrastructure shall \n(a) report a cybersecurity incident within twenty-four hours after the incident is detected to \n(i) the relevant Sectoral Computer Emergency Response Team, or \n(ii) the National Computer Emergency Response Team, in the case of a critical information infrastructure that does not belong to a Sectoral Computer Emergency Response Team; \n(b) cause an audit to be performed on a critical information infrastructure; and \n(c) submit a copy of the audit report to the Authority.",
-                            "(2) An owner of a critical information infrastructure who contravenes \n (a) paragraph (a) of subsection (1), \n (b) paragraph (b) of subsection (1), or \n (c) paragraph (c) of subsection (1) is liable to pay to the Authority the administrative penalty specified in the Second Schedule."
-
-                           
-                            
-                        ]
-                    }
-                ]
-            }
-        },
-
-        {
-            "secnumber": 40,
-            "header": "Access to critical information infrastructure",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Critical Information Infrastructure",
-                        "content": [
-                            "(1) A person shall not without authorisation \n(a) secure access, or \n(b) attempt to secure access to a computer system or a computer network designated as a critical information infrastructure.",
-                            "(2) A person who contravenes subsection (1) commits an offence and is liable on summary conviction to a fine of not less than two thousand, five hundred penalty units and not more than fifteen thousand penalty units or to a term of imprisonment of not less than two years and not more than five years, or to both.",
-                            "(3) Where the offence committed under subsection (1) \n(a) results in a serious bodily injury, financial loss or damage to the computer system or computer network designated as a critical information infrastructure, the person who commited the offence \n(i) in the case of an individual, is liable on summary conviction to a fine of not less than five thousand penalty units and not more than fifty thousand penalty units or to a term of imprisonment of not less than five years and not more than fifteen years or to both; or \n(ii) in the case of a body corporate, a partnership or a firm is liable on summary conviction to a fine of not less than twenty-five thousand penalty units and not more than fifty thousand penalty units; and \n(b) is deemed to be a terrorist act, the person who committed the offence is liable on conviction on indictment to a term of imprisonment of not less than seven years and not more than twenty-five years.",
-                            "(4) Where an offence under subsection (3) is committed by a body corporate or by a member of a partnership or other firm, every director or officer of that body corporate or a member of the partnership or any other person concerned with the management of the firm shall be deemed to have committed that offence and is liable on summary conviction to a fine of not less than five thousand penalty units and not more than fifty thousand penalty units.",
-                            "(5) A person shall not be convicted of an offence by virtue of subsection (4) if it is proved that \n(a) due diligence was exercised to prevent the commission of the offence; and \n(b) the offence was committed without the knowledge, consent or connivance of that person"
-                           
-                            
-                        ]
-                    }
-                ]
-            }
-        },
-        {
-            "secnumber": 41,
-            "header": "Establishment of the National Computer Emergency Response Team",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "National and Sectoral Computer Emergency Response Teams",
-                        "content": [
-                            "There is established by this Act, the National Computer Emergency Response Team."
-                            
-                        ]
-                    }
-                ]
-            }
-        },
-        {
-            "secnumber": 42,
-            "header": "Functions of the National Computer Emergency Response Team",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Critical Information Infrastructure",
-                        "content": [
-                             "The National Computer Emergency Response Team \n (a) is responsible for responding to cybersecurity incidents; \n (b) shall co-ordinate responses to cybersecurity incidents amongst public institutions, private institutions and international bodies; and \n (c) oversee the Sectoral Computer Emergency Response Team established under section 44."
-                            
-                        ]
-                    }
-                ]
-            }
-        },
-        {
-            "secnumber": 43,
-            "header": "Responsibility of the Authority relating to response to cybersecurity incident",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Critical Information Infrastructure",
-                        "content": [
-                            "(1) The Authority shall ensure that the National Computer Emergency Response Team \n (a) is equipped with the relevant tools required to effectively respond to cybersecurity incidents; and \n (b) co-operates with Sectoral Computer Emergency Response Team of other countries in respect of cybersecurity incidents.",
-                            "(2) The Authority may give regulatory directives to the Sectoral Computer Emergency Response Teams and the Sectoral Computer Emergency Response Teams shall comply."
-                            
-                           
-                            
-                        ]
-                    }
-                ]
-            }
-        },
-        {
-            "secnumber": 44,
-            "header": "Sectoral Computer Emergency Response Teamd",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Critical Information Infrastructure",
-                        "content": [
-                            "(1) For the purposes of achieving an effective cybersecurity incident co-ordination, the Authority shall, by notice published in the Gazette, establish Sectoral Computer Emergency Response Teams to \n (a) collect and collate cybersecurity incidents; and \n (b) co-ordinate responses to cybersecurity incidents within the sectors.",
-                            "(2) The Authority shall, in establishing a Sectoral Computer Emergency Response Team, take into account factors including \n (a) the needs and criticality of a sector; and \n (b) developments in respect of cybersecurity in the country.",
-                            "(3) The establishment and operational cost of a Sectoral Computer Emergency Response Team established under subsection (1) shall be borne by the sector concerned.",
-                            "(4) The Authority shall accredit and oversee the operation of Sectoral Computer Emergency Response Teams.",
-                            "(5) A Sectoral Computer Emergency Response Team shall submit to the Authority, through the administrative head of that Sectoral Computer Emergency Response Team, a monthly report covering the operations of that Sectoral Computer Emergency Response Team based on a reporting template determined by the Authority.",
-                            "(6) A Sectoral Computer Emergency Response Team that fails to comply with the regulatory directives of the Authority, is liable to pay to the Authority the administrative penalty specified in the Second Schedule.",
-                            "(7) A notice published under subsection (1) shall state the relevant requirements including the \n(a) reporting obligation of the Sectoral Computer Emergency Response Team concerned and the penalty for non compliance; and \n(b) adherence to risk management protocols.",
-                            "(8) For the purposes of this section, “sector” includes the \n (a) public sector; \n (b) banking and financial sector; \n (c) telecommunication sector; \n (d) energy and utilities sector; \n (e) military sector; \n (f) national security sector; \n (g) academic sector; \n (h) health sector; \n (i) transportation sector; and \n (j) any other sector determined by the Authority"
-                           
-                            
-                        ]
-                    }
-                ]
-            }
-        },
-        {
-            "secnumber": 45,
-            "header": "Cybersecurity incident monitoring and response system",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Critical Information Infrastructure",
-                        "content": [
-                            "(1) The Authority may establish a cybersecurity incident monitoring and response system.",
-                            "(2) The Authority shall implement the relevant technical measures to ensure an effective cybersecurity incident monitoring and response system",
-                            "(3) Without limiting subsection (2), a technical measure aimed at ensuring an effective cybersecurity incident monitoring and response\n  system shall include an interception capability to execute an interception warrant authorised by a Court.",
-                            "(4) For the purposes of subsection (3), the Authority shall intercept, disable or take-down a digital technology, digital service or a digital product that is likely to undermine the cybersecurity of the country."
-                           
-                            
-                        ]
-                    }
-                ]
-            }
-        },
-        {
-            "secnumber": 46,
-            "header": "Early warning system",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Critical Information Infrastructure",
-                        "content": [
-                            "(1) The Authority shall establish an early warning system in respect of human initiated risks that are likely to undermine the cybersecurity of the country.",
-                            "(2) The Authority shall implement the early warning system to advise the public on cybersecurity matters"
-                           
-                            
-                        ]
-                    }
-                ]
-            }
-        },
-
-
-        {
-            "secnumber": 47,
-            "header": "Duty to report cybersecurity incident",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Cybersecurity Incident Reporting",
-                        "content": [
-                            "(1) A Sectoral Computer Emergency Response Team shall report a cybersecurity incident to the Authority through the National Computer Emergency Response Team.",
-                            "(2) An institution licensed by the Authority to provide a cybersecurity service shall, within the period determined by the Authority, submit to the Authority a report covering the operations of that institution including a report of a cybersecurity incident.",
-                            "(3) The Authority shall establish a cybersecurity incident reporting and information sharing platform to enable a Sectoral Computer Emergency Response Team, a licensee and any other relevant institution report a cybersecurity incident.",
-                            "(4) The Authority shall, upon receipt of information in respect of a cybersecurity incident, circulate the information to a Sectoral Computer Emergency Response Team, a licensee and any other relevant institution.",
-                            "(5) A person in charge of an institution shall report a cybersecurity incident to the relevant Sectoral Computer Emergency Response Team or the National Computer Emergency Response Team within a period of not more than twenty-four hours after the incident is detected.",
-                            "(6) A person who contravenes subsection (5) is liable to pay to the Authority the administrative penalty specified in the Second Schedule."
-
-                           
-                            
-                        ]
-                    }
-                ]
-            }
-        },
-                
-        {
-            "secnumber": 48,
-            "header": "Cybersecurity incident point of contact",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Cybersecurity Incident Reporting",
-                        "content": [
-                            "(1) The Authority shall, establish a cybersecurity incident point of \n (a) reporting of a cybersecurity incident by the general public; contact to facilitate and \n (b) international co-operation in cybersecurity matters.",
-                            "(2) An institution that is not affiliated to a designated Sectoral Computer Emergency Response Team, shall report a cybersecurity incident to the National Computer Emergency Response Team through the cybersecurity incident point of contact established under subsection (1).",
-                            "(3) An individual may report a cybersecurity incident to the National Computer Emergency Response Team through the cybersecurity incident point of contact established under subsection (1)."
-                           
-                            
-                        ]
-                    }
-                ]
-            }
-        },
-
-        {
-            "secnumber": 49,
-            "header": "     Licensing of cybersecurity service providers",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Licensing of Cybersecurity Service Providers",
-                        "content": [
-                       
-                          "(1) A person shall not provide a cybersecurity service unless that person obtains a licence issued by the Authority in accordance with this Act.",
-                            "(2) A person who contravenes subsection (1) is liable to pay to the Authority the administrative penalty specified in the Second Schedule."
-                            
-                        ]
-                    }
-                ]
-            }
-        },
-        {
-            "secnumber": 50,
-            "header": "Application for licence",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Licensing of Cybersecurity Service Providers",
-                        "content": [
-                         
-                           "(1) A person who seeks to provide a cybersecurity service shall apply in writing to the Authority.",
-                           "(2) The application shall be made in the prescribed form and accompanied by the \n (a) supporting documentation, and \n (b) prescribed fee,that the Authority may determine.",
-                           "(3) The Authority shall within fourteen days of receipt of an application, acknowledge receipt of the application."
-                           
-                            
-                        ]
-                    }
-                ]
-            }
-        },        {
-            "secnumber": 51,
-            "header": " Grant of licence",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Licensing of Cybersecurity Service Providers",
-                        "content": [
-                          
-                            " (1) Where the Authority is satisfied that \n(a) the applicant meets the requirements of the Authority for the grant of a licence, and \n(b) the grant of a licence is not against public interest the Authority may grant the licence to the applicant.",
-                            "(2) The Authority shall, within thirty days of receipt of an application for a licence, inform the applicant in writing of the decision of the Authority.",
-                            "(3) A licence granted by the Authority is subject to the terms and conditions specified in the licence.",
-                            "(4) Where the Authority refuses to grant a licence, the Authority shall within twenty-eight days after the refusal communicate in writing the reason for the refusal to grant the licence.",
-                            "(5) A licensed cybersecurity service provider who uses a licence for a purpose other than that for which the licence was granted is liable to pay to the Authority the administrative penalty specified in the Second Schedule."
-
-                           
-                            
-                        ]
-                    }
-                ]
-            }
-        }, 
-
-        {
-            "secnumber": 52,
-            "header": " Non-transferability of licence",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Licensing of Cybersecurity Service Providers",
-                        "content": [
-                           
-                       " (1) A person granted a licence shall not transfer that licence to another person.",
-                       "(2) A person who transfers a licence contrary to subsection (1) commits an offence and is liable on summary conviction to a fine of not less than five thousand penalty units and not more than ten thousand penalty units or to a term of imprisonment of not less than six months and not more than two years, or to both."
-                            
-                           
-                            
-                        ]
-                    }
-                ]
-            }
-        },   
-        {
-            "secnumber": 53,
-            "header": "Validity and duration of licence",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Licensing of Cybersecurity Service Providers",
-                        "content": [
-                            "(1) A licence granted under this Act is valid for two years from the date that the licence is granted.",
-                            "(2) A licensed cybersecurity service provider who intends to continue operations as a cybersecurity service provider shall, not later than one month before the expiration of the licence, apply in writing to the Authority for a renewal of the licence."  
-                            
-                        ]
-                    }
-                ]
-            }
-        },        
-        
-        
-        {
-            "secnumber": 54,
-            "header": "Suspension of licence",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Licensing of Cybersecurity Service Providers",
-                        "content": [
-                            "(1) The Authority may suspend a licence issued under this Act for a period of not more than six months where \n(a) the licensee fails to renew the licence not later than one month before the expiration of the licence; or \n(b) the licensee fails to comply with a condition specified in the licence ",
-                            "(2) The Authority shall, before exercising the power of suspension under this section, \n(a) give the licensee thirty days notice in writing of the intention to do so, and \n(b) specify in the notice the grounds on which the Authority intends to suspend the licence.",
-                            "(3) Where the Authority decides to suspend a licence, the Authority shall give the licensee the opportunity \n(a) to submit to the Authority, within the time specified by the Authority, a written statement of objections, if any, to the suspension of the licence; and \n(b) to remedy, within the time specified by the Authority, the breach which has occasioned the decision to suspend the licence.",
-                            "(4) The Authority shall, within twenty-eight days of the suspension of a licence, notify the cybersecurity service provider concerned of the suspension"
-                         
-                           
-                            
-                        ]
-                    }
-                ]
-            }
-        },          
-         {
-            "secnumber": 55,
-            "header": "Revocation of licence",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Licensing of Cybersecurity Service Providers",
-                        "content": [
-                            "(1) The Authority may revoke a licence issued under this Act if the Authority considers that \n(a) the licence has been obtained by fraud or misrepresentation; \n(b) the licensee has ceased to carry on the business for which the licensee is licensed; \n(c) the licensee has been convicted of an offence under this Act or an offence involving fraud, dishonesty or moral turpitude; \n(d) a circumstance existed at the time the licence was granted or renewed that the Authority was unaware of, which would have prevented the Authority from granting or renewing the licence of the licensee if the Authority had been aware of the circumstance at that time; \n(e) the licensee has been declared bankrupt or has gone into compulsory or voluntary liquidation other than for the purpose of amalgamation or reconstruction; \n(f) the licensee no longer meets the requirements for holding the licence; or \n(g) it is not in the public interest for the licensee to continue to carry on the business of a licensee.",
-                            "(2) Subsections (1) and (2) of section 54 apply to revocation of a licence.",
-                            "(3) The Authority shall publish the revocation of a licence under this section in the Gazette."
-
-                           
-                            
-                        ]
-                    }
-                ]
-            }
-        },        {
-            "secnumber": 56,
-            "header": "Review of decision of Authority",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Licensing of Cybersecurity Service Providers",
-                        "content": [
-                            "(1) A person aggrieved by a decision of the Authority may, within twenty-eight days of receipt of the decision, submit a complaint in writing to the Board for a review of the decision.",
-                            "(2) A person dissatisfied with the decision of the Board may, within twenty-eight days after the date of receipt of the decision, submit a complaint in writing to the Minister for a review of the decision of the Board.",
-                            "(3) A person dissatisfied with the decision of the Minister may, within twenty-eight days after the date of receipt of the decision, seek redress in a court of competent jurisdiction "
-                            
-                        ]
-                    }
-                ]
-            }
-        },
-        
-        
-        {
-            "secnumber": 53,
-            "header": "",
-            "section": {
-                "main": [
-                    {
-                        "sectionheader": "Licensing of Cybersecurity Service Providers",
-                        "content": [
-                         
-                           
-                            
-                        ]
-                    }
+                   
                 ]
             }
         }
-        
-        
-        
-        
-        
-        
-        
-       
-       
-
     
-    ]
+}
+
+]
