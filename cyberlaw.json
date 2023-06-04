@@ -1243,291 +1243,346 @@
     },
     {
         "secnumber": 75,
-        "header": "",
+        "header": "Duration and extension of a production order or an interception warrant",
         "section": {
             "main": {
                 "sectionheader": "Cybersecurity and Investigatory Powers",
-                "content": []
+                "content": [
+                    "(1) A production order or an interception warrant issued under section 70, 72 or 74 is valid for the period specified in the production order or interception warrant and may be extended.",
+                    "(2) Where an extension is necessary, an investigative officer, a senior investigative officer or a designated officer, as the case may be, may apply to the High Court to obtain an extension of that production order or interception warrant.",
+                    "(3) An application for an extension of a production order or an interception warrant to collect or record \n (a) subscriber information, \n (b) traffic data, or \n (c) content data is subject to the same conditions for the issue of the production order or interception warrant."
+                ]
             }
         }
     },
     {
         "secnumber": 76,
-        "header": "",
+        "header": "Interception capability",
         "section": {
             "main": {
                 "sectionheader": "Cybersecurity and Investigatory Powers",
-                "content": []
+                "content": [
+                    "(1) The Authority may request a service provider to install an interception capability to enforce interception warrants issued by a court of competent jurisdiction.",
+                    "(2) The Authority shall specify the requirements for the interception capability based on relevant technology and security standards.",
+                    "(3) A service provider required by the Authority to install an interception capability under subsection (1) shall appoint a focal person to oversee the execution of interception warrants and related matters in the organisation concerned.",
+                    "(4) A focal person appointed under subsection (3) is subject to security clearance by the National Security Co-ordinator.",
+                    "(5) Equipment obtained for the purpose of the interception capability under this Act shall not be \n(a) installed, managed or monitored in a foreign country; or \n(b) in a form to enable the equipment to be remotely accessed from a foreign country for the purposes of maintenance.",
+                    "(6) A service provider required to obtain an interception capability shall take the necessary steps to have the ability to decrypt a telecommunication message.",
+                    "(7) A service provider that is required to obtain an interception capability shall bear the cost of the installation or modification of the interception capability.",
+                    "(8) The requirement for the installation of an interception capability applies to a domestic service provider.",
+                    "(9) A service provider which is a body corporate that contravenes subsection (5) commits an offence and is liable on summary conviction to a fine of not less than ten thousand penalty units and not more than twenty thousand penalty units.",
+                    "(10) The Chief Executive Officer, Deputy Chief Executive Officer, Chief Legal Officer or the officer-in-charge of finance for the service provider that commits an offence under subsection (9) shall be deemed to have also committed the offence.",
+                    "(11) A person shall not be convicted of an offence pursuant to subsection (10), where it is proved to the satisfaction of the Court that, having regard to the nature of the offence \n(a) that person did not consent to, or did not connive in the commission of the offence, or \n(b) that person did exercise the degree of reasonable diligence as in the circumstances ought to have been exercised to prevent the commission of the offence.",
+                    "(12) A service provides who fails to comply with a request of the Authority under subsection (1) or who contravenes subsection (6) is liable to pay to the Authority the administrative penalty specified in the Second Schedule. "
+                ]
             }
         }
     },
     {
         "secnumber": 77,
-        "header": "",
+        "header": "Retention of data",
         "section": {
             "main": {
                 "sectionheader": "Cybersecurity and Investigatory Powers",
-                "content": []
+                "content": [
+                    "(1) A service provider shall retain \n(a) subscriber information for at least six years; \n(b) traffic data for a period of twelve months; and \n(c) relevant content data for a period of twelve months.",
+                    "(2) Where it is necessary for traffic data and content data to be retained for more than twelve months, the investigative officer, the senior investigative officer authorised by a designated officer or the designated officer, as the case may be, may apply ex-parte to the High Court, for an extension of the period.",
+                    "(3) Where the Court grants an order for an extension, the order shall (a) indicate the period of the extension; and (b) be served on the service provider.",
+                    "(4) A service provider or any other person who has access to data retained, processed or retrieved in accordance with this Act shall not use that data for a purpose other than what is stated in an interception warrant.",
+                    "(5) A service provider or any other person who contravenes subsection (1) or (4) is liable to pay to the Authority the administrative penalty specified in the Second Schedule."
+                ]
             }
         }
     },
     {
         "secnumber": 78,
-        "header": "",
+        "header": "Freezing of assets",
         "section": {
             "main": {
-                "sectionheader": "Cybersecurity and Investigatory Powers",
-                "content": []
+                "sectionheader": "Realisation of Property",
+                "content": [
+                    "(1) Where on an application by the Authority, the Court is satisfied that the Authority has reasonable grounds to suspect that a person has committed or is committing an offence under this Act or has been involved in a crime in cyberspace, the Court may by an order \n(a) restrain that person or any other person acting on behalf of that person or a person holding assets on behalf of that person from disposing, transferring or pledging an asset or making a withdrawal from an account or deposit at a bank or financial institution; \n(b) attach the assets due or owing, or belonging to, or held by or on behalf of that person; \n(c) compel that person to make a full disclosure within the time specified in the order, of all assets and the nature and source of the assets; \n(d) compel the person named in the order to make a full disclosure of the assets held on behalf of that person; or \n(e) direct the opening, in the presence of a person authorised by the Authority, of a safe deposit box held on behalf of the person named in the order.",
+                    "(2) An order under subsection (1) shall be served on the person named in the order.",
+                    "(3) Where an order is made under paragraph (a) or (b) of subsection (1), the Authority may give notice of the order to all persons who may hold or be vested with property belonging to or held on behalf of the person named in the order.",
+                    "(4) Where a notice is published under subsection (3), a person who allows, procures or facilitates the disposal of money or property belonging to the person named in the order, commits an offence.",
+                    "(5) An order under paragraph (a) or (b) of subsection (1), shall remain in force until the final determination of the matter involving the person named in the order."
+                ]
             }
         }
     },
     {
         "secnumber": 79,
-        "header": "",
+        "header": "Realisation of property",
         "section": {
             "main": {
-                "sectionheader": "Cybersecurity and Investigatory Powers",
-                "content": []
+                "sectionheader": "Realisation of Property",
+                "content": [
+                    " (1) Where an order freezing assets is made under subsection (1) of section 78, and the freezing order is not discharged or not subject to an appeal, the Court shall on an application by the Attorney-General, direct \n(a) the Attorney-General to manage the property; \n(b) the Attorney-General to take possession of the realisable property subject to the conditions specified by the Court; \n(c) a person who has possession of the realisable property to surrender possession of the property to the Attorney General; \n(d) the Attorney-General to dispose of the realisable property in a manner as directed by the Court; or \n(e) a person who holds an interest in the property to make payment to the Attorney-General in respect of a beneficial interest held by the respondent or the recipient of a gift specified in this Act as the Court shall direct.",
+                    "(2) The Court shall transfer, grant or extinguish the interest in the property on payment being made under paragraph (e) of subsection (1).",
+                    "(3) The Court shall give a person who holds interest in the property reasonable opportunity to make representation to the Court before making an order under paragraph (b), (c), (d) or (e) of subsection (1) and also under subsection (2)."
+                ]
             }
         }
     },
     {
         "secnumber": 80,
+        "header": "Utilisation of proceeds of realisable property",
+        "section": {
+            "main": {
+                "sectionheader": "Realisation of Property",
+                "content": [
+                    " (1) The Court shall direct that seventy per cent of the amount realised be paid to the Authority to defray the expenses of the Authority.",
+                    "(2) The Court shall direct the Attorney-General to pay ten per cent of the amount realised to the Office of the Attorney-General.",
+                    "(3) The Attorney-General shall, after payment is made under subsections (1) and (2), pay the rest into the Consolidated Fund."
+                ]
+            }
+        }
+    },
+    {
+        "secnumber": 81,
+        "header": " Establishment of Industry Forum",
+        "section": {
+            "main": {
+                "sectionheader": "Industry Forum",
+                "content": [
+                    " (1) There is established under this Act, an Industry Forum which is a platform that periodically brings the industry together to discuss matters of common interest to the industry.",
+                    "(2) The Authority may designate a body by notice within the industry to be the facilitator for the Forum if the Authority is satisfied that the body \n(a) is capable of performing the function required under this section; \n(b) has the administrative capacity to facilitate the Forum; and \n(c) has agreed in writing to be the facilitator for the Forum.",
+                    "(3) A cybersecurity service provider, service provider, telecommunications network operator and any other person concerned with matters of the industry may participate in the activities of the Forum.",
+                    "(4) The Authority may decide that a body that was previously designated to be the facilitator for the Forum shall no longer be the facilitator if the Authority is satisfied that the body has ceased to meet the requirements set out in subsection (2).",
+                    "(5) A designation or withdrawal of designation under this section shall take effect from the time specified by the Authority.",
+                    "(6) Until the Authority designates a facilitator, the Authority shall facilitate the meetings of the Forum.",
+                    "(7) The Minister and the Authority shall participate in the Forum as observers."
+                ]
+            }
+        }
+    },
+    {
+        "secnumber": 82,
+        "header": " Industry code",
+        "section": {
+            "main": {
+                "sectionheader": "Industry Forum",
+                "content": [
+                    "(1) An Industry Forum may \n(a) on its own initiative, or \n(b) upon request by the Authority, prepare a voluntary industry code to deal with a matter provided for in this Act.",
+                    "(2) The code is not effective until the code is registered by the Authority.",
+                    "(3) The Authority shall register a voluntary industry code if the code is consistent with \n(a) the objects of the Authority, \n(b) Regulations, standards and Guidelines made under this Act, \n(c) the provisions of this Act which are relevant to the particular matter or activity.",
+                    "(4) The Authority may refuse to register a code if the Authority is satisfied that sufficient opportunity for public consultation has not been given in the development of the code by the Forum.",
+                    "(5) If registration of the code is refused, the Authority shall notify the Forum in writing and provide the reasons for the refusal within thirty days of the refusal.",
+                    "(6) If the Authority \n(a) fails to register a code within thirty days after the date that the code was submitted for registration, and \n(b) does not give the Forum notice of the refusal to register the code and the reasons for the refusal within the required period the Authority shall be deemed to have registered the code."
+                ]
+            }
+        }
+    },
+    {
+        "secnumber": 83,
+        "header": " International co-operation",
+        "section": {
+            "main": {
+                "sectionheader": "Miscellaneous Provisions",
+                "content": [
+                    " (1) The Authority shall in the performance of the functions of the Authority, promote the security of cyberspace through international co-operation.",
+                    "(2) The Authority shall implement relevant measures for the effective implementation and enforcement of international treaties on cybercrime and cybersecurity, of which Ghana is a signatory.",
+                    "(3) For the purposes of international co-operation, the Authority shall designate and maintain a 24/7 contact point to tackle cybercrime.",
+                    "(4) The 24/7 contact point shall provide assistance in respect of \n(a) technical advice to other contact points; \n(b) the expeditious preservation of data and evidence; \n(c) information on the detection of suspects and related matters; \n(d) the immediate transmission of legal requests in accordance with applicable laws and treaties; and \n(e) any other matter related to paragraphs (a) to (d)."
+                ]
+            }
+        }
+    },
+    {
+        "secnumber": 84,
+        "header": " Immunity of members of the Authority",
+        "section": {
+            "main": {
+                "sectionheader": "Miscellaneous Provisions",
+                "content": [
+                    "A member of the Board and an officer of the Authority shall enjoy immunity from civil liability for actions taken or omitted to be taken in good faith in the performance of the functions of the Authority"
+                ]
+            }
+        }
+    },
+    {
+        "secnumber": 85,
         "header": "",
         "section": {
             "main": {
-                "sectionheader": "Cybersecurity and Investigatory Powers",
+                "sectionheader": "Miscellaneous Provisions",
                 "content": []
             }
         }
     },
     {
-        "secnumber": 70,
+        "secnumber": 86,
         "header": "",
         "section": {
             "main": {
-                "sectionheader": "Cybersecurity and Investigatory Powers",
+                "sectionheader": "Miscellaneous Provisions",
                 "content": []
             }
         }
     },
     {
-        "secnumber": 70,
+        "secnumber": 87,
         "header": "",
         "section": {
             "main": {
-                "sectionheader": "Cybersecurity and Investigatory Powers",
+                "sectionheader": "Miscellaneous Provisions",
                 "content": []
             }
         }
     },
     {
-        "secnumber": 70,
+        "secnumber": 88,
+        "header": " Co-operation",
+        "section": {
+            "main": {
+                "sectionheader": "Miscellaneous Provisions",
+                "content": [
+                    "A public institution or a private institution shall co-operate with the Authority for the purpose of ensuring the cybersecurity of the country."
+                ]
+            }
+        }
+    },
+    {
+        "secnumber": 89,
         "header": "",
         "section": {
             "main": {
-                "sectionheader": "Cybersecurity and Investigatory Powers",
+                "sectionheader": "Miscellaneous Provisions",
                 "content": []
             }
         }
     },
     {
-        "secnumber": 70,
+        "secnumber": 90,
+        "header": "Trial court and procedural powers",
+        "section": {
+            "main": {
+                "sectionheader": "Miscellaneous Provisions",
+                "content": [
+                    " (1) The High Court shall have jurisdiction (a) to try an offence under this Act; and (b) in any other matter arising under this Act.",
+                    "(2) The procedural powers specified under the Electronic Transactions Act, 2008 (Act 772) and any other applicable enactment shall apply under this Act."
+                ]
+            }
+        }
+    },
+    {
+        "secnumber": 91,
+        "header": "Guidelines",
+        "section": {
+            "main": {
+                "sectionheader": "Miscellaneous Provisions",
+                "content": [
+                    "The Authority shall publish guidelines that the Authority considers necessary for: \n(a) the identification of critical information infrastructure; \n(b) the registration of critical information infrastructure; \n(c) the protection of critical information infrastructure; \n(d) the management of critical information infrastructure; \n(e) access to, transfer and control of data in critical information infrastructure; \n(f) the storage or archiving of data or information in critical information infrastructure; \n(g) reporting incidents involving critical information infrastructure; and \n(h) any other matter required for the adequate protection of critical information infrastructure."
+                ]
+            }
+        }
+    },
+    {
+        "secnumber": 92,
+        "header": "       Directives",
+        "section": {
+            "main": {
+                "sectionheader": "Miscellaneous Provisions",
+                "content": [
+                    " (1) The Authority may issue directives to an owner of a critical information infrastructure, a cybersecurity service provider or service provider for the purpose of ensuring the cybersecurity of the country. (2) An owner of a critical information infrastructure, a cybersecurity service provider or a service provider who fails to comply with the directives issued under subsection (1) is liable to pay to the Authority the administrative penalty specified in the Second Schedule. Administrative penalties for contraventions"
+                ]
+            }
+        }
+    },
+    {
+        "secnumber": 93,
+        "header": "Administrative penalties for contraventions",
+        "section": {
+            "main": {
+                "sectionheader": "Miscellaneous Provisions",
+                "content": [
+                    "The Authority shall, for the purpose of imposing an administrative penalty under this Act, take into account \n(a) the size of the service provider concerned; \n(b) the criticality of the sector; \n(c) the impact of the contravention; and \n(d) any other relevant criterion determined by the Minister. "
+                ]
+            }
+        }
+    },
+    {
+        "secnumber": 94,
+        "header": " Unlawful access",
+        "section": {
+            "main": {
+                "sectionheader": "Miscellaneous Provisions",
+                "content": [
+                    " A person who, without lawful authority retrieves subscriber information or intercepts traffic data or content data, commits an offence and is liable on summary conviction to a fine of not less than two thousand five hundred penalty units and not more than fifteen thousand penalty units or to a term of imprisonment of not less than two years and not more than five years or, to both"
+                ]
+            }
+        }
+    },
+    {
+        "secnumber": 95,
+        "header": "General penalty",
+        "section": {
+            "main": {
+                "sectionheader": "Miscellaneous Provisions",
+                "content": [
+                    " A person who contravenes a section of this Act for which a penalty is not provided commits an offence and is liable on summary conviction to a fine of not less than two thousand, five hundred penalty units and not more than twenty thousand penalty units or to a term of imprisonment of not less than two years and not more than five years or to both."
+                ]
+            }
+        }
+    },
+    {
+        "secnumber": 96,
+        "header": "Regulations",
+        "section": {
+            "main": {
+                "sectionheader": "Miscellaneous Provisions",
+                "content": [
+                    "The Minister may, by legislative instrument, make Regulations to provide for \n(a) the forms for applications; \n(b) authorisations and licences; \n(c) the use of equipment to intercept or disable a digital technology service or product by authorised persons to execute an interception warrant; \n(d) accreditation of cybersecurity professionals and practitioners; \n(e) the operaionalisation of a platform for cross-sector engagement on matters of cybersecurity for effective coordination and cooperation between key public institutions and the private sector; \n(f) the promotion and development of cybersecurity to ensure a secured and resilient digital ecosystem; \n(g) certification of cybersecurity products and technology solutions; \n(h) implementation of early warning system; \n(i) receipt of complaints by the National Computer Emergency Response Team from Sectoral Computer Emergency Response Teams, citizens and other similar international bodies; \n(j) the modalities for \n(i) the preservation of data; and \n(ii) the retention of data; \n(k) dispute resolution; \n(l) amendment of the administrative penalties specified in the Second Schedule; and \n(m) any other matters necessary for the effective implementation of this Act."
+                ]
+            }
+        }
+    },
+    {
+        "secnumber": 97,
         "header": "",
         "section": {
             "main": {
-                "sectionheader": "Cybersecurity and Investigatory Powers",
+                "sectionheader": "Miscellaneous Provisions",
                 "content": []
             }
         }
     },
     {
-        "secnumber": 70,
-        "header": "",
+        "secnumber": 98,
+        "header": " Repeals and savings",
         "section": {
             "main": {
-                "sectionheader": "Cybersecurity and Investigatory Powers",
-                "content": []
+                "sectionheader": "Miscellaneous Provisions",
+                "content": [
+                    "(1) Sections 118 and 136 of the Electronic Transactions Act, 2008 (Act 772) are repealed.",
+                    "(2) Despite the repeal of sections 118 and 136, any notices, orders, directions, appointments or instruments issued or made under the repealed provisions shall continue in force until reviewed, cancelled or terminated."
+                ]
             }
         }
     },
     {
-        "secnumber": 70,
-        "header": "",
+        "secnumber": 99,
+        "header": "Consequential amendments",
         "section": {
             "main": {
-                "sectionheader": "Cybersecurity and Investigatory Powers",
-                "content": []
+                "sectionheader": "Miscellaneous Provisions",
+                "content": [
+                    "(1) The Electronic Transactions Act, 2008 (Act 772) is amended \n(a) by the deletion of the heading “Cyber Inspectors” before section 98; and \n(b) in section 144 by the deletion of the definition of “cyber inspector”.",
+                    "(2) The Extradition Act, 1960 (Act 22) is amended in the First Schedule by the addition of the following after “Falsification of Currency and Similar Offences”: \n“Cyber Offences An offence under sections 107 to 123 of the Electronic Transactions Act, 2008 (Act 772). Cybercrime and Cyber Offences A cybercrime or an offence under the Cybersecurity Act, 2020 (Act ………….).”."
+                ]
             }
         }
     },
     {
-        "secnumber": 70,
-        "header": "",
+        "secnumber": 100,
+        "header": "  Transitional provisions",
         "section": {
             "main": {
-                "sectionheader": "Cybersecurity and Investigatory Powers",
-                "content": []
-            }
-        }
-    },
-    {
-        "secnumber": 70,
-        "header": "",
-        "section": {
-            "main": {
-                "sectionheader": "Cybersecurity and Investigatory Powers",
-                "content": []
-            }
-        }
-    },
-    {
-        "secnumber": 70,
-        "header": "",
-        "section": {
-            "main": {
-                "sectionheader": "Cybersecurity and Investigatory Powers",
-                "content": []
-            }
-        }
-    },
-    {
-        "secnumber": 70,
-        "header": "",
-        "section": {
-            "main": {
-                "sectionheader": "Cybersecurity and Investigatory Powers",
-                "content": []
-            }
-        }
-    },
-    {
-        "secnumber": 70,
-        "header": "",
-        "section": {
-            "main": {
-                "sectionheader": "Cybersecurity and Investigatory Powers",
-                "content": []
-            }
-        }
-    },
-    {
-        "secnumber": 70,
-        "header": "",
-        "section": {
-            "main": {
-                "sectionheader": "Cybersecurity and Investigatory Powers",
-                "content": []
-            }
-        }
-    },
-    {
-        "secnumber": 70,
-        "header": "",
-        "section": {
-            "main": {
-                "sectionheader": "Cybersecurity and Investigatory Powers",
-                "content": []
-            }
-        }
-    },
-    {
-        "secnumber": 70,
-        "header": "",
-        "section": {
-            "main": {
-                "sectionheader": "Cybersecurity and Investigatory Powers",
-                "content": []
-            }
-        }
-    },
-    {
-        "secnumber": 70,
-        "header": "",
-        "section": {
-            "main": {
-                "sectionheader": "Cybersecurity and Investigatory Powers",
-                "content": []
-            }
-        }
-    },
-    {
-        "secnumber": 70,
-        "header": "",
-        "section": {
-            "main": {
-                "sectionheader": "Cybersecurity and Investigatory Powers",
-                "content": []
-            }
-        }
-    },
-    {
-        "secnumber": 70,
-        "header": "",
-        "section": {
-            "main": {
-                "sectionheader": "Cybersecurity and Investigatory Powers",
-                "content": []
-            }
-        }
-    },
-    {
-        "secnumber": 70,
-        "header": "",
-        "section": {
-            "main": {
-                "sectionheader": "Cybersecurity and Investigatory Powers",
-                "content": []
-            }
-        }
-    },
-    {
-        "secnumber": 70,
-        "header": "",
-        "section": {
-            "main": {
-                "sectionheader": "Cybersecurity and Investigatory Powers",
-                "content": []
-            }
-        }
-    },
-    {
-        "secnumber": 70,
-        "header": "",
-        "section": {
-            "main": {
-                "sectionheader": "Cybersecurity and Investigatory Powers",
-                "content": []
-            }
-        }
-    },
-    {
-        "secnumber": 70,
-        "header": "",
-        "section": {
-            "main": {
-                "sectionheader": "Cybersecurity and Investigatory Powers",
-                "content": []
-            }
-        }
-    },
-    {
-        "secnumber": 70,
-        "header": "",
-        "section": {
-            "main": {
-                "sectionheader": "Cybersecurity and Investigatory Powers",
-                "content": []
-            }
-        }
-    },
-    {
-        "secnumber": 70,
-        "header": "",
-        "section": {
-            "main": {
-                "sectionheader": "Cybersecurity and Investigatory Powers",
-                "content": []
+                "sectionheader": "Miscellaneous Provisions",
+                "content": [
+                    "(1) The total sum of moneys located in any account designated for the Fund, before the coming into force of this Act shall, on the coming into force of this Act be transferred into the account of the Fund.",
+                    "(2) A person who provides a cybersecurity service before the coming into force of this Act shall, within three months of the coming into force of this Act, apply to the Authority to obtain a licence"
+                ]
             }
         }
     }
