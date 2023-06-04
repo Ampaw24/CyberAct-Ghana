@@ -5,15 +5,15 @@
         "section": {
             "main": [
                 {
-                "sectionheader": "Application",
-                "content": [
-                    "(1) This Act applies to cybersecurity activities in the country.",
-                    "(2) This Act shall be read together with other relevant enactments including the \n (a) Criminal Offences Act, 1960 (Act 29); \n (b) Evidence Act, 1975 (N.R.C.D. 323); \n (c) Foreign Exchange Act, 2006 (Act 723);\n (d) Anti-Money Laundering Act, 2008 (Act 749);\n(e) Anti-Terrorism Act, 2008 (Act 762);\n(f) Electronic Transactions Act, 2008 (Act 772);\n(g) Electronic Communications Act, 2008 (Act 775);\n(h) Economic and Organised Crime Office Act, 2010 (Act 804); (i) Mutual Legal Assistance Act, 2010 (Act 807);\n(j) Data Protection Act, 2012 (Act 843); and\n(k) Payment Systems and Services Act, 2019 (Act 987)."
-                ]
-            }]
+                    "sectionheader": "Application",
+                    "content": [
+                        "(1) This Act applies to cybersecurity activities in the country.",
+                        "(2) This Act shall be read together with other relevant enactments including the \n (a) Criminal Offences Act, 1960 (Act 29); \n (b) Evidence Act, 1975 (N.R.C.D. 323); \n (c) Foreign Exchange Act, 2006 (Act 723);\n (d) Anti-Money Laundering Act, 2008 (Act 749);\n(e) Anti-Terrorism Act, 2008 (Act 762);\n(f) Electronic Transactions Act, 2008 (Act 772);\n(g) Electronic Communications Act, 2008 (Act 775);\n(h) Economic and Organised Crime Office Act, 2010 (Act 804); (i) Mutual Legal Assistance Act, 2010 (Act 807);\n(j) Data Protection Act, 2012 (Act 843); and\n(k) Payment Systems and Services Act, 2019 (Act 987)."
+                    ]
+                }
+            ]
         }
     },
-
     {
         "secnumber": 2,
         "header": "Establishment of the Cyber Security Authority",
@@ -1151,9 +1151,7 @@
             ]
         }
     },
-
     {
-    
         "secnumber": 69,
         "header": "Application for production order of subscriber information",
         "section": {
@@ -1164,12 +1162,373 @@
                     "(2) An investigative officer who makes an application under subsection \n (1) shall demonstrate to the satisfaction of the Court that there are reasonable grounds to believe that the subscriber information associated with a specified communication and related to or connected with a person under investigation is reasonably required for the purposes of a specific criminal investigation.",
                     "(3) Where an investigative officer makes an application under subsection (1), that investigative officer shall \n (a) explain why the investigative officer believes the subscriber information sought, will be available to the person in control of the computer or computer system; \n (b) identify and explain with specificity the type of subscriber information suspected to be found on the computer or computer system; \n (c) identify and explain with specificity the subscribers, users or unique identifier that may be found on a computer or computer system that is the subject of an investigation or prosecution; \n (d) identify and explain with specificity the offences in respect of which the production order is sought; and \n (e) indicate what measures shall be taken to ensure that the subscriber information will be procured \n (i) whilst maintaining the privacy of other users, customers and third parties, and (ii) without the disclosure of the subscriber information of any party not part of the investigation.",
                     "(4) Subject to clause (14) of article 19 of the Constitution,proceedings under this section and sections 65 and 68 shall be held incamera."
-
-                   
                 ]
             }
         }
-    
-}
-
+    },
+    {
+        "secnumber": 70,
+        "header": " Issue of production order for subscriber information",
+        "section": {
+            "main": {
+                "sectionheader": "Cybersecurity and Investigatory Powers",
+                "content": [
+                    "(1) The High Court may grant an application for a production order under section 69 if the Court is satisfied that \n (a) the investigative officer has complied with subsections (2) and (3) of section 69; \n (b) the information requested is commensurate, proportionate and necessary for the purposes of a specific criminal investigation or prosecution; \n (c) measures shall be taken to ensure that the subscriber information is produced whilst maintaining the privacy of other users, customers and third parties and without the disclosure of information and data of any party not part of the investigation; and \n (d) the investigation may be frustrated or seriously prejudiced unless the production of the information is permitted.",
+                    "(2) The Court shall require the service provider to keep confidential the production order and execution of the production order under this section.",
+                    "(3) A production order granted under this section shall be served on a domestic service provider, foreign service provider or both.",
+                    "(4) A service provider that contravenes subsection (2) commits an offence and is liable on summary conviction to a fine of not less than ten thousand penalty units and not more than twenty thousand penalty units."
+                ]
+            }
+        }
+    },
+    {
+        "secnumber": 71,
+        "header": "Application for interception of traffic data",
+        "section": {
+            "main": {
+                "sectionheader": "Cybersecurity and Investigatory Powers",
+                "content": [
+                    "(1) A senior investigative officer authorised by a designated officer may apply ex-parte to the High Court, for an interception warrant to collect or record traffic data stored or in real-time.",
+                    "(2) A senior investigative officer authorised by a designated officer who makes an application under subsection (1) shall demonstrate to the satisfaction of the Court that there are reasonable grounds to believe that traffic data associated with a specified communication and related to or connected with a person under investigation is reasonably required for the purposes of a specific criminal investigation.",
+                    "(3) Where a senior investigative officer authorised by a designated officer makes an application under subsection (1), that senior investigative officer shall \n(a) explain why the senior investigative officer believes traffic data sought, will be available to the person in control of the computer or computer system; \n(b) identify and explain with specificity the type of traffic data suspected to be found on the computer or computer system; \n(c) identify and explain with specificity the subscribers, users or unique identifier that may be found on a computer or computer system that is the subject of an investigation or prosecution; \n(d) identify and explain with specificity the offences in respect of which the interception warrant is sought; and \n(e) indicate what measures shall be taken to ensure that the traffic data will be procured \n(i) whilst maintaining the privacy of other users, customers and third parties, and \n(ii) without the disclosure of the traffic data of any party not part of the investigation.",
+                    "(4) Subject to clause (14) of article 19 of the Constitution, proceedings under this section and section 70 shall be held in camera."
+                ]
+            }
+        }
+    },
+    {
+        "secnumber": 72,
+        "header": " Issue of interception warrant for traffic data",
+        "section": {
+            "main": {
+                "sectionheader": "Cybersecurity and Investigatory Powers",
+                "content": [
+                    "(1) The High Court may grant an application for an interception warrant under section 71 to collect or record traffic data stored or in real-time if the Court is satisfied that \n(a) the senior investigative officer authorised by a designated officer has complied with subsections (2) and (3) of section 71; \n(b) the extent of interception is commensurate, proportionate and necessary for the purposes of a specific criminal investigation or prosecution; \n(c) measures shall be taken to ensure that the traffic data is intercepted whilst maintaining the privacy of other users, customers and third parties and without the disclosure of information and data of any party not part of the investigation; and \n(d) the investigation may be frustrated or seriously prejudiced unless the interception is permitted.",
+                    "(2) The Court shall require the service provider to keep confidential the interception warrant and execution of the warrant under this section.",
+                    "(3) A service provider that contravenes subsection (2) commits an offence and is liable on summary conviction to a fine of not less than ten thousand penalty units and not more than twenty thousand penalty units."
+                ]
+            }
+        }
+    },
+    {
+        "secnumber": 73,
+        "header": "Application for interception of content data",
+        "section": {
+            "main": {
+                "sectionheader": "Cybersecurity and Investigatory Powers",
+                "content": [
+                    "(1) A designated officer may apply ex-parte to the High Court for an interception warrant to collect or record content data.",
+                    "(2) A designated officer who makes an application under subsection (1) shall demonstrate to the satisfaction of the Court that there are reasonable grounds to authorise the interception of content data and associated traffic data, related to or connected with a person or premises under investigation for one of the following purposes: \n(a) in the interests of national security; \n(b) the prevention or detection of a serious offence; \n(c) in the interests of the economic well-being of the citizenry, so far as those interests are also relevant to the interests of national security; or \n(d) to give effect to a mutual legal assistance request. ",
+                    "(3) Where a designated officer makes an application under subsection (1), the officer shall \n (a) explain why the designated officer believes the content data sought, will be available to the person in control of the computer or computer system; \n (b) identify and explain the type of content data suspected to be found on the computer or computer system; \n(c) identify and explain the subscribers, users or unique identifier that may be found on a computer or computer system that is the subject of an investigation or prosecution; \n(d) identify and explain the offences in respect of which the warrant is sought; and \n(e) indicate what measures shall be taken to prepare and ensure that the content data will be procur \n(i) whilst maintaining the privacy of other users, customers and third parties; and \n(ii) without the disclosure of the data of any party not part of the investigation.",
+                    "(4) Subject to clause (14) of article 19 of the Constitution, proceedings under this section and section 70 shall be held in camera."
+                ]
+            }
+        }
+    },
+    {
+        "secnumber": 74,
+        "header": "Issue of interception warrant for content data",
+        "section": {
+            "main": {
+                "sectionheader": "Cybersecurity and Investigatory Powers",
+                "content": [
+                    "(1) The High Court may grant an application for an interception warrant under section 73 to collect or record content data stored or in real-time if the Court is satisfied that \n (a) the designated officer has complied with subsections (2) and (3) of section 73; \n (b) the extent of interception is commensurate, proportionate and necessary for the purposes of a specific criminal investigation or prosecution; \n (c) measures shall be taken to ensure that the content data is intercepted whilst maintaining the privacy of other users, customers and third parties and without the disclosure of information and data of any party not part of the investigation; and \n (d) the investigation may be frustrated or seriously prejudiced unless the interception is permitted.",
+                    "(2) The interception warrant issued under subsection (1) shall \n require a service provider, to \n \n(a) intercept that content data stored or in real-time; and \n \n(b) provide that content data to the officer immediately.",
+                    "(3) The Court shall require the service provider to keep confidential an interception warrant issued under this section.",
+                    "(4) A service provider who contravenes subsection (3) commits an offence and is liable on summary conviction to a fine of not less than ten thousand penalty units and not more than twenty thousand penalty units.",
+                    "(5) Subject to this section, the Chief Justice shall designate a court or a Justice of the High Court for the  purpose of considering a request for warrant made under this section."
+                ]
+            }
+        }
+    },
+    {
+        "secnumber": 75,
+        "header": "",
+        "section": {
+            "main": {
+                "sectionheader": "Cybersecurity and Investigatory Powers",
+                "content": []
+            }
+        }
+    },
+    {
+        "secnumber": 76,
+        "header": "",
+        "section": {
+            "main": {
+                "sectionheader": "Cybersecurity and Investigatory Powers",
+                "content": []
+            }
+        }
+    },
+    {
+        "secnumber": 77,
+        "header": "",
+        "section": {
+            "main": {
+                "sectionheader": "Cybersecurity and Investigatory Powers",
+                "content": []
+            }
+        }
+    },
+    {
+        "secnumber": 78,
+        "header": "",
+        "section": {
+            "main": {
+                "sectionheader": "Cybersecurity and Investigatory Powers",
+                "content": []
+            }
+        }
+    },
+    {
+        "secnumber": 79,
+        "header": "",
+        "section": {
+            "main": {
+                "sectionheader": "Cybersecurity and Investigatory Powers",
+                "content": []
+            }
+        }
+    },
+    {
+        "secnumber": 80,
+        "header": "",
+        "section": {
+            "main": {
+                "sectionheader": "Cybersecurity and Investigatory Powers",
+                "content": []
+            }
+        }
+    },
+    {
+        "secnumber": 70,
+        "header": "",
+        "section": {
+            "main": {
+                "sectionheader": "Cybersecurity and Investigatory Powers",
+                "content": []
+            }
+        }
+    },
+    {
+        "secnumber": 70,
+        "header": "",
+        "section": {
+            "main": {
+                "sectionheader": "Cybersecurity and Investigatory Powers",
+                "content": []
+            }
+        }
+    },
+    {
+        "secnumber": 70,
+        "header": "",
+        "section": {
+            "main": {
+                "sectionheader": "Cybersecurity and Investigatory Powers",
+                "content": []
+            }
+        }
+    },
+    {
+        "secnumber": 70,
+        "header": "",
+        "section": {
+            "main": {
+                "sectionheader": "Cybersecurity and Investigatory Powers",
+                "content": []
+            }
+        }
+    },
+    {
+        "secnumber": 70,
+        "header": "",
+        "section": {
+            "main": {
+                "sectionheader": "Cybersecurity and Investigatory Powers",
+                "content": []
+            }
+        }
+    },
+    {
+        "secnumber": 70,
+        "header": "",
+        "section": {
+            "main": {
+                "sectionheader": "Cybersecurity and Investigatory Powers",
+                "content": []
+            }
+        }
+    },
+    {
+        "secnumber": 70,
+        "header": "",
+        "section": {
+            "main": {
+                "sectionheader": "Cybersecurity and Investigatory Powers",
+                "content": []
+            }
+        }
+    },
+    {
+        "secnumber": 70,
+        "header": "",
+        "section": {
+            "main": {
+                "sectionheader": "Cybersecurity and Investigatory Powers",
+                "content": []
+            }
+        }
+    },
+    {
+        "secnumber": 70,
+        "header": "",
+        "section": {
+            "main": {
+                "sectionheader": "Cybersecurity and Investigatory Powers",
+                "content": []
+            }
+        }
+    },
+    {
+        "secnumber": 70,
+        "header": "",
+        "section": {
+            "main": {
+                "sectionheader": "Cybersecurity and Investigatory Powers",
+                "content": []
+            }
+        }
+    },
+    {
+        "secnumber": 70,
+        "header": "",
+        "section": {
+            "main": {
+                "sectionheader": "Cybersecurity and Investigatory Powers",
+                "content": []
+            }
+        }
+    },
+    {
+        "secnumber": 70,
+        "header": "",
+        "section": {
+            "main": {
+                "sectionheader": "Cybersecurity and Investigatory Powers",
+                "content": []
+            }
+        }
+    },
+    {
+        "secnumber": 70,
+        "header": "",
+        "section": {
+            "main": {
+                "sectionheader": "Cybersecurity and Investigatory Powers",
+                "content": []
+            }
+        }
+    },
+    {
+        "secnumber": 70,
+        "header": "",
+        "section": {
+            "main": {
+                "sectionheader": "Cybersecurity and Investigatory Powers",
+                "content": []
+            }
+        }
+    },
+    {
+        "secnumber": 70,
+        "header": "",
+        "section": {
+            "main": {
+                "sectionheader": "Cybersecurity and Investigatory Powers",
+                "content": []
+            }
+        }
+    },
+    {
+        "secnumber": 70,
+        "header": "",
+        "section": {
+            "main": {
+                "sectionheader": "Cybersecurity and Investigatory Powers",
+                "content": []
+            }
+        }
+    },
+    {
+        "secnumber": 70,
+        "header": "",
+        "section": {
+            "main": {
+                "sectionheader": "Cybersecurity and Investigatory Powers",
+                "content": []
+            }
+        }
+    },
+    {
+        "secnumber": 70,
+        "header": "",
+        "section": {
+            "main": {
+                "sectionheader": "Cybersecurity and Investigatory Powers",
+                "content": []
+            }
+        }
+    },
+    {
+        "secnumber": 70,
+        "header": "",
+        "section": {
+            "main": {
+                "sectionheader": "Cybersecurity and Investigatory Powers",
+                "content": []
+            }
+        }
+    },
+    {
+        "secnumber": 70,
+        "header": "",
+        "section": {
+            "main": {
+                "sectionheader": "Cybersecurity and Investigatory Powers",
+                "content": []
+            }
+        }
+    },
+    {
+        "secnumber": 70,
+        "header": "",
+        "section": {
+            "main": {
+                "sectionheader": "Cybersecurity and Investigatory Powers",
+                "content": []
+            }
+        }
+    },
+    {
+        "secnumber": 70,
+        "header": "",
+        "section": {
+            "main": {
+                "sectionheader": "Cybersecurity and Investigatory Powers",
+                "content": []
+            }
+        }
+    },
+    {
+        "secnumber": 70,
+        "header": "",
+        "section": {
+            "main": {
+                "sectionheader": "Cybersecurity and Investigatory Powers",
+                "content": []
+            }
+        }
+    }
 ]
