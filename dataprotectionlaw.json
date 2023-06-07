@@ -1,10 +1,854 @@
 [
     {
-        "header":"Data Protection Commission",
-        "sectionheader":" Establishment of Data Protection Commission",
-        "sectionnumber":1,
-        "content":[
-            "(1) There is established by this Act a Data Protection Commission. (2) Where there is hindrance to the acquisition of property, the property may be acquired for the Commission under the State Property and Contracts Act, 1960 (C.A.6) or the State Lands Act, 1962 (Act 125) and the costs shall be borne by the Commission."
+        "header": "Data Protection Commission",
+        "sectionheader": " Establishment of Data Protection Commission",
+        "sectionnumber": 1,
+        "content": [
+            "(1) There is established by this Act a Data Protection Commission.\n (2) Where there is hindrance to the acquisition of property, the property may be acquired for the Commission under the State Property and Contracts Act, 1960 (C.A.6) or the State Lands Act, 1962 (Act 125) and the costs shall be borne by the Commission."
         ]
-    }     
+    },
+    {
+        "header": "Data Protection Commission",
+        "sectionheader": " Object of the Commission",
+        "sectionnumber": 2,
+        "content": [
+            "The object of the Commission is to \n(a) protect the privacy of the individual and personal data by regulating the processing of personal information, and \n (b) provide the process to obtain, hold, use or disclose personal information."
+        ]
+    },
+    {
+        "header": "Data Protection Commission",
+        "sectionheader": " Functions of the Commission",
+        "sectionnumber": 3,
+        "content": [
+            "To achieve the object, the Commission shall\n (a) implement and monitor compliance with the provisions of this Act;\n (b) make the administrative arrangementsit considers appropriate for the discharge of its duties;\n (c) investigate any complaint under this Act and determine it in the  manner the Commission considers fair; and\n (d) keep and maintain the Data Protection Register"
+        ]
+    },
+    {
+        "header": "Data Protection Commission",
+        "sectionheader": "Tenure of office of members",
+        "sectionnumber": 5,
+        "content": [
+            "(1) The governing body of the Commission is a Board consisting of\n (a) a chairperson;\n (b) one representative from the following: \n(i) National Communications Authority not below the rank of a Director;\n (ii) Commission on Human Rights and Administrative Justice not below the rank of a Deputy Commissioner; \n(iii) Ministry of Communications not below the rank of a Director;\n (iv) National Information Technology Agency not beloW the rank of a Director;\n (v) Bank of Ghana not below the level of Deputy Governor; and (vi) Statistical Service not below the rank of a Director;\n (c) one representative elected by the Industry Forum; (d) two other persons nominated by the President at least one of whom is a woman; and \n(e) the Executive Director of the Commission. \n(2) The members of the Board shall be appointed by the President in accordance with article 70 of the Constitution.\n (3) The Board shall ensure the proper and effective performance of the functions of the Commission."
+        ]
+    },
+    {
+        "header": "Data Protection Commission",
+        "sectionheader": " Meetings of the Board",
+        "sectionnumber": 6,
+        "content": [
+            "To achieve the objects under section 3, the Authority shall \n",
+            "(1)) The Board shall meet at least once every three months for the despatch of business at the times and in the places determined by the chairperson.",
+            "(2)The chairperson shall at the request in writing of not less than one-third of the membership of the Board convene an extra-ordinary meeting of the Board at the place and time determined by the chairperson.",
+            "(3) The quorum at a meeting of the Board is seven members of the Board or a greater number determined by the Board in respect of an important matter.",
+            "(4)The chairperson shall preside at meetings of the Board and in the absence of the chairperson, a member of the Board elected by the member present from among their number shall preside.",
+            "(5) Matters before the Board shall be decided by a majority of the members present and voting and in the event of an equality of votes, the person presiding shall have a casting vote.",
+            "(6)The Board may co-opt a person to attend a Board meeting but that person shall not vote on a matter for decision at the meeting."
+        ]
+    },
+    {
+        "header": "Data Protection Commission",
+        "sectionheader": " Disclosure of interest",
+        "sectionnumber": 7,
+        "content": [
+            "(1) A member of the Board who has an interest in a matter for consideration \n(a) shall disclose the nature of the interest and the disclosure shall form part of the record of the consideration of the matter; and\n (b) shall not participate in the deliberations of the Board in respect of that matter.\n (2) A member ceases to be a member of the Board if that member has an interest on a matter before the Board and  \n(a) fails to disclose that interest; or \n(b) participates in the deliberations of the Board in respect of the matter."
+        ]
+    },
+    {
+        "header": "Data Protection Commission",
+        "sectionheader": "Establishment of committees",
+        "sectionnumber": 8,
+        "content": [
+            "(1) The Board may establish committees consisting of members of the Board or non-members or both to perform a function.\n(2) A committee of the Board may be chaired by a member of the Board.\n(3) Section 7 applies to members of committees of the Board"
+        ]
+    },
+    {
+        "header": "Data Protection Commission",
+        "sectionheader": " Allowances",
+        "sectionnumber": 9,
+        "content": [
+            "Members of the Board and members of a committee of the Board shall be paid the allowances approved by the Minister in consultation with the Minister responsible for Finance."
+        ]
+    },
+    {
+        "header": "Data Protection Commission",
+        "sectionheader": " Ministerial directives",
+        "sectionnumber": 10,
+        "content": [
+            " The Minister may give directives to the Board on matters of policy."
+        ]
+    },
+    {
+        "header": "Administration",
+        "sectionheader": " Appointment of Executive Director",
+        "sectionnumber": 11,
+        "content": [
+            " The Minister may give directives to the Board on matters of policy."
+        ]
+    },
+    {
+        "header": "Administration",
+        "sectionheader": " Functions of the Executive Director",
+        "sectionnumber": 12,
+        "content": [
+            "(1) The Executive Director is responsible for\n (a) the day to day administration of the affairs of the Commis- sion and is answerable to the Board in the performance of functions under this Act, and \n (b) the implementation of the decisions of the Board.",
+            "(2) The Executive Director shall perform any other functions determined by the Board.",
+            "(3) The Executive Director may delegate a function to an officer of the Commission but shall not be relieved of the ultimate responsibility for the performance of the delegated function."
+        ]
+    },
+    {
+        "header": "Administration",
+        "sectionheader": " Appointment of other staff",
+        "sectionnumber": 13,
+        "content": [
+            "(1) The President shall in accordance with article 195 of the Constitution appoint for the Commission other staff that are necessary for the proper and effective performance of its functions.",
+            "(2) Other public officers may be transferred or seconded to the Commission or may otherwise give assistance to it.",
+            "(3) The Commission may engage the services of advisers and consultants on the recommendation of the Board."
+        ]
+    },
+    {
+        "header": "Finances of the Commission",
+        "sectionheader": "Funds of the Commission",
+        "sectionnumber": 14,
+        "content": [
+            "The funds of the Commission include",
+            "(a) moneys approved by Parliament;",
+            "(b) donations and grants to the Commission for its activities under this Act;",
+            "(c) moneys that accrue to the Commission in the performance of its functions; and",
+            "(d) any other moneys that are approved by the Minister responsible for Finance."
+        ]
+    },
+    {
+        "header": "Finances of the Commission",
+        "sectionheader": "Accounts and audit",
+        "sectionnumber": 15,
+        "content": [
+            "(1) The Board shall keep books of accounts and proper records in relation to them in the form approved by the Auditor-General.",
+            "(2) The Board shall submit the accounts of the Commission to the Auditor-General for audit within three months after the end of the financial year.",
+            "(3) The Auditor-General shall, not later than three months after the receipt of the accounts, audit the accounts and forward a copy of the audit report to the Minister."
+        ]
+    },
+    {
+        "header": "Finances of the Commission",
+        "sectionheader": "Annual report and other reports",
+        "sectionnumber": 16,
+        "content": [
+            "(1) The Board shall within one month after the receipt of the audit report, submit an annual report to the Minister covering the activities and the operations of the Commission for the year to which the report relates.",
+            "(2) The annual report shall include the report of the Auditor- General.",
+            "(3) The Minister shall, within one month after the receipt of the annual report, submit the report to Parliament with a statement that the Minister considers necessary.",
+            "(4) The Board shall also submit to the Minister any other reports which the Minister may require in writing."
+        ]
+    },
+    {
+        "header": "Application of data protection principles",
+        "sectionheader": "Privacy of the individual",
+        "sectionnumber": 17,
+        "content": [
+            "A person who processes data shall take into account the privacy of the individual by applying the following principles:",
+            "(a) accountability",
+            "(b) lawfulness of processing",
+            "(c) specification of purpose",
+            "(d) compatibility of further processing with purpose of collection",
+            "(e) quality of information",
+            "(f) openness",
+            "(g) data security safeguards, and",
+            "(h) data subject participation."
+        ]
+    },
+    {
+        "header": "Application of data protection principles",
+        "sectionheader": "Processing of personal data",
+        "sectionnumber": 18,
+        "content": [
+            "(1) A person who processes personal data shall ensure that the personal data is processed\n (a) without infringing the privacy rights of the data subject;\n (b) in a lawful manner; and\n (c) in a reasonable manner.",
+            "(2) A data controller or processor shall in respect of foreign data subjects ensure that personal data is processed in compliance with data protection legislation of the foreign jurisdiction of that subject where personal data originating from that jurisdiction is sent to this country for processing"
+        ]
+    },
+    {
+        "header": "Application of data protection principles",
+        "sectionheader": "Minimality",
+        "sectionnumber": 19,
+        "content": [
+            "Personal data may only be processed if the purpose for which it is to be processed, is necessary, relevant and not excessive."
+        ]
+    },
+    {
+        "header": "Application of data protection principles",
+        "sectionheader": "Consent, justification and objection",
+        "sectionnumber": 20,
+        "content": [
+            "(1) A person shall not process personal data without the prior con- sent of the data subject unless the purpose for which the personal data is processed is (a) necessary for the purpose of a contract to which the data subject is a party; \n(b) authorised or required by law; \n(c) to protect a legitimate interest of the data subject; \n(d) necessary for the proper performance of a statutory duty;or \n(e) necessary to pursue the legitimate interest of the data con- troller or a third party to whom the data is supplied.",
+            "(2) Unless otherwise provided by law, a data subject may object to the processing of personal data.",
+            "(3) Where a data subject objects to the processing of personal data, the person who processes the personal data shall stop the processing of the personal data"
+        ]
+    },
+    {
+        "header": "Application of data protection principles",
+        "sectionheader": "Collection of personal data",
+        "sectionnumber": 21,
+        "content": [
+            "(1) A person shall collect personal data directly from the data subject.",
+            "(2) Despite subsection (1), personal data may be collected indirectly where:",
+            "(a) the data is contained in a public record;",
+            "(b) the data subject has deliberately made the data public;",
+            "(c) the data subject has consented to the collection of the information from another source;",
+            "(d) the collection of the data from another source is not likely to prejudice a legitimate interest of the data subject;",
+            "(e) the collection of the data from another source is necessary: \n(i) for the prevention, detection, investigation, prosecution or punishment of an offence or breach of law; \n(ii) for the enforcement of a law which imposes a pecuniary penalty;\n (iii) for the enforcement of a law which concerns revenue collection; \n(iv) for the conduct of proceedings before any court or tribunal that have commenced or are reasonably contemplated; \n(v) for the protection of national security; or \n(vi) for the protection of the interests of a responsible or third party to whom the information is supplied;",
+            "(f) compliance would prejudice a lawful purpose for the collection; or",
+            "(g) compliance is not reasonably practicable."
+        ]
+    },
+    {
+        "header": "Application of data protection principles",
+        "sectionheader": "Collection of data for specific purpose",
+        "sectionnumber": 22,
+        "content": [
+            "A data controller who collects personal data shall collect the data for a purpose which is specific, explicitly defined and lawful and is related to the functions or activity of the person."
+        ]
+    },
+    {
+        "header": "Application of data protection principles",
+        "sectionheader": "Data subject to be made aware of purpose of collection",
+        "sectionnumber": 23,
+        "content": [
+            " A data controller who collects data shall take the necessary steps to ensure that the data subject is aware of the purpose for the collection of the data"
+        ]
+    },
+    {
+        "header": "Application of data protection principles",
+        "sectionheader": "Retention of records",
+        "sectionnumber": 24,
+        "content": [
+            "(1) Subject to subsections (2) and (3), a data controller who records personal data shall not retain the personal data for a period longer than is necessary to achieve the purpose for which the data was collected and processed unless \n(a) the retention of the record is required or authorised by law,\n (b) the retention of the record is reasonably necessary for a lawful purpose related to a function or activity,\n(c) retention of the record is required by virtue of a contract between the parties to the contract, or (d) the data subject consents to the retention of the record.",
+            "(2) Subsection (1) does not apply to records of personal data retained for \n(a) historical, \n(b) statistical, or\n (c) research purposes.",
+            "(3) A person who retains records for historical, statistical or research purposes shall ensure that the records that contain the personal data are adequately protected against access or use for unauthorised purposes.",
+            "(4) Apersonwhouses a record of the personal data of a data subject to make a decision about the data subject shall \n(a) retain the record for a period required or prescribed by law or a code of conduct, or \n(b) where there is no law or code of conduct that provides for the retention period, retain the record for a period which will afford the data subject an opportunity to request access to the record.",
+            "(5) A data controller shall destroy or delete a record of personal data or de-identify the record at the expiry of the retention period.",
+            "(6) The destruction or deletion of a record of personal data shall be done in a manner that prevents its reconstruction in an intelligible form"
+        ]
+    },
+    {
+        "header": "Application of data protection principles",
+        "sectionheader": "Further processing to be compatible with purpose of collection",
+        "sectionnumber": 25,
+        "content": [
+            "(1) Where a data controller holds personal data collected in con- nection with a specific purpose, further processing of the personal data shall be for that specific purpose.",
+            "(2) A person who processes data shall take into account \n(a) the relationship between the purpose of the intended further processing and the purpose for which the data was collected, \n(b) the nature of the data concerned,\n(c) the manner in which the data has been collected, \n(d) the consequences that the further processing islikely to have for the data subject, and \n(e) the contractual rights and obligations between the data subject and the person who processes the data.",
+            "(3) The further processing of data is considered to be compatible with the purpose of collection where",
+            "(a) the data subject consents to the further processing of the information",
+            "(b) the data is publicly available or has been made public by the person concerned",
+            "(c) further processing is necessary \n(i) for the prevention, detection, investigation, prosecu- tion or punishment for an offence or breach of law,\n (ii) for the enforcement of a law which imposes a pecuni- ary penalty, \n(iii) for the enforcement of legislation that concerns pro- tection of revenue collection, \n (iv) for the conduct of proceedings before any court or tribunal that have commenced or are reasonably contemplated, or \n(v) for the protection of national security;",
+            "(d) the further processing of the data is necessary to prevent orvmitigate a serious and imminent threat to \n(i) public health or safety, or \n(ii) the life or health of the data subject or another individual;",
+            "(e) the data is used for historical,statistical orresearch purposes and the person responsible for the processing ensures that \n(i) the further processing is carried out solely for the purpose for which the data was collected, and \n(ii) the data is not published in a form likely to reveal the identity of the data subject; or \n(f) the further processing of the data is in accordance with this Act."
+        ]
+    },
+    {
+        "header": "Application of data protection principles",
+        "sectionheader": "Quality of information",
+        "sectionnumber": 26,
+        "content": [
+            "A data controller who processes personal data shall ensure that the data is complete, accurate, up to date and not misleading having regard to the purpose for the collection or processing of the personal data."
+        ]
+    },
+    {
+        "header": "Application of data protection principles",
+        "sectionheader": "Registration of data controller",
+        "sectionnumber": 27,
+        "content": [
+            "(1) A data controller who intends to process personal data shall register with the Commission.",
+            "(2) A data controller who intends to collect personal data shall ensure that the data subject is aware of  \n(a) the nature of the data being collected; \n(b) the name and address of the person responsible for the collection;\n (c) the purpose for which the data is required for collection; \n(d) whether or not the supply of the data by the data subject is discretionary or mandatory; \n(e) the consequences of failure to provide the data; \n(f) the authorised requirement for the collection of the informa- tion or the requirement by law for its collection; (g) the recipients of the data; \n(h) the nature or category of the data; and \n(i) the existence of the right of access to and the right to request  rectification of the data collected before the collection.",
+            "(3) Where the data is collected from a third party, the data subject shall be given the information specified in subsection (2) before the col- lection of the data or as soon as practicable after the collection of the data.",
+            "(4) Subsection (2), shall not apply in the following situations where it is necessary: \n (a) to avoid the compromise of the law enforcement power of a  public body responsible for the prevention, detection, investigation, prosecution or punishment of an offence; \n(b) for the enforcement of a law which imposes a pecuniary penalty; \n(c) for the enforcement of legislation which concerns revenue collection; \n(d) for the preparation or conduct of proceedings before a court or tribunal that have been commenced or are reasonably contemplated; \n(e) for the protection of national security; \n(f) to avoid the prejudice of a lawful purpose; \n(g) to ensure that the data cannot be used in a form in which the data subject is identified; or (h) because the data is to be used for historical, statistical or research purposes."
+        ]
+    },
+    {
+        "header": "Application of data protection principles",
+        "sectionheader": "Security measures",
+        "sectionnumber": 28,
+        "content": [
+            "(1) A data controller shall take the necessary steps to secure the integrity of personal data in the possession or control of a person through the adoption of appropriate, reasonable, technical and organisational measures to prevent \n(a) loss of, damage to, or unauthorised destruction; and \n(b) unlawful access to or unauthorised processing of personal data.",
+            "(2) To give effect to subsection (1), the data controller shall take  reasonable measures to \n(a) identify reasonably foreseeable internal and external risks to personal data under that person’s possession or control; \n(b) establish and maintain appropriate safeguards against the identified risks;\n (c) regularly verify that the safeguards are effectively implemented; and \n(d) ensure that the safeguards are continually updated in response to new risks or deficiencies.",
+            "(3) A data controller shall observe",
+            "(a) generally accepted information security practices and procedure, and",
+            "(b) specific industry or professional rules and regulations."
+        ]
+    },
+    {
+        "header": "Application of data protection principles",
+        "sectionheader": "Data processor to comply with security measures",
+        "sectionnumber": 30,
+        "content": [
+            "(1) A data controller shall ensure that a data processor who processes personal data for the data controller, establishes and complies with the security measures specified under this Act.",
+            "(2) The processing of personal data for a data controller by a data processor shall be governed by a written contract.",
+            "(3) A contract between a data controller and a data processorshall require the data processor to establish and maintain the confidentiality and security measures necessary to ensure the integrity of the personal data.",
+            "(4) Where a data processor is not domiciled in this country, the data controller shall ensure that the data processor complies with the relevant laws of this country"
+        ]
+    },
+    {
+        "header": "Application of data protection principles",
+        "sectionheader": "Notification of security compromises",
+        "sectionnumber": 31,
+        "content": [
+            "(1) Where there are reasonable grounds to believe that the personal data of a data subject has been accessed or acquired by an unauthorised person, the data controller or a third party who processes data under the authority of the data controller shall notify the \n(a) Commission, and \n (b) the data subject of the unauthorised access or acquisition.",
+            "(2) The notification shall be made assoon asreasonably practicable after the discovery of the unauthorised access or acquisition of the data.",
+            "(3) The data controller shall take steps to ensure the restoration of  the integrity of the information system.",
+            "(4) The data controller shall delay notification to the data subject where the security agencies or the Commission inform the data controller that notification will impede a criminal investigation.",
+            "(5) The notification to a data subject shall be communicated by \n(a) registered mail to the last known residential or postal address of the data subject; \n(b) electronic mail to the last known electronic mail address of the data subject; \n(c) placement in a prominent position on the website of the responsible party; \n(d) publication in the media; or \n(e) any other manner that the Commission may direct.",
+            "(6) A notification shall provide sufficient information to allow the data subject to take protective measures against the consequences of unauthorised access or acquisition of the data.",
+            "(7) The information shall include, if known to the data controller, the identity of the unauthorised person who may have accessed or acquired the personal data.",
+            "(8) Where the Commission has grounds to believe that publicity would protect a data subject who is affected by the unauthorised access or acquisition of data, the Commission may direct the data controller to publicise in the specified manner, the fact of the compromise to the integrity or confidentiality of the personal data."
+        ]
+    },
+    {
+        "header": "Application of data protection principles",
+        "sectionheader": "Access to personal information",
+        "sectionnumber": 32,
+        "content": [
+            " (1) A data subject who provides proof of identity may request a data controller to \n (a) confirm at reasonable cost to the data subject whether or not the data controller holds personal data about that data subject, \n (b) give a description of the personal data which is held by the party including data about the identity of a third party or a category of a third party who has or has had access to the information, and \n (c) correct data held on the data subject by the data controller.",
+            "(2) The request shall be made \n (a) within a reasonable time; \n (b) after the payment of the prescribed fee, if any; \n (c) in a reasonable manner and format; and \n (d) in a form that is generally understandable"
+        ]
+    },
+    {
+        "header": "Application of data protection principles",
+        "sectionheader": "Correction of personal data",
+        "sectionnumber": 33,
+        "content": [
+            "(1) A data subject may request a data controller to \n (a) correct or delete personal data about the data subject held by or under the control of the data controller that is inac- curate, irrelevant, excessive, out of date, incomplete, misleading or obtained unlawfully, or \n (b) destroy or delete a record of personal data about the data subject held by the data controller that the data controller no longer has the authorisation to retain.",
+            "(2) On receipt of the request, the data controller shall comply with the request or provide the data subject with credible evidence in support of the data.",
+            "(3) Where the data controller and the data subject are unable to reach an agreement and if the data subject makes a request, the data con- troller shall attach to the record an indication that a request for the data has been made but has not been complied with.",
+            "(4) Where the data controller complies with the request, the data controller shall inform each person to whom the personal data has been disclosed of the correction made.",
+            "(5) The data controller shall notify the data subject of the action taken as a result of the request."
+        ]
+    },
+    {
+        "header": "Application of data protection principles",
+        "sectionheader": "Manner of access",
+        "sectionnumber": 34,
+        "content": [
+            "(1) The provisions of any legislation relating to the right to information of any data subject shall be additional to data subject rights under this Act."
+        ]
+    },
+    {
+        "header": "Rights of data subjects and others",
+        "sectionheader": "Right of access to personal data",
+        "sectionnumber": 35,
+        "content": [
+            "(1) A data controller shall \n (a) inform an individual who is the data subject of the processing of the individual’s personal data by the data controller or another person on behalf of the data controller; \n(b) give to the data subject, a description of \n (i) the personal data of which that individual isthe data subject; \n (ii) the purpose for which the data is being or is to be processed; and \n (iii) the recipient or class of recipients to whom the data may be disclosed; \n(c) communicate in an intelligible form to the data subject \n (i) information which constitutes personal data of which that individual is the subject; \n (ii) information which is available to the data controller as to the source of the data; and \n(d) inform the individual who is the data subject of the logic or rationale behind the decision that was made based on the processing where the processing constitutes the sole basis for the taking of a decision which significantly affects that individual.",
+            "(2) Where the data constitutes a trade secret, the provision of data related to the logic or rationale involved in any decision taken does not apply.",
+            "(3) A data controllershall not comply with a request undersubsec- tion (1) unless the data controller is supplied with the data that the data controller may reasonably require to identify the person making the request and to locate the data which that person seeks.",
+            "(4) Where a data controller is unable to comply with the request without disclosing data related to another individual who may be identi- fied from the information, the data controller shall not comply with the request unless \n(a) the other individual consents to the disclosure of the data to the person who makes the request, or \n (b) it is reasonable in all the circumstances to comply with the request without the consent of the other individual.",
+            "(5) A reference to data related to another individual in subsection (4) includes a reference to data which identifies that individual as the source of the data requested.",
+            "(6) A data controller shall not rely on subsection (4)(b) to fail to communicate the information sought that may be communicated without the disclosure of the identity of the individual concerned.",
+            "(7) The data controller may make the communication under subsection (6) by omitting or deleting the names or other identifying particulars of the other individual.",
+            "(8) For the purposes of subsection (4)(b), to determine whether it is reasonable to comply with the request without the consent of the other individual concerned, regard shall be had in particular, to \n (a) any duty of confidentiality owed to the other individual, \n(b) any steps taken by the data controller to seek the consent of that other individual, \n(c) whether the other individual is capable of giving consent, and \n(d) any express refusal of consent by the other individual.",
+            "(9) An individual who makes a request under this section may specify that the request is limited to personal data of any description.",
+            "(10) Subject to subsection (5), a data controller shall comply with a request under this section promptly and in any event within forty days from the date of receipt of the request.",
+            "(11) Where the commission is satisfied on the application or a complainant in relation to matters under subsections (1) to (10) that the data controller has failed to comply with the request, the Commission may order the data controller to comply with the request.",
+            "(12) The obligation imposed on a data controllerto provide the data subject with information undersection 20 to 26 isfulfilled by supplying the data subject with a copy of the data in permanent form.",
+            "(13) Where a data controller has previously complied with a request by a data subject, the data controller shall not comply with a subsequent request which is identical or similar unless a reasonable interval has elapsed between the time of compliance with the previousrequest and the making of the new request.",
+            "(14) For the purposes of subsection (13), to determine whether a request for data by a data subject to a data controller has been made at a reasonable interval, regard shall be had to \n(a) the nature of the data, \n(b) the purpose for which the data is processed, and \n(c) the frequency with which the data is altered.",
+            "(15) The data which issupplied pursuant to a request may take into account an amendment or deletion made between the time of the request and the time when the data is supplied.",
+            "(16) For the purposes of this section another individual may be identified from the data disclosed if that individual can be identified \n(a) from that data, or \n (b) from that data and any other data which in the reasonable  belief of the data controller are likely to be in, or come into the possession of the data subject who made the request"
+        ]
+    },
+    {
+        "header": "Rights of data subjects and others",
+        "sectionheader": "Credit bureau as data controller",
+        "sectionnumber": 36,
+        "content": [
+            "(1) Where the data controller is a credit bureau within the meaning  of the Credit Reporting Act, 2007 (Act 726) a request for information  by a data subject shall in addition to the requirements specified under the Credit Reporting Act, be subject to this section.",
+            "(2) A data subject who makes a request for information from a data controller may limit the request to personal data relevant to the data subject’s \n(a) financial standing, \n(b) history for the period which precedes twelve months after the date of the request, and shall be considered to have limited the request of the data subject unless the request shows a contrary intention.",
+            "(3) An individual shall not request information which is held beyond  the retention period specified in section 30 of the Credit Reporting Act, 2007 (Act 726) unless the credit bureau has provided the information to third parties beyond the retention period.",
+            "(4) Where a data controller receives a request from a data subject under this section, the obligation to supply information shall include an obligation to provide the data subject with a statement in a form pro- vided by Regulations which deal with the rights of a data subject \n(a) under the Credit Reporting Act, 2007 (Act 726); \n (b) to seek legal redress against a credit bureau set out under the Credit Reporting Act, 2007 (Act 726); and \n (c) to enable a credit bureau which acts as a data controller or processor to acknowledge its obligationsto comply with this Act."
+        ]
+    },
+    {
+        "header": "Processing of special personal datas",
+        "sectionheader": "Processing of special personal data prohibited",
+        "sectionnumber": 37,
+        "content": [
+            "(1) Unless otherwise provided by this Act, a person shall not process personal data which relates to \n(a) a child who is under parental control in accordance with the law, or \n(b) the religious or philosophical beliefs, ethnic origin, race, trade union membership, political opinions, health, sexual life or criminal behavior of an individual.",
+            "(2) A data controller may process special personal data in accor- dance with this Act where \n (a) processing is necessary, or \n (b) the data subject consents to the processing.",
+            "(3) The processing of special personal data is necessary where it is for the exercise or performance of a right or an obligation conferred or imposed by law on an employer.",
+            "(4) Special personal data shall not be processed unless the processing is necessary for the protection of the vital interests of the data subject where \n (a) it is impossible for consent to be given by or on behalf of the data subject, \n(b) the data controller cannot reasonably be expected to obtain the consent of the data subject, or \n(c) consent by or on behalf of the data subject has been unrea- sonably  withheld.",
+            "(5) Special personal data shall not be processed unless the process- ing is carried out for the protection of the legitimate activities of a body or association which \n(a) is established for non-profit purposes, (b) exists for political, philosophical, religious or trade union purposes; \n (c) relates to individuals who are members of the body or as- sociation or have regular contact with the body or associa- tion in connection with its purposes, and (d) does not involve disclosure of the personal data to a third party without the consent of the data subject.",
+            "(6) The processing of special personal data shall be presumed to be necessary where it is required \n(a) for the purpose of or in connection with a legal proceeding, \n(b) to obtain legal advice, \n (c) for the establishment, exercise or defence of legal rights, \n (d) in the course of the administration of justice, or /n(e) for medical purposes and the processing is \n(i) undertaken by a health professional, and \n(ii) pursuant to a duty of confidentiality between patient and health professional.",
+            "(7) In this section, “medical purposes” includes the purposes of preventive medicine, medical diagnosis, medical research, provision of care and treatment and the management of healthcare services by a medical or dental practitioner or a legally recognised traditional healer.",
+            "(8) A person shall not process special personal data in respect of race or ethnic origin unless the processing of the special personal data is \n(a) necessary for the identification and elimination of discriminatory practices, and  \n(b) carried out with appropriate safeguards for the rights and freedoms  of the data subject.",
+            "(9) The Minister may in consultation with the Commission by legislative instrument prescribe further conditions which may be taken by a data controller for the maintenance of appropriate safeguards for the rights and freedoms of a data subject related to processing of special personal data."
+        ]
+    },
+    {
+        "header": "Processing of special personal datas",
+        "sectionheader": "Exemption related to religious or philosophical beliefs of data subject",
+        "sectionnumber": 38,
+        "content": [
+            "(1) The prohibition on processing of personal data which relates to the religious or philosophical beliefs of a data subject does not apply if the processing is carried out by \n(a) a spiritual or religious organisation or a branch of the or- ganisation and the processing is in respect of persons who are members of the organisation, \n(b) an institution founded on religious or philosophical principles and the processing is \n(i) with respect to the members, employees or other persons belonging to the institution, \n (ii) consistent with the objects of the institution, and \n (iii) necessary to achieve the aims and principles of the institution.",
+            "(2) An individual who believes that data is being processed under subsection (1) may at any time by notice in writing to a data controller require a data controller to provide particulars of data processed under this exemption."
+        ]
+    },
+    {
+        "header": "Processing of special personal datas",
+        "sectionheader": "Right to prevent processing of personal data",
+        "sectionnumber": 39,
+        "content": [
+            "(1) An individual shall at any time by notice in writing to a data controller require the data controller to cease or not begin processing for a specified purpose or in a specified manner, personal data which causes or is likely to cause unwarranted damage or distress to the individual.",
+            "(2) A data controller shall within twenty-one days after receipt of a notice inform the individual in writing \n(a) that the data controller has complied or intends to comply with the notice of the data subject, or \n(b) of the reasons for non-compliance.",
+            "(3) Where the Commission is satisfied that the complainant is justified, the Commission may order the data controller to comply."
+        ]
+    },
+    {
+        "header": "Processing of special personal datas",
+        "sectionheader": "Right to prevent processing of personal data for direct marketing",
+        "sectionnumber": 40,
+        "content": [
+            "(1) A data controller shall not provide, use, obtain, procure or provide information related to a data subject for the purposes of direct  marketing without the prior written consent of the data subject.",
+            "(2) A data subject is entitled at any time by notice in writing to a data controller to require the data controller not to process personal data of that data subject for the purposes of direct marketing.",
+            "(3) Where the Commission is satisfied on a complaint by a person who has given notice in subsection (1), that the data controller has failed to comply with the notice, the Commission may order that data controller to comply with the notice.",
+            "(4) In this section “direct marketing” includes the communication by whatever means of any advertising or marketing material which is directed to particular individuals."
+        ]
+    },
+    {
+        "header": "Processing of special personal datas",
+        "sectionheader": "Rights in relation to automated decision-taking",
+        "sectionnumber": 41,
+        "content": [
+            "(1) An individual is entitled at any time by notice in writing to a data controller to require the data controller to ensure that any decision taken by or on behalf of the data controller which significantly affects that individual is not based solely on the processing by automatic means of personal data in respect of which that individual is the data subject.",
+            "(2) Despite the absence of a notice, where a decision which significantly affects an individual is based solely on that processing \n (a) the data controller shall as soon as reasonably practicable notify the individual that the decision was taken on that basis, and \n (b) the individual is entitled, by notice in writing to require the data controller to reconsider the decision within twenty-one days after receipt of the notification from the data controller.",
+            "(3) The data controller shall within twenty-one days after receipt of the notice, inform the individual in writing of the steps that the data controller  intends to take to comply with the notice.",
+            "(4) This section does not apply to a decision made \n (a) in the course of considering whether to enter into a contract with the data subject, \n (b) with a view to entering into the contract, (c) in the course of the performance of the contract, \n (d) for a purpose authorised or required by or under an enact- ment, or \n (e) in other circumstances prescribed by the Minister",
+            "(5) Where the Commission is satisfied on a complaint by a data subject that a person taking a decision hasfailed to comply, the Commis- sion may order the data controller to comply.",
+            "(6) An order for compliance under subsection (5) shall not affect the rights of a person other than the data subject or the data controller."
+        ]
+    },
+    {
+        "header": "Processing of special personal datas",
+        "sectionheader": "Rights in relation to exempt manual data",
+        "sectionnumber": 42,
+        "content": [
+            "(1) A data subject is entitled at any time by notice in writing to require a data controller \n (a) to rectify, block, erase or destroy exempt manual data which is inaccurate or incomplete, or \n (b) to cease to hold exempt manual data in a manner which is incompatible with the legitimate purposes pursued by the data controller.",
+            "(2) A notice under subsection (1) shall state the reasons for believing that the data \n (a) is inaccurate or incomplete, or \n (b) is held in a manner which isincompatible with the legitimate purposes pursued by that data controller.",
+            "(3) Where the Commission is satisfied on a complaint by a person who has given notice that the data controller has failed to comply with the notice, the Commission shall give appropriate direction to the data controller to comply with the notice.",
+            "(4) For the purposes of thissection, personal data isincomplete if the data is of the kind that its incompleteness would constitute a contra- vention of data  protection principles provided in this Act"
+        ]
+    },
+    {
+        "header": "Processing of special personal datas",
+        "sectionheader": "Compensation for failure to comply",
+        "sectionnumber": 43,
+        "content": [
+            "(1) Where an individual suffers damage or distress through the contravention by a data controller of the requirements of this Act, that individual is entitled to compensation from the data controller for the damage or distress.",
+            "(2) In proceedings against a person under this section, it is a de- fence to  prove that the person took reasonable care in allthe circumstances to comply with the requirements of this Act."
+        ]
+    },
+    {
+        "header": "Processing of special personal datas",
+        "sectionheader": "Rectification, blocking, erasure and destruction of personal data",
+        "sectionnumber": 44,
+        "content": [
+            "(1) Where the Commission is satisfied on a complaint of a data subject that personal data on that data subject is inaccurate, the Commission may order the data controller to \n (a) rectify, (b) block, \n (c) erase, or \n (d) destroy the data.",
+            "(2) Subsection (1) applies whether or not the data is an accurate record of information received or obtained by the data controller from the data subject or a third party.",
+            "(3) Where the data is an accurate record of the information, the Commission may make an order requiring the data controller to supplement the statement of the true facts which the Commission considers appropriate.",
+            "(4) Where the data complained of has been rectified, blocked supplemented, erased or destroyed, the data controller is required to  notify third parties to whom the data has been previously disclosed of the rectification, blocking, supplementation, erasure or destruction.",
+            "(5) To determine whether it is reasonably practicable to require the notification, the Commission shall have regard, in particular, to the number of persons to be notified."
+        ]
+    },
+    {
+        "header": "Processing of special personal datas",
+        "sectionheader": "Application of the Act",
+        "sectionnumber": 45,
+        "content": [
+            "(1) Except as otherwise provided, this Act applies to a data control- ler in respect of data where \n (a) the data controller is established in this country and the data isprocessed in this country, (b) the data controller is not established in this country but uses equipment or a data processor carrying on business in this country to process the data, or \n (c) processing is in respect of information which originates partly or wholly from this country.",
+            "(2) A data controller who is not incorporated in this country shall register as an external company.",
+            "(3) For the purposes of this Act the following are to be treated as established in this country: \n (a) an individual who is ordinarily resident in this country; \n (b) a body incorporated under the laws of this country; \n (c) a partnership, persons registered under the Registration of Business Names Act, 1962 (Act 151) and the Trustees (Incorporation) Act, 1962 (Act 106); \n (d) an unincorporated joint venture or association operating in part or in whole in this country; and \n (e) any person who does not fall within paragraphs (a),(b), (c) or (d) but  maintains an office, branch or agency through which business  activities are carried out in this country. (4) This Act does not apply to data which originates externally and merely transits through this country."
+        ]
+    },
+    {
+        "header": "Data Protection Register",
+        "sectionheader": "Establishment of Data Protection Register",
+        "sectionnumber": 46,
+        "content": [
+            "(1) There is established by this Act a register of data controllers to be  known as the Data Protection Register.",
+            "(2) The Commission shall keep and maintain the Register.",
+            "(3) A data controller shall register with the Commission."
+        ]
+    },
+    {
+        "header": "Data Protection Register",
+        "sectionheader": "Application for registration",
+        "sectionnumber": 47,
+        "content": [
+            "(1) An application for registration as a data controller shall be made in writing to the Commission and the applicant shall furnish the following particulars: \n (a) the business name and address of the applicant;  \n (b) the name and address of the company’srepresentative where the company is an external company; \n (c) a description of the personal data to be processed and the category of persons whose personal data are to be collected; \n (d) an indication as to whether the applicant holds or is likely to hold special personal data; \n (e) a description of the purpose for which the personal data is being or is to be processed; \n (f) a description of a recipient to whom the applicant intends to disclose the personal data; \n (g) the name or description of the country to which the appli- cant may transfer the data; \n (h) the class of persons or where practicable the names of persons whose personal data is held by the applicant; \n (i) a general description of measures to be taken to secure the data; and \n (j) any other information that the Commission may require.",
+            "(2) An applicant who knowingly supplies false information in support of an application for registration as a data controller commits an offence and is liable on summary conviction to a fine of not more than one hundred and fifty penalty units or a term of imprisonment of not more than one year or to both.",
+            "(3) Where a data controller intends to keep personal data for two or more purposes the Commission shall make separate entries for each purpose in the Register."
+        ]
+    },
+    {
+        "header": "Data Protection Register",
+        "sectionheader": "Right to refuse registration",
+        "sectionnumber": 48,
+        "content": [
+            "(1) The Commission shall not grant an application for registration under this Act where \n (a) the particulars provided for inclusion in an entry in the Register are insufficient; \n (b) the appropriate safeguards for the protection of the privacy of the data subject have not been provided by the data controller; and \n (c) in the opinion of the Commission, the person making the application for registration does not merit the grant of the registration.",
+            "(2) Where the Commission refuses an application for registration as a data controller, the Commission shall inform the applicant in writing within fourteen days \n (a) of its decision and the reasons for the refusal, and \n (b) the applicant may apply for judicial review to the High Court against the refusal.",
+            "(3) A refusal of an application for registration is not a bar to re- application."
+        ]
+    },
+    {
+        "header": "Data Protection Register",
+        "sectionheader": "Grant of registration",
+        "sectionnumber": 49,
+        "content": [
+            "(1) The Commission shall \n (a) register an applicant if it is satisfied that the applicant has satisfied the conditions required for registration, and \n (b) provide the applicant with a certification of registration upon approval of the application.",
+            "(2) The applicant shall pay the prescribed fee upon registration."
+        ]
+    },
+    {
+        "header": "Data Protection Register",
+        "sectionheader": "Renewal of registration",
+        "sectionnumber": 50,
+        "content": [
+            " A registration shall be renewed every two years."
+        ]
+    },
+    {
+        "header": "Data Protection Register",
+        "sectionheader": "Removal from Register",
+        "sectionnumber": 51,
+        "content": [
+            "The Commission may at the request of the person to whom an entry in the Register relates, remove that person’s name from the Register at any time."
+        ]
+    },
+    {
+        "header": "Data Protection Register",
+        "sectionheader": "Cancellation of registration",
+        "sectionnumber": 52,
+        "content": [
+            " The Commission has the power to cancel a registration for good cause."
+        ]
+    },
+    {
+        "header": "Data Protection Register",
+        "sectionheader": "Processing of personal data without registration prohibited",
+        "sectionnumber": 53,
+        "content": [
+            "A data controller who has not been registered under this Act shall not process personal data."
+        ]
+    },
+    {
+        "header": "Data Protection Register",
+        "sectionheader": "Access by the public",
+        "sectionnumber": 54,
+        "content": [
+            "(1) The Commission shall provide facilitiesto make the information contained in the Register available for inspection by members of the public.",
+            "(2)The Commission shall supply a member of the public with a duly certified manual or electronic copy of the particulars contained in an entry made in the Register on payment of the prescribed fee."
+        ]
+    },
+    {
+        "header": "Data Protection Register",
+        "sectionheader": "Duty to notify changes",
+        "sectionnumber": 55,
+        "content": [
+            "A person in respect of whom an entry as a data controller is included in the Register shall notify the Commission of changes in the registered particulars within fourteen days."
+        ]
+    },
+    {
+        "header": "Data Protection Register",
+        "sectionheader": "Failure to register",
+        "sectionnumber": 56,
+        "content": [
+            "A person who fails to register as a data controller but processes personal data commits an offence and is liable on summary conviction to a fine of not more than two hundred and fifty penalty units or a term of imprisonment of not more than two years or to both"
+        ]
+    },
+    {
+        "header": "Data Protection Register",
+        "sectionheader": "Assessable processing",
+        "sectionnumber": 57,
+        "content": [
+            "(1) The Minister may by Executive Instrument specify actions which constitute assessable processing if the Minister considers the assessable processing likely to \n (a) cause substantial damage or substantial distress to a data subject,or \n (b) otherwise significantly prejudice the privacy rights of a data subject;",
+            "(2) On receipt of an application for registration, the Commission shall consider \n (a) whether the processing to which the notification relates is assessable, or \n (b) if the assessable processing complies with the provisions of this Act.",
+            "(3) The Commission shall within twenty-eight days from the day of receipt of the application, inform the data controller whether the processing is likely to comply with the provisions of this Act.",
+            "(4) The Commission may extend the initial period by a further period which does not exceed fourteen days or other period that the Commission may specify.",
+            "(5) The assessable processing in respect of which a notification has been given to the Commission shall not be carried on unless \n (a) the period of twenty-eight days has elapsed, or \n (b) before the end of that period, the data controller receives a notice from the Commission under subsection(3).",
+            "(6) A data controller who contravenes this section commits an of- fence and is liable on summary conviction to a fine of not more than two hundred and fifty penalty units or to a term of imprisonment of not more than two years or to both."
+        ]
+    },
+    {
+        "header": "Data Protection Register",
+        "sectionheader": "Appointment of data protection supervisors",
+        "sectionnumber": 58,
+        "content": [
+            "(1) A data controller may appoint a certified and qualified data supervisor to act as a data protection supervisor.",
+            "(2) The data protection supervisor is responsible for the monitoring of the data controller’s compliance with the provisions of this Act.",
+            "(3) Thissection issubject to the exemptions or modificationsspeci- fied in the authorisation.",
+            "(4) An authorisation under this section may \n (a) impose a duty on a data protection supervisor in relation to the Commission, and \n (b) confer a function on the Commission in relation to a data protection supervisor.",
+            "(5) A data protection supervisor may be an employee of the data controller.",
+            "(6) The Commission shall provide the criteria for qualification to be appointed as a data protection supervisor.",
+            "(7) A person shall not be appointed as a data protection supervisor unless the person satisfies the criteria set by the Commission "
+        ]
+    },
+    {
+        "header": "Data Protection Register",
+        "sectionheader": "Fees",
+        "sectionnumber": 59,
+        "content": [
+            " The Minister may by Regulations prescribe fees for the purpose of sections 49, 50 and 54."
+        ]
+    },
+    {
+        "header": "Exemptions",
+        "sectionheader": "National security",
+        "sectionnumber": 60,
+        "content": [
+            "(1) The processing of personal data is exempt from the provisions of this Act for the purposes of \n (a) public order, \n (b) public safety, \n (c) public morality,\n (d) national security, or \n (e) public interest.",
+            "(2) Subject to article 18 (2) of the Constitution, a certificate signed by the Minister is prima facie evidence of exemption from the provisions of this Act.",
+            "(3) A certificate may by means of a general description identify the personal data to which it applies.",
+            "(4) A person who is directly affected by the issue of a certificate under this section may apply for judicial review at the High Court."
+        ]
+    },
+    {
+        "header": "Exemptions",
+        "sectionheader": "Crime and taxation",
+        "sectionnumber": 61,
+        "content": [
+            "(1) The processing of personal data is exempt from the provisions of this Act for the purposes of \n(a) the prevention or detection of crime, \n(b) the apprehension or prosecution of an offender, or \n(c) the assessment or collection of a tax or duty or of an imposition of a similar nature. ",
+            "(2) Personal data is exempt from the non-disclosure provisions in any case in which \n(a) the disclosure is for a purpose mentioned in subsection (1), and \n(b) the application of those provisions in relation to the disclo- sure is likely to prejudice any of the matters mentioned in that subsection."
+        ]
+    },
+    {
+        "header": "Exemptions",
+        "sectionheader": "Health, education and social work",
+        "sectionnumber": 62,
+        "content": [
+            "Personal data on the following subjects shall not be disclosed except where the disclosure is required by law: \n(a) personal data which relates to the physical, mental health or mental condition of the data subject, \n(b) personal data in respect of which the data controller is an educational institution and which relates to a pupil at the institution, or \n(c) personal data of similar description."
+        ]
+    },
+    {
+        "header": "Exemptions",
+        "sectionheader": "Regulatory activity",
+        "sectionnumber": 63,
+        "content": [
+            "(1) The provisions of this Act do not apply to the processing of personal data for protection of members of the public \n(a) against loss or malpractice in the provision of \n(i) banking, (ii) insurance, (iii) investment, \n(iv) other financial services, or \n(v) management of a body corporate; \n(b) against dishonesty or malpractice in the provision of professional services; \n(c) against the misconduct or mismanagement in the administration of a non-profit making entity; \n(d) to secure the health, safety and welfare of persons at work; or \n(e) to protect non-working persons against the risk to health or safety arising out of or in connection with the action of persons at work.",
+            "(2) The processing of personal data is exempt from the subject information provisions of this Act if it is for the discharge of a function conferred by or under an enactment on \n(a) Parliament, \n(b) a local government authority, (c) the administration of public health or public financing of health care, prevention, control of disease and the monitoring and eradication of disease ."
+        ]
+    },
+    {
+        "header": "Exemptions",
+        "sectionheader": "Journalism, literature and art",
+        "sectionnumber": 64,
+        "content": [
+            "(1) A person shall not process personal data unless \n(a) the processing is undertaken by a person for the publication of a literary or artistic material; \n(b) the data controller reasonably believes that publication would be in the public interest; and \n(c) the data controller reasonably believes that, in all the circumstances, compliance with the provision is incompatible with the special purposes. ",
+            "(2) Subsection (1) does not exempt a data controller from compliance with the data principles related to \n(a) lawful processing, (b) minimality, (c) further processing, (d) information quality, and \n(e) security safeguards. ",
+            "(3) For the purposes of subsection (1) (b), in considering whether the data controller believes that the publication would be in the public interest or is reasonable, regard may be had to the compliance by the data controller with any code of practice which is \n(a) relevant to the publication in question, and \n(b) designated by the Minister for purposes of this subsection."
+        ]
+    },
+    {
+        "header": "Exemptions",
+        "sectionheader": "Research, history and statistics",
+        "sectionnumber": 65,
+        "content": [
+            "(1) The further processing of personal data for a research purpose in compliance with the relevant conditions is not to be regarded as incompatible with the purposes for which the data was obtained.",
+            "(2) Personal data which is processed for research purposes in compliance with the relevant conditions may be kept indefinitely.",
+            "(3) Personal data which is processed only for research purposes is exempt from the provisions of this Act if \n(a) the data is processed in compliance with the relevant condi- tions, and \n(b) the results of the research orresulting statistics are not made available in a form which identifies the data subject or any of them.",
+            "(4) Personal data is not to be treated as processed otherwise than for research purposes merely because the data is disclosed \n(a) to any person for research purposes only, (b) to the data subject or a person acting on behalf of the data subject, \n(b) at the request or with the consent of the data subject or a person acting on behalf of the data subject ,or \n(d) in circumstances in which the person making the disclosure has reasonable grounds to believe that the disclosure falls within this section."
+        ]
+    },
+    {
+        "header": "Exemptions",
+        "sectionheader": "  Disclosure required by law or made in connection with a legal proceeding",
+        "sectionnumber": 66,
+        "content": [
+            " Personal data is exempt from the provisions on non-disclosure where the disclosure is required by or under an enactment, any rule of law or by the order of a court."
+        ]
+    },
+    {
+        "header": "Exemptions",
+        "sectionheader": "Domestic purposes",
+        "sectionnumber": 67,
+        "content": [
+            "Personal data which is processed by an individual only for the purpose of that individual’s personal, family or household affairs is exempt from the data protection principles. "
+        ]
+    },
+    {
+        "header": "Exemptions",
+        "sectionheader": "Confidential references given by data controller",
+        "sectionnumber": 68,
+        "content": [
+            " Personal data is exempt from the data protection principles if it consists of a reference given in confidence by the data controller for the purposes of \n(a) education, training or employment of the data subject, \n(b) the appointment to an office of the data subject, or \n(c) the provision of any service by the data subject."
+        ]
+    },
+    {
+        "header": "",
+        "sectionheader": "Armed Forces",
+        "sectionnumber": 69,
+        "content": [
+            "Personal data is exempt from the subject information provisions where the application of the provisions is likely to prejudice the combat effectiveness of the Armed Forces of the Republic."
+        ]
+    },
+    {
+        "header": "",
+        "sectionheader": "",
+        "sectionnumber": 61,
+        "content": []
+    },
+    {
+        "header": "",
+        "sectionheader": "",
+        "sectionnumber": 61,
+        "content": []
+    },
+    {
+        "header": "",
+        "sectionheader": "",
+        "sectionnumber": 61,
+        "content": []
+    },
+    {
+        "header": "",
+        "sectionheader": "",
+        "sectionnumber": 61,
+        "content": []
+    },
+    {
+        "header": "",
+        "sectionheader": "",
+        "sectionnumber": 61,
+        "content": []
+    },
+    {
+        "header": "",
+        "sectionheader": "",
+        "sectionnumber": 61,
+        "content": []
+    },
+    {
+        "header": "",
+        "sectionheader": "",
+        "sectionnumber": 61,
+        "content": []
+    },
+    {
+        "header": "",
+        "sectionheader": "",
+        "sectionnumber": 61,
+        "content": []
+    },
+    {
+        "header": "",
+        "sectionheader": "",
+        "sectionnumber": 61,
+        "content": []
+    },
+    {
+        "header": "",
+        "sectionheader": "",
+        "sectionnumber": 61,
+        "content": []
+    },
+    {
+        "header": "",
+        "sectionheader": "",
+        "sectionnumber": 61,
+        "content": []
+    },
+    {
+        "header": "",
+        "sectionheader": "",
+        "sectionnumber": 61,
+        "content": []
+    },
+    {
+        "header": "",
+        "sectionheader": "",
+        "sectionnumber": 61,
+        "content": []
+    },
+    {
+        "header": "",
+        "sectionheader": "",
+        "sectionnumber": 61,
+        "content": []
+    },
+    {
+        "header": "",
+        "sectionheader": "",
+        "sectionnumber": 61,
+        "content": []
+    },
+    {
+        "header": "",
+        "sectionheader": "",
+        "sectionnumber": 61,
+        "content": []
+    },
+    {
+        "header": "",
+        "sectionheader": "",
+        "sectionnumber": 61,
+        "content": []
+    },
+    {
+        "header": "",
+        "sectionheader": "",
+        "sectionnumber": 61,
+        "content": []
+    },
+    {
+        "header": "",
+        "sectionheader": "",
+        "sectionnumber": 61,
+        "content": []
+    },
+    {
+        "header": "",
+        "sectionheader": "",
+        "sectionnumber": 61,
+        "content": []
+    },
+    {
+        "header": "",
+        "sectionheader": "",
+        "sectionnumber": 61,
+        "content": []
+    },
+    {
+        "header": "",
+        "sectionheader": "",
+        "sectionnumber": 61,
+        "content": []
+    },
+    {
+        "header": "",
+        "sectionheader": "",
+        "sectionnumber": 61,
+        "content": []
+    },
+    {
+        "header": "",
+        "sectionheader": "",
+        "sectionnumber": 61,
+        "content": []
+    },
+    {
+        "header": "",
+        "sectionheader": "",
+        "sectionnumber": 61,
+        "content": []
+    },
+    {
+        "header": "",
+        "sectionheader": "",
+        "sectionnumber": 61,
+        "content": []
+    },
+    {
+        "header": "",
+        "sectionheader": "",
+        "sectionnumber": 61,
+        "content": []
+    },
+    {
+        "header": "",
+        "sectionheader": "",
+        "sectionnumber": 61,
+        "content": []
+    }
 ]
