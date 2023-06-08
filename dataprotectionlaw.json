@@ -676,7 +676,7 @@
         ]
     },
     {
-        "header": "",
+        "header": "Exemptions",
         "sectionheader": "Armed Forces",
         "sectionnumber": 69,
         "content": [
@@ -684,171 +684,266 @@
         ]
     },
     {
-        "header": "",
-        "sectionheader": "",
-        "sectionnumber": 61,
+        "header": "Exemptions",
+        "sectionheader": "Judicial appointments and honours",
+        "sectionnumber": 70,
+        "content": [
+            "Personal data processed to \n(a) assess a person’s suitability for judicial office, or \n(b) confer a national honour, is exempt from the subject information provisions of this Act."
+        ]
+    },
+    {
+        "header": "Exemptions",
+        "sectionheader": "Public service or ministerial appointment",
+        "sectionnumber": 71,
+        "content": [
+            "The Minister may by legislative instrument make Regulations to prescribe exemptions from the subject information provisions of personal data processed to assess a person’s suitability for \n(a) employment by the government, or \n(b) any office to which appointments are made by the President."
+        ]
+    },
+    {
+        "header": "Exemptions",
+        "sectionheader": "Examination marks",
+        "sectionnumber": 72,
+        "content": [
+            " Personal data is exempt from the provisions of this Act if it relates to examination marks processed by a data controller \n(a) to determine the results of an academic, professional or other examination or to enable the results of the examination to be determined, or \n(b) in consequence of the determination of the results"
+        ]
+    },
+    {
+        "header": "Exemptions",
+        "sectionheader": " Examination scripts",
+        "sectionnumber": 73,
+        "content": [
+            "Personal data which consists of information recorded by candidates during an academic, professional or other examination is exempt from the provisions of this Act."
+        ]
+    },
+    {
+        "header": "Exemptions",
+        "sectionheader": "Professional privilege",
+        "sectionnumber": 74,
+        "content": [
+            "Personal data is exempt from the subject information provisions if it consists of information in respect of which a claim to professional privilege or confidentiality between client and a professional adviser could be maintained in legal proceedings."
+        ]
+    },
+    {
+        "header": "Enforcement",
+        "sectionheader": "Enforcement notice",
+        "sectionnumber": 75,
+        "content": [
+            "(1) Where the Commission is satisfied that a data controller has contravened or is contravening any of the data protection principles, the Commission shall serve the data controller with an enforcement notice to require that data controller to do any of the following: \n(a) to take or refrain from taking the steps specified within the time stated in the notice, \n(b) to refrain from processing any personal data or personal data of a description specified in the notice; or \n(c) to refrain from processing personal data or personal data of a description specified in the notice for the purposes specified or in the manner specified after the time specified.",
+            "(2) In deciding whether to serve an enforcement notice, the Com- mission shall consider whether the contravention has caused or is likely to cause damage or distress to any person.",
+            "(3) An enforcement notice issued in respect of a contravention of a provision of this Act may also require the data controller to rectify, block, erase or destroy other data held by the data controller and which contains an expression of opinion which appears to the Commission to be based on the inaccurate data.",
+            "(4) Where \n(a) an enforcement notice requires the data controller to rectify, block, erase or destroy personal data, or \n(b) the Commission is satisfied that personal data which has been rectified, blocked, erased or destroyed was processed in contravention of any of the data protection principles, the Commission may require the data controller to notify a third party to whom the data has been disclosed of the rectification, blocking, erasure or destruction.",
+            "(5) An enforcement notice shall contain a statement of the data protection principle which the Commission is satisfied has been contra- vened and the reasons for that conclusion.",
+            "(6) Subject to this section, an enforcement notice shall not require any of the provisions of the notice to be compiled with before the end of the period within which an appeal may be brought against the notice and, if the appeal is brought, the notice may not be complied with pending the determination or withdrawal of the appeal.",
+            "(7) Despite subsection (6), the Commission may in exceptional circumstances order that the notice apply immediately"
+        ]
+    },
+    {
+        "header": "Enforcement",
+        "sectionheader": "Cancellation of enforcement notice",
+        "sectionnumber": 76,
+        "content": [
+            "The Commission may on its own motion or on an application made by a person on whom a notice is served, cancel or vary the notice to that person."
+        ]
+    },
+    {
+        "header": "Enforcement",
+        "sectionheader": "Request for assessment",
+        "sectionnumber": 77,
+        "content": [
+            "(1) A person who is affected by the processing of any personal data may on that person’s own behalf or on behalf of another person request the Commission to make an assessment as to whether the processing is in compliance with the provisions of this Act.",
+            "(2) On receiving a request, the Commission may make an assessment in the manner that the Commission considers appropriate. (3) The Commission may consider the following in determining whether an assessment is appropriate: \n(a) the extent to which the request appears to the Commission to raise a matter of substance; \n(b) any undue delay in making the request; and \n(c) whether or not the person making the request is entitled to make an application in respect of the personal data in question.",
+            "(4) The Commission shall not publish the report of any finding (a) the request is accompanied with the prescribed fee, or (b) the Commission waives payment based on proven pecuniary challenges of the applicant.",
+            "(5) Where the Commission finds that the processing by a data controller is contrary to the provisions of this Act, the Commission shall issue an information notice to the data controller specifying the contravention, and give the data controller notice to cease processing personal data."
+        ]
+    },
+    {
+        "header": "Enforcement",
+        "sectionheader": "Determination by the Commission",
+        "sectionnumber": 78,
+        "content": [
+            "(1) Where at any time it appears to the Commission that personal data \n(a) is being processed in a manner inconsistent with the provisions of this Act, or \n(b) is not being processed with a view to the publication by a person of a journalistic, literary or artistic material which has not previously been published by the data controller the Commission may make a determination in writing to that effect.",
+            "(2) The Commission shall give a notice of the determination to the data controller."
+        ]
+    },
+    {
+        "header": "Enforcement",
+        "sectionheader": "Restriction on enforcement in case of processing for special purposes",
+        "sectionnumber": 79,
+        "content": [
+            "(1) The Commission shall not serve an enforcement notice on a data controller in relation to the processing of personal data under section 78 (1) (a) unless a determination has been made by the Commission. (2) The Commission shall not serve an information notice on a data controller in relation to the processing of personal data under section 78 (1) (b) unless a determination has been made by the Commission."
+        ]
+    },
+    {
+        "header": "Enforcement",
+        "sectionheader": "Failure to comply with notice",
+        "sectionnumber": 80,
+        "content": [
+            "(1) A person who fails to comply with an enforcement notice or an information notice commits an offence and is liable on summary conviction to a fine of not more than one hundred and fifty penalty units or to a term of imprisonment of not more than one year or to both.",
+            "(2) A person who, in compliance with an information notice, (a) makes a statement which that person knows to be false in a material respect, or (b) recklessly makes a statement which is false in a material respect commits an offence and is liable on summary conviction to a fine of not more than one hundred and fifty penalty units or to a term of imprisonment of not more than one year or to both.",
+            "(3) It is a defence for a person charged with an offence under sub- section (1) to prove that, that person exercised due diligence to comply with the notice in question."
+        ]
+    },
+    {
+        "header": "Enforcement",
+        "sectionheader": "Authorised officers",
+        "sectionnumber": 81,
+        "content": [
+            "(1) The Board may in writing authorise an officer to perform the functions determined by the Board for the purpose of enforcing the provisions of this Act and the Regulations.",
+            "(2) Without limiting subsection (1), an officer authorised by the Commission may at any reasonable time, enter to inspect and search any premises to ensure compliance with this Act."
+        ]
+    },
+    {
+        "header": "Records obtained under data subject’s rights of access",
+        "sectionheader": "Conditional request for personal data prohibited",
+        "sectionnumber": 82,
+        "content": [
+            "(1) A person who provides goods, facilities or services to the public shall not require a person to supply or produce a particular record as a condition for the provision of the goods, facilities orservicesto that person. ",
+            "(2) Subsection (1) does not apply where the imposition of the requirement is required or authorised under an enactment, rule of law or in the public interest.",
+            "(3) A person who contravenes subsection (1) commits an offence and is liable on summary conviction to a fine of not more than two hundred and fifty penalty units orto a term of imprisonment of not more than two years or to both."
+        ]
+    },
+    {
+        "header": "Records obtained under data subject’s rights of access",
+        "sectionheader": "Demand for health records",
+        "sectionnumber": 83,
+        "content": [
+            "A person shall not be required to provide records which \n(a) consist of information related to the physical, mental health or mental condition of an individual, or \n(b) has been made by or on behalf of a health professional in connection with the care of that individual."
+        ]
+    },
+    {
+        "header": "Information provided to Commission",
+        "sectionheader": "Disclosure of information",
+        "sectionnumber": 84,
+        "content": [
+            "The provisions of an enactment or a rule of law which prohibit or restrict the disclosure of information do not apply to a case where a person furnishesthe Commission with information necessary for the performance of the functions of the Commission under this Act."
+        ]
+    },
+    {
+        "header": "Information provided to Commission",
+        "sectionheader": "Confidentiality of information",
+        "sectionnumber": 85,
+        "content": [
+            "(1) The Commission, an employee or an agent of the Commission shall not disclose information \n(a) obtained by the Commission under or for the purposes of this Act, \n(b) furnished to the Commission under or for the purposes of this Act, \n(c) which relates to an identifiable individual, and \n(d) which is not at the time of the disclosure and has not previously been available to the public from other sources unless the disclosure is made with lawful authority. ",
+            "(2) A disclosure is made with lawful authority where the disclosure \n(a) is made with the consent of the individual or the person for the time being carrying on the business, \n(b) was made for the purpose of its being made available to the public under the provisions of this Act, \n(c) is made for the purposes of, and is necessary for, the performance of a function under this Act, \n(d) is made for the purposes of any civil or criminal proceedings, which arise under or by virtue of this Act or otherwise, or \n(e) having regard to the rights, freedoms or legitimate interests of a person, the disclosure is necessary in the public interest.",
+            "(3) A person who knowingly or recklessly discloses information in contravention of subsection (1) commits an offence and is liable on summary conviction to a fine of not more than two thousand five hundred penalty units or to a term of imprisonment of not more than five years or to both."
+        ]
+    },
+    {
+        "header": "Miscellaneous and general provisions",
+        "sectionheader": "General duties of the Commission",
+        "sectionnumber": 86,
         "content": []
     },
     {
-        "header": "",
-        "sectionheader": "",
-        "sectionnumber": 61,
+        "header": "Miscellaneous and general provisions",
+        "sectionheader": "International co-operation",
+        "sectionnumber": 87,
+        "content": [
+            "The Commission shall perform the data protection functions that are necessary to give effect to any international obligations of the Republic."
+        ]
+    },
+    {
+        "header": "Miscellaneous and general provisions",
+        "sectionheader": "Prohibition to purchase, obtain or disclose personal data",
+        "sectionnumber": 88,
+        "content": [
+            "(1) A person shall not \n(a) purchase the personal data or the information contained in the personal data of another person; \n(b) knowingly obtain or knowingly or recklessly disclose the personal data or the information contained in the personal data of another person; or \n(c) disclose or cause to be disclosed to another person the information contained in personal data.",
+            "(2) A person who contravenes subsection (1) commits an offence and is liable on summary conviction to a fine of not more than two hundred and fifty"
+        ]
+    },
+    {
+        "header": "Miscellaneous and general provisions",
+        "sectionheader": "Prohibition of sale of personal data",
+        "sectionnumber": 89,
+        "content": [ "(1) A person who sells or offers to sell personal data of another person commits an offence and is liable on summary conviction to a fine of not more than two thousand five hundred penalty units or to a term of imprisonment of not more than five years or to both.",
+        "(2) For the purposes of this section an advertisement which indicates that personal data is or may be for sale is an offer to sell the data."]
+    },
+    {
+        "header": "Miscellaneous and general provisions",
+        "sectionheader": "Credit bureau",
+        "sectionnumber": 90,
+        "content": [
+            "(1) A credit bureau shall for the purposes of this Act be a data controller and \n(a) is subject to the orders or directions emanating from the Commission, \n(b) shall exercise the rights under this Act, and \n(c) be liable for any offences committed by the Credit Bureau and its officers under this Act.",
+            "(2) A person who suffers damage which arises from the supply of inaccurate or incomplete information by a credit bureau about the person is entitled in addition to the remedies under this Act to such further rem- edies that are provided under the Credit Reporting Act, 2007 (Act 726)."
+        ]
+    },
+    {
+        "header": "Miscellaneous and general provisions",
+        "sectionheader": "Application to the State",
+        "sectionnumber": 91,
+        "content": [
+            "(1) This Act binds the Republic. ",
+            "(2) For the purposes of this Act, each government department shall be treated as a data controller.",
+            " (3) Each department shall designate an officer to act as a data supervisor. ",
+            "(4) Where the purposes and the manner in which the processing of personal data are determined by a person acting on behalf of the Executive, Parliament and the Judiciary, the data controller in respect of that data for the purposes of this Act is \n(a) in relation to the Executive, the Chief Director, (b) in relation to Parliament, the Clerk to Parliament, and \n(c) in relation to the Judiciary, the Judicial Secretary. (5) A different person may be appointed under subsection (4) for a different purpose"
+        ]
+    },
+    {
+        "header": "Miscellaneous and general provisions",
+        "sectionheader": "Transmission of notices by electronic or other means",
+        "sectionnumber": 92,
+        "content": [
+            "(1) A requirement that a notice, request, particulars or application to which this Act applies shall be in writing is satisfied where the text of the notice, request, particulars or application \n(a) is transmitted by electronic means in a manner specified by the Commission, \n(b) is received in legible form, and \n(c) is capable of being used for subsequent reference. ",
+            "(2) The Minister may by Regulations exempt a notice, request, particulars or application from these requirements."
+        ]
+    },
+    {
+        "header": "Miscellaneous and general provisions",
+        "sectionheader": "Service of notices by the Commission",
+        "sectionnumber": 93,
         "content": []
     },
     {
-        "header": "",
-        "sectionheader": "",
-        "sectionnumber": 61,
-        "content": []
+        "header": "Miscellaneous and general provisions",
+        "sectionheader": "Regulations",
+        "sectionnumber": 94,
+        "content": [
+            "(1) The Minister may in consultation with the Commission by legislative instrument make Regulations to \n(a) extend the transitional period for a data controller in existence at the commencement of this Act, \n(b) specify the conditions that are to be satisfied for consent to be given, \n(c) prescribe further conditions which may be taken by a data controller for the maintenance of appropriate safeguards, for the rights and freedoms of a data subject related to the processing of special personal data, \n(d) make different provisions for different situations, \n(e) exempt notices, requests, particulars or applications from the requirements under the Act, and \n(f) provide generally for any other matter necessary for the effective implementation of the provisions of this Act.",
+            "(2) A person who commits an offence under the Regulations is liable on summary conviction to a fine of not more than five thousand penalty units."
+        ]
     },
     {
-        "header": "",
-        "sectionheader": "",
-        "sectionnumber": 61,
-        "content": []
+        "header": "Miscellaneous and general provisions",
+        "sectionheader": "General penalty",
+        "sectionnumber": 95,
+        "content": [
+            "Where a person commits an offence under this Act in respect of  which a penalty is not specified, the person is liable on summary convic- tion to a fine of not more than five thousand penalty units or a term of  imprisonment of not more than ten years or to both"
+        ]
     },
     {
-        "header": "",
-        "sectionheader": "",
-        "sectionnumber": 61,
-        "content": []
+        "header": "Miscellaneous and general provisions",
+        "sectionheader": "Interpretation",
+        "sectionnumber": 96,
+        "content": [
+            "In this Act unless the context otherwise requires “assessable processing” means processing of a description specified in an Executive Instrument made by the Minister under section 57 (1); “business” includes trade or profession; “Commission” means the Commission established under section 1 of this Act; “corporate finance service” means a service which consists of \n(a) underwriting in respect of the issue or the placing of issues of any instrument; \n(b) advice to undertakings on capital structure, industrial strategy and related matters and advice and service related to mergers and the purchase of an undertaking, or \n(c) services related to the underwriting referred to in paragraphs (a) and (b); “credit bureau” means an institution licensed under the Credit Reporting Act, 2007(Act 726) to carry out credit bureau activities; “data” means information which \n(a) is processed by means of equipment operating automatically in response to instructions given for that purpose,  \n(b) is recorded with the intention that it should be processed by means of such equipment, \n(c) is recorded as part of a relevant filing system or with the intention that it should form part of a relevant filing system, or \n(d) does not fall within paragraph (a),(b) or (c) but forms part of an accessible record; “data controller” means a person who either alone, jointly with other persons or in common with other persons or as a statutory duty determines the purposes for and the manner in which personal data is processed or is to be processed; “data protection principles” means the principles set out in sections 17 to 26 of this Act; “data processor” in relation to personal data means any person other than an employee of the data controller who processes the data on behalf of the data controller; “data protection functions” means functions that relate to the protection of personal data in the course of data processing; “data subject” means an individual who is the subject of personal data; “enactment” includes an enactment passed afterthe commencement of this Act; “data supervisor” means a professional appointed by a data controller in accordance with section 58 to monitor the compliance by the data controller in accordance with the provisions of the Act; “examination” includes any process for determining the knowledge, intelligence, skill or ability of a candidate by reference to the candidate’s performance in a test, work or other activity; “exempt manual data” means information in respect of which a controller is not required to register before manual processing or use; “foreign data subject” means data subject information regulated by laws of a foreign jurisdiction sent into Ghana from a foreign jurisdiction wholly for processing purposes; “ good cause” means any failure to comply with or a violation of any of the data protection principles, enforcement or other notices issued by the Commission; “good practice” means the practice in the processing of personal data in a way that the likelihood of causing substantial damage or distress is reduced; “government department” includes a Ministry, Department or Agency and a body or authority exercising statutory functions on behalf of the State; “health professional “ means a registered medical practitioner or a recognised traditional healer or any person who is registered to provide health services under any law for the time being in force; “information notice” means notice given by the Commission pursuant to a determination under section 78 (1) (b); “instrument” means any instrument related to a publicly traded security; “Minister” means the Minister assigned responsibility for Communications; “personal data” means data about an individual who can be identified, \n(a) from the data, or \n(b) from the data or other information in the possession of, or likely to come into the possession of the data controller; “prescribed fee” means a fee set out in relation to any Regulations on fees made pursuant to this Act; “principal office” in relation to a registered company, means the registered office or other address that the company may specify for the delivery of correspondence; “principal officer” in relation to a body, means the secretary or other executive officer charged with the conduct of the general affairs of the body; “processing” means an operation or activity or set of operations by automatic or other means that concerns data or personal  or data, \n(b) retrieval, consultation or use of the information or data, \n(c) disclosure of the information or data by transmission, data and the \n(a) collection, organisation, adaptation or alteration of the information dissemination or other means available, or \n(d) alignment, combination, blocking, erasure or destruction of the information or data; “public funds” has the same meaning assigned to it in Article 175 of the 1992 Constitution; “public register” means a register which pursuant to a requirement imposed \n(a) by or under an enactment, or \n(b) in pursuance of any international agreement is open to \n(i) inspection by the public, or \n(ii) inspection by a person who has a legitimate interest; “publish” in relation to journalistic, literary or artistic material means to make available to the public or any class of the public, journalistic, literary or artistic material; “pupil” in relation to a school in this country means a registered person within the meaning of the Education Act, 2008 (Act 778) of any registered school; “recipient” means a person to whom data is disclosed including an employee or agent of the data controller or the data processor to whom data is disclosed in the course of processing the data for the data controller, but does not include a person to whom disclosure is made with respect to a particular inquiry pursuant to an enactment; “registered company” means a company registered under any enactment related to an incorporated or unincorporated entity for the time being in force in the country; “Regulations” means Regulations made under this Act; “relevant authority” means \n(a) a government department, \n(b) local authority, or \n(c) any other statutory authority; “relevant filing system” means any set of data that relates to an individual which although not processed by means of equipment operating automatically in response to instructions given for processing that data, the set is structured, either by reference to an individual or by reference to a criteria that relates to the individual in a manner that specific information which relates to a particular individual is readily accessible; “relevant function” means \n(a) a function conferred on a person by or under an enactment, \n(b) a function of the government, a Minister of State or a government department, or \n(c) any other function which is of a public nature and is exercised in the public interest; “relevant record” means any record that relates to a conviction or caution held by a law enforcement agency or security agency; “research purposes” includes statistical or historical purposes; “security agency” means an agency connected with national security as determined by the National Security Council; “special personal data” means personal data which consists of information that relates to \n(a) the race, colour, ethnic or tribal origin of the data subject; \n(b) the political opinion of the data subject; (c) the religious beliefs or other beliefs of a similar nature, of the data subject; \n(d) the physical, medical, mental health or mental condition or DNA of the data subject; \n(e) the sexual orientation of the data subject; \n(f) the commission or alleged commission of an offence by the individual; or \n(g) proceedings for an offence committed or alleged to have been committed by the individual, the disposal of such proceedings or the sentence of any court in the proceedings; “special purposes” means any one or more of the following: \n(a) the purpose of journalism, \n(b) where the purpose is in the public interest, \n(c) artistic purposes, and \n(d) literary purposes; “subject information provisions” means the provisions under this Act which deal with the right of a data subject to access information from a data controller; “teacher” includes a head teacher and the principal of a school to whom disclosure is or may be made as a result of, or with a view to, an inquiry by or on behalf of that person made in the exercise of a power conferred by law; “the relevant conditions” in relation to the processing of personal data, means the conditions \n (a) that the data is not processed to support measures or decisions with respect to particular individuals, and \n (b) that the data is not processed in the way that substantial damage or distress is caused or is likely to be caused to the data subject; and “third party” in relation to personal data, means a person other than \n(a) the data subject, \n(b) the data controller, or \n(c) any data processor or other person authorised to process data for the data controller or processor."
+        ]
     },
     {
-        "header": "",
-        "sectionheader": "",
-        "sectionnumber": 61,
-        "content": []
+        "header": "Miscellaneous and general provisions",
+        "sectionheader": "Transitional provisions",
+        "sectionnumber": 97,
+        "content": [ "(1) A data controller incorporated or established after the commencement of this Act shall be required to register as a data controller within twenty days of the commencement of business. ",
+        "(2) A data controller in existence at the commencement of this Act shall be required to register as a data controller within three months after the commencement of this Act."]
     },
     {
-        "header": "",
-        "sectionheader": "",
-        "sectionnumber": 61,
-        "content": []
+        "header": "Miscellaneous and general provisions",
+        "sectionheader": "Repeals and savings",
+        "sectionnumber": 98,
+        "content": [ "(1) Sections 44 to 49, 51, 52, 56 and 57 of the National Identity Register Act, 2008 (Act 750) are hereby repealed.",
+        "(2) Section 18 (1), (g) and (h) of the National Identification Authority Act, 2006, (Act 707) is hereby repealed.",
+        "(3) Sections 34 (1), 38 and 40 of the Credit Reporting Act, 2007 (Act 726) are hereby repealed.",
+        "(4) Despite the repeal of \n(a) sections 44 to 49, 51, 52, 56 and 57 of the National Identity Register Act, 2008 (Act 750), \n(b) section 18 (1) (g) and (h) of the National Identification Authority Act, 2006 (Act 707), and \n(c) sections 34 (1), 38 and 40 of the Credit Reporting Act, 2007 (Act 726), the Regulations, bye-laws, notices, orders, directions, appointments or any other act lawfully made or done under the repealed provisions and in force immediately before the commencement of this Act shall be considered to have been made or done under this Act and shall continue to have effect until reviewed, cancelled or terminated"]
     },
     {
-        "header": "",
-        "sectionheader": "",
-        "sectionnumber": 61,
-        "content": []
+        "header": "Miscellaneous and general provisions",
+        "sectionheader": "Commencement",
+        "sectionnumber": 99,
+        "content": [ "The Minister shall specify the date when this Act shall come into force by publication in the Gazette."]
     },
     {
-        "header": "",
+        "header": "Miscellaneous and general provisions",
         "sectionheader": "",
-        "sectionnumber": 61,
-        "content": []
-    },
-    {
-        "header": "",
-        "sectionheader": "",
-        "sectionnumber": 61,
-        "content": []
-    },
-    {
-        "header": "",
-        "sectionheader": "",
-        "sectionnumber": 61,
-        "content": []
-    },
-    {
-        "header": "",
-        "sectionheader": "",
-        "sectionnumber": 61,
-        "content": []
-    },
-    {
-        "header": "",
-        "sectionheader": "",
-        "sectionnumber": 61,
-        "content": []
-    },
-    {
-        "header": "",
-        "sectionheader": "",
-        "sectionnumber": 61,
-        "content": []
-    },
-    {
-        "header": "",
-        "sectionheader": "",
-        "sectionnumber": 61,
-        "content": []
-    },
-    {
-        "header": "",
-        "sectionheader": "",
-        "sectionnumber": 61,
-        "content": []
-    },
-    {
-        "header": "",
-        "sectionheader": "",
-        "sectionnumber": 61,
-        "content": []
-    },
-    {
-        "header": "",
-        "sectionheader": "",
-        "sectionnumber": 61,
-        "content": []
-    },
-    {
-        "header": "",
-        "sectionheader": "",
-        "sectionnumber": 61,
-        "content": []
-    },
-    {
-        "header": "",
-        "sectionheader": "",
-        "sectionnumber": 61,
-        "content": []
-    },
-    {
-        "header": "",
-        "sectionheader": "",
-        "sectionnumber": 61,
-        "content": []
-    },
-    {
-        "header": "",
-        "sectionheader": "",
-        "sectionnumber": 61,
-        "content": []
-    },
-    {
-        "header": "",
-        "sectionheader": "",
-        "sectionnumber": 61,
-        "content": []
-    },
-    {
-        "header": "",
-        "sectionheader": "",
-        "sectionnumber": 61,
-        "content": []
-    },
-    {
-        "header": "",
-        "sectionheader": "",
-        "sectionnumber": 61,
-        "content": []
-    },
-    {
-        "header": "",
-        "sectionheader": "",
-        "sectionnumber": 61,
-        "content": []
-    },
-    {
-        "header": "",
-        "sectionheader": "",
-        "sectionnumber": 61,
-        "content": []
-    },
-    {
-        "header": "",
-        "sectionheader": "",
-        "sectionnumber": 61,
+        "sectionnumber": 100,
         "content": []
     }
 ]
